@@ -1,0 +1,15 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_ext_parking_garage_rail_top_8m" materials="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_rail" />
+	
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="rp_com_ext_parking_garage_rail_top_8m"/>
+			<object name="g_g" collision_type="mesh_mopp"/>
+		
+        </body>
+    </bodies>
+	
+    <graphics>
+        <object enabled="true" name="g_g" shadow_caster="true"/>
+    </graphics>
+</dynamic_object>

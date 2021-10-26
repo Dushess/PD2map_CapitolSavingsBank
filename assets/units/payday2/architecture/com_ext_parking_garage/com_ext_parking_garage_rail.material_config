@@ -1,0 +1,5 @@
+<materials version="3">
+    <material name="mat_rail" render_template="generic:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_rail_df"/>
+    </material>
+</materials>

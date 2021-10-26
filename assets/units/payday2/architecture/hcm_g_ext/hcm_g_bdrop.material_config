@@ -1,0 +1,7 @@
+<materials version="3">
+    <material name="mat_hcm_g_bdrop" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/architecture/hcm_g_ext/hcm_g_bdrop_df"/>
+        <bump_normal_texture file="units/payday2/architecture/hcm_g_ext/hcm_g_bdrop_nm"/>
+    </material>
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+</materials>
