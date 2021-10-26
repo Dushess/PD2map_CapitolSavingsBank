@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<physic_effects>
+
+	<push name="exp_push" velocity="( dir( target - param3 ) + ( param4 * 0.5 ) ) * (1 - clamp( ( ( len( target - param3 ) / param1 )), 0, 1 )) * 500" at="param3" mass="param2"/>
+	
+	<!-- 
+	<rot_accelerate name ="rnd_rot" acceleration="Z*param4*sin(t*10)" />
+	<accelerate name="antigravity" acceleration="Z*982" />
+	<accelerate name="downgravity" acceleration="Z*-982*10" />
+	<damp name="damp" time="4" position="vector(0,0,1000)"/>
+	<accelerate name="to" acceleration="vector(0,0,1000)-target"/>
+	-->
+	
+	<effect>
+		<body action="exp_push"/>
+	</effect>
+</physic_effects>

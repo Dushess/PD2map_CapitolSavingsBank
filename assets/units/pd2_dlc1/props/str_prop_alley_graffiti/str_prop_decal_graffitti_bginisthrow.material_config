@@ -1,0 +1,5 @@
+<materials version="3">
+    <material name="mat_graffitti_bginisthrow" render_template="decal:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginisthrow_df"/>
+    </material>
+</materials>

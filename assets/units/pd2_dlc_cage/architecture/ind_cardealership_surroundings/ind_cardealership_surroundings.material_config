@@ -1,0 +1,40 @@
+<materials version="3">
+	<material name="mat_aluminium" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_facade/ind_cardealership_facade_aluminium_df"/>
+		<bump_normal_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_facade/ind_cardealership_facade_aluminium_nm"/>
+		<reflection_texture file="units/payday2/cubemaps/cubemap_steel" type="cubemap"/>
+		<variable name="environment_settings" type="vector3" value="1 0 2"/>
+	</material>
+	<material name="mat_grass" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_grass_df"/>
+		<bump_normal_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_grass_nm"/>
+	</material>
+	<material name="mat_whiteconcrete" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_marble_df"/>
+		<bump_normal_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_marble_nm"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+	<material name="mat_pavement" render_template="generic:BLEND_DIFFUSE:BLEND_MASK_SEPERATE:BLEND_NORMAL:BLEND_SMOOTH:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" version="2">
+		<diffuse_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_asphalt_02_df"/>
+		<diffuse_layer0_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_asphalt_df"/>
+		<diffuse_layer1_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/mask_df"/>
+		<bump_normal_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_asphalt_02_nm"/>
+		<normal_layer0_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_asphalt_nm"/>
+	</material>
+	<material name="mat_concrete" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_concrete_df"/>
+		<bump_normal_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_concrete_nm"/>
+	</material>
+	<material name="mat_curbs" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_curbs_df"/>
+		<bump_normal_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_curbs_nm"/>
+	</material>
+	<material name="mat_road" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_road_df"/>
+		<bump_normal_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_road_nm"/>
+	</material>
+	<material name="mat_speedbump" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_speedbump_df"/>
+		<bump_normal_texture file="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings_speedbump_nm"/>
+	</material>
+</materials>

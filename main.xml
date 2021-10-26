@@ -1,0 +1,131 @@
+<table name="US Capitol Savings Bank">
+	<Localization default="english.txt" directory="loc"/>
+	<level ai_group_type="America" briefing_dialog="" id="us-capital" intro_event="" max_bags="20">
+		<add file="levels/us-capital/add.xml"/>
+		<assets/>
+		<include directory="levels/us-capital">
+			<file file="world.world" type="generic_xml"/>
+			<file file="continents.continents" type="custom_xml"/>
+			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
+			<file file="world_sounds.world_sounds" type="generic_xml"/>
+			<file file="world_cameras.world_cameras" type="custom_xml"/>
+			<file file="editor_only/editor_only.continent" type="custom_xml"/>
+			<file file="editor_only/editor_only.mission" type="generic_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="cover_data.cover_data" type="custom_xml"/>
+			<file file="environments/default.environment" type="custom_xml"/>
+		</include>
+		<outro_event>
+			<value_node value=""/>
+		</outro_event>
+		<packages>
+			<value_node value="levels/narratives/vlad/nightclub/world/world"/>
+			<value_node value="levels/narratives/e_framing_frame/stage_3/world/world"/>
+			<value_node value="levels/instances/unique/hox_estate_security_room_door/world/world"/>
+			<value_node value="levels/narratives/e_framing_frame/stage_3/world"/>
+			<value_node value="levels/instances/unique/red/red_camera_room/world/world"/>
+			<value_node value="levels/instances/unique/dah/dah_security_room5/world/world"/>
+			<value_node value="levels/narratives/bain/rvd/stage2/mkp/mkp"/>
+			<value_node value="levels/narratives/h_firestarter/stage_3/pc_only/pc_only"/>
+			<value_node value="levels/narratives/locke/tag/shadow_caster/shadow_caster"/>
+			<value_node value="levels/narratives/vlad/nightclub/world"/>
+			<value_node value="levels/narratives/h_alex_must_die/stage_2/pc_only/pc_only"/>
+			<value_node value="levels/instances/unique/red/red_server_room/world/world"/>
+			<value_node value="levels/narratives/armadillo/arm_cro/pc_only/pc_only"/>
+			<value_node value="levels/instances/unique/bph/bph_c4_doubledoor/world/world"/>
+			<value_node value="levels/narratives/vlad/nightclub/pc_only/pc_only"/>
+			<value_node value="levels/instances/unique/chill/dragan_stage_01/world/world"/>
+			<value_node value="levels/instances/unique/dark/tunnel_room/world/world"/>
+			<value_node value="levels/narratives/dentist/mia/stage2/world"/>
+			<value_node value="levels/instances/unique/brb/brb_deposit_room/world/world"/>
+			<value_node value="levels/narratives/short2/stage2/backdrop/backdrop"/>
+			<value_node value="levels/narratives/h_alex_must_die/stage_2/world"/>
+			<value_node value="levels/narratives/e_election_day/stage_2/pc_only/pc_only"/>
+			<value_node value="levels/narratives/short1/stage1/lighting/lighting"/>
+			<value_node value="levels/instances/unique/flat/window_planks/world/world"/>
+			<value_node value="levels/instances/unique/chill/chill_slot_machine/world/world"/>
+			<value_node value="levels/narratives/bain/big/props/props"/>
+			<value_node value="levels/narratives/e_election_day/stage_1/mt_art/mt_art"/>
+			<value_node value="levels/narratives/e_election_day/stage_2/world"/>
+			<value_node value="levels/narratives/e_election_day/stage_3/new_mall/new_mall"/>
+			<value_node value="levels/instances/unique/cane/cane_trap_flame/world/world"/>
+			<value_node value="levels/instances/unique/chill/duke/world/world"/>
+			<value_node value="levels/narratives/e_framing_frame/stage_3/pc_only/pc_only"/>
+			<value_node value="levels/narratives/classics/red2/env/env"/>
+			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
+			<value_node value="levels/narratives/classics/flat/flt_backdrop/flt_backdrop"/>
+			<value_node value="levels/narratives/h_firestarter/stage_3/world/world"/>
+			<value_node value="levels/narratives/dentist/mus/world/world"/>
+			<value_node value="levels/narratives/classics/flat/world/world"/>
+			<value_node value="levels/narratives/locke/brb/props/props"/>
+			<value_node value="levels/narratives/bain/big/world/world"/>
+			<value_node value="levels/narratives/vlad/four_stores/world/world"/>
+		</packages>
+		<script_data_mods directory="scriptdata">
+			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+		</script_data_mods>
+	</level>
+	<narrative briefing_event="" contact="bain" id="US Capitol Savings Bank">
+		<chain>
+			<table level_id="us-capital" type="d" type_id="heist_type_assault"/>
+		</chain>
+		<contract_cost>
+			<value_node value="4000"/>
+			<value_node value="8000"/>
+			<value_node value="20000"/>
+			<value_node value="40000"/>
+			<value_node value="100000"/>
+			<value_node value="100000"/>
+			<value_node value="100000"/>
+		</contract_cost>
+		<crimenet_callouts>
+			<value_node value="nothing"/>
+		</crimenet_callouts>
+		<crimenet_videos>
+			<value_node value="cn_branchbank2"/>
+		</crimenet_videos>
+		<debrief_event>
+			<value_node value=""/>
+		</debrief_event>
+		<experience_mul>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="3"/>
+			<value_node value="3"/>
+			<value_node value="3"/>
+		</experience_mul>
+		<max_mission_xp>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+			<value_node value="8000"/>
+		</max_mission_xp>
+		<min_mission_xp>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+			<value_node value="2000"/>
+		</min_mission_xp>
+		<payout>
+			<value_node value="6000"/>
+			<value_node value="12000"/>
+			<value_node value="30000"/>
+			<value_node value="50000"/>
+			<value_node value="60000"/>
+			<value_node value="60000"/>
+			<value_node value="60000"/>
+		</payout>
+	</narrative>
+</table>

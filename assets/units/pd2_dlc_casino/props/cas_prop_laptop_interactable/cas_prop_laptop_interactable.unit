@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<unit type="cas" slot="1">
+  <object file="units/pd2_dlc_casino/props/cas_prop_laptop_interactable/cas_prop_laptop_interactable" />
+  <network sync="spawn"/>
+  <dependencies>
+  	<depends_on material_config="units/pd2_dlc_casino/props/cas_prop_laptop_interactable/cas_prop_laptop_interactable_no_outline" />
+  </dependencies>
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+    <extension name="damage" class="UnitDamage" />
+    <extension name="interaction" class="UseInteractionExt">
+    	<var name="tweak_data" value="cas_use_usb" />
+    </extension>
+  </extensions>
+</unit>

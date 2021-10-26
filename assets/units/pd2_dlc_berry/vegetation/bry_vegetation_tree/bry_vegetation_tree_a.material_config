@@ -1,0 +1,18 @@
+<materials version="3">
+    <material name="mat_tree" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:INSTANCED:NORMALMAP:VEGETATION_BENDING" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/vegetation/bry_vegetation_tree/bry_vegetation_tree_df"/>
+        <bump_normal_texture file="units/pd2_dlc_berry/vegetation/bry_vegetation_tree/bry_vegetation_tree_nm"/>
+        <variable value="0.5" type="scalar" name="speed"/>
+        <variable value="7.6920003890991 0.16800001263618 0" type="vector3" name="detail_settings"/>
+        <variable value="11.999000549316 0.34600001573563 0" type="vector3" name="branch_settings"/>
+        <variable value="0.05" type="scalar" name="alpha_ref"/>
+    </material>
+    <material name="mat_tree_bilboard_a" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:INSTANCED" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/vegetation/bry_vegetation_tree/bry_vegetation_tree_a_bilboard_df"/>
+        <variable value="0.024000000208616" type="scalar" name="alpha_ref"/>
+    </material>
+    <material name="mat_tree_bilboard_b" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:INSTANCED" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/vegetation/bry_vegetation_tree/bry_vegetation_tree_b_bilboard_df"/>
+        <variable value="0.024000000208616" type="scalar" name="alpha_ref"/>
+    </material>
+</materials>

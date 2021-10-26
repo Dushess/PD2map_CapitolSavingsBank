@@ -1,0 +1,9 @@
+<unit type="brb" slot="1" >
+    <object file="units/pd2_dlc_brb/vehicles/brb_vehicle_car_compact/brb_vehicle_car_compact" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+		<extension name="damage" class="UnitDamage" />
+    </extensions>
+</unit>
+
+

@@ -1,0 +1,39 @@
+<materials version="3" group="compact">
+    <material name="mtr_decals" render_template="decal:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/payday2/vehicles/str_vehicle_car_compact/decals_df"/>
+    </material>
+    <material render_template="generic:BLEND_DIFFUSE:BLEND_MASK_CONTROL:BLEND_NORMAL:DIFFUSE_TEXTURE:NORMALMAP:WORLD_UP_BLEND" version="2" name="mtr_compact">
+        <diffuse_texture file="units/pd2_dlc_brb/terrain/brb_terrain_snow_texture/brb_snow_df"/>
+        <bump_normal_texture file="units/pd2_dlc_brb/terrain/brb_terrain_snow_texture/brb_snow_nm"/>
+        <diffuse_layer0_texture file="units/payday2/vehicles/str_vehicle_car_compact/str_vehicle_car_compact_df"/>
+        <variable type="scalar" name="world_up_blend_bias" value="2.2899999488145"/>
+        <variable type="vector3" name="blend_control" value="0.1499999910593 0 0"/>
+        <normal_layer0_texture file="units/payday2/vehicles/str_vehicle_car_compact/str_vehicle_car_compact_nm"/>
+    </material>
+    <material render_template="generic:BLEND_DIFFUSE:BLEND_MASK_CONTROL:BLEND_NORMAL:DIFFUSE_TEXTURE:NORMALMAP:WORLD_UP_BLEND" version="2" name="mtr_compact_lod">
+        <diffuse_texture file="units/pd2_dlc_brb/terrain/brb_terrain_snow_texture/brb_snow_df" mip="4"/>
+        <bump_normal_texture file="units/pd2_dlc_brb/terrain/brb_terrain_snow_texture/brb_snow_nm" mip="4"/>
+        <diffuse_layer0_texture file="units/payday2/vehicles/str_vehicle_car_compact/str_vehicle_car_compact_df" mip="4"/>
+        <variable type="scalar" name="world_up_blend_bias" value="2.2899999488145"/>
+        <variable type="vector3" name="blend_control" value="0.1499999910593 0 0"/>
+        <normal_layer0_texture file="units/payday2/vehicles/str_vehicle_car_compact/str_vehicle_car_compact_nm" mip="4"/>
+    </material>
+
+    <material name="mtr_glass" render_template="opacity:CUBE_ENVIRONMENT_MAPPING:CUBE_FRESNEL:DIFFUSE_TEXTURE:DOUBLE_SIDED:OPACITY_FADE" version="2">
+        <variable value="0.55000001192093 1 0.37000000476837" type="vector3" name="fresnel_settings"/>
+        <opacity_texture file="units/payday2/glass/glass_clear_vehicle_op"/>
+        <diffuse_texture file="units/payday2/glass/glass_clear_vehicle_df"/>
+        <reflection_texture type="cubemap" global_texture="current_global_texture"/>
+        <variable value="10 4000 0" type="vector3" name="opacity_fade"/>
+    </material>
+    <material name="mtr_glass_breakable" render_template="opacity:CUBE_ENVIRONMENT_MAPPING:CUBE_FRESNEL:DIFFUSE_TEXTURE:DOUBLE_SIDED:NORMALMAP:OPACITY_FADE" version="2">
+        <variable value="2 1 0.59999996423721" type="vector3" name="fresnel_settings"/>
+        <opacity_texture file="units/payday2/glass/glass_shattered_op"/>
+        <diffuse_texture file="units/payday2/glass/glass_shattered_df"/>
+        <bump_normal_texture file="units/payday2/glass/glass_shattered_nm"/>
+        <reflection_texture type="cubemap" global_texture="current_global_texture"/>
+        <variable value="10 4000 0" type="vector3" name="opacity_fade"/>
+    </material>
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+</materials>
+

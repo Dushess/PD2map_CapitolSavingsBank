@@ -1,0 +1,8 @@
+	{
+	"heist_US Capitol Savings Bank_name" : "U.S. Capitol Savings Bank"
+	"heist_US Capitol Savings Bank_brief" : "This is another bank branch in Washington. You know the drill; go inside, put your mask on and empty the vault. This one even looks like Harvest&Trustee, but as I seen they're more advanced, so be careful. You just cannot open the vault suddenly. They have time-lock, it means outside control... Yeah. But I'm sure, we can deal with this. Now, go get that money!"
+	"heist_us-capital_name" : "U.S. Capitol Savings Bank"
+	"heist_us-capital_brief" : "This is another bank branch in Washington. You know the drill; go inside, put your mask on and empty the vault. This one even looks like Harvest&Trustee, but as I seen they're more advanced, so be careful. You just cannot open the vault suddenly. They have time-lock, it means outside control... Yeah. But I'm sure, we can deal with this. Now, go get that money!"
+	"heist_us-capital_briefing_name" : "U.S. Capitol Savings Bank"
+	"heist_us-capital_briefing_brief" : "Today guys, we gonna hit something new for us. United States Capitol Savings Bank, another medium-class bank around Washington D.C. By looking on this I even caught myself on funny thing: It is probably former H&T building, so... we just got bankrupt those branch in this district? Huh. It's some other bank, slightly changed style, but looks familiar... \n Alright guys, time to get our job done! Get inside, take a look at their stuff and find a way into the vault. \n And yes, good luck."
+	}

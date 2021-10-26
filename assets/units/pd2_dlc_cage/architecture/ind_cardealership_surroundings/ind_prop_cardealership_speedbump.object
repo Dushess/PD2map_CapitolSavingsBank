@@ -1,0 +1,20 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_cardealership_surroundings" orientation_object="rp_ind_prop_cardealership_speedbump" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_ind_prop_cardealership_speedbump" />
+			<object name="c_convex_01" collision_type="convex" padding="-2.5" />
+		</body>
+		<body name="body_nav_walk" add_ray_type="ai_vision" enabled="true" template="nav_walk">
+			<object name="rp_ind_prop_cardealership_speedbump" />
+			<object name="c_nav_walk_01" collision_type="mesh_mopp" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="plastic">
+		<decal_mesh name="dm_plastic" enabled="true" material="plastic" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_g" enabled="true" />
+		<object name="s_s" enabled="true" shadow_caster="true" />
+	</graphics>
+</dynamic_object>

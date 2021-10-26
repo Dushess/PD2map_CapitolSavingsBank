@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<physic_effects>
+	<push name="core_sequencemanager_push" velocity="param1" mass="param2"/>
+	<effect>
+		<unit action="core_sequencemanager_push"/>
+	</effect>
+</physic_effects>

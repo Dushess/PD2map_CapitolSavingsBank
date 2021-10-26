@@ -1,0 +1,11 @@
+<dynamic_object>
+    <diesel orientation_object="rp_str_prop_decal_graffitti_bginisthrow" materials="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_bginisthrow" />
+    <bodies>
+        <body enabled="true" template="editor" name="editor_body" >
+            <object collision_type="box" name="c_box_editor" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_g" />
+    </graphics>
+</dynamic_object>
