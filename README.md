@@ -22,8 +22,8 @@ We starting in casing mode.
   + (Both variants) Operator satisfied and tell one of phrases, we ending the conversation same way. Then we can continue. If not, operator sends 2 additional guards on a car (40% chance, if we has more than 1 civilians killed).
   + Variant 1 (breaking keycard panel) has option to make them fools with costuming and confirming the story. 
   + Variant 2 (faulty timelock test) is not, continuing is loud only. >>>Semi-fixed variations for this event. Described in dedicated section below.
-+ 6th objective is wait for timelock and then enter the codes on drums (12 seconds action). And then open up the door with main handle (1 second action).
-+ 7th objective - secure the loot and escape.
++ 6th objective: wait for timelock and then enter the codes on drums (12 seconds action). And then open up the door with main handle (1 second action).
++ 7th objective: secure the loot and escape.
 
 ---(on loud) Differences is: 
 
@@ -44,7 +44,8 @@ We starting in casing mode
 + 4th objective: patching Bain to the phone (same 1 second) and he gonna make a call to GenSec to inform about unplanned urge to open up the vault. 
 Reason is 'big client' with a deposit injection, want to do it today, and TSU is not have enough space already for his stack of cash. Asks GenSec to move planned time a day early. Then we recieving clearance and new opening time(basically useless info for gameplay, might be complicated and low important to implement). Dialogue proceeds and ends as written in scripts file. Random variations are free.
 + 5th objective: same activating timelock with cards and search for door codes.
-+ 6th and 7th objective - copied from plan A.
++ 6th objective: wait for timelock and then after thermal drill finished -- open up the door with main handle (1 second action).
++ 7th objective: secure the loot and escape.
 
 TECHNICAL DATA:
 We need to save 2 keycards for vault door, 1 from manager(maybe give one to director too?), 2 stored in safes of manager and director. In plan B we have additional one in Security room.
