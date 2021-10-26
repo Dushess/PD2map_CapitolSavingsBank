@@ -1,0 +1,6 @@
+<unit type="com" slot="1" >
+    <object file="units/payday2/architecture/com_int_basement/com_int_basement_garage_beam_8m" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

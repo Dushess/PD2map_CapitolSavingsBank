@@ -1,0 +1,15 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_int_basement_garage_beam_8m" materials="units/payday2/architecture/com_int_basement/com_int_basement_wall" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+			<object name="rp_com_int_basement_garage_beam_8m"/>
+            <object collision_type="box" name="c_box_000" padding="-2.5" />
+        </body>
+    </bodies>
+    <decal_surfaces>
+        <decal_mesh enabled="true" name="dm_plaster" material="plaster" />
+    </decal_surfaces>
+    <graphics>
+        <object enabled="true" name="g_g" instance_struct="world_tm"/>
+    </graphics>
+</dynamic_object>

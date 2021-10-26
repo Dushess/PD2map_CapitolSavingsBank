@@ -1,0 +1,6 @@
+<unit type="com" slot="1" >
+    <object file="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_8x8m_blend" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

@@ -1,0 +1,6 @@
+<unit type="lcm" slot="1" >
+    <object file="units/payday2/architecture/lcm_int_barista_corner/lcm_int_barista_corner" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

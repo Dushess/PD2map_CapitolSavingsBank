@@ -1,0 +1,17 @@
+<materials version="3">
+    <material name="mat_walls" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:INSTANCED:NORMALMAP:RL_CORE_ENVIRONMENT" version="2">
+        <diffuse_texture file="units/payday2/architecture/com_int_basement/com_int_basement_wall_df"/>
+        <bump_normal_texture file="units/payday2/architecture/com_int_basement/com_int_basement_wall_nm"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+    </material>
+    <material name="mat_walls_not_inst" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT" version="2">
+        <diffuse_texture file="units/payday2/architecture/com_int_basement/com_int_basement_wall_df"/>
+        <bump_normal_texture file="units/payday2/architecture/com_int_basement/com_int_basement_wall_nm"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+    </material>
+    <material name="mat_walls_not_inst_lod" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT" version="2">
+        <diffuse_texture file="units/payday2/architecture/com_int_basement/com_int_basement_wall_df" mip="4"/>
+        <bump_normal_texture file="units/payday2/architecture/com_int_basement/com_int_basement_wall_nm" mip="4"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+    </material>
+</materials>

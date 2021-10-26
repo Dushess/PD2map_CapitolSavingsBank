@@ -1,0 +1,6 @@
+<unit type="lcm" slot="1" >
+    <object file="units/payday2/architecture/lcm_int_stores/lcm_store_4" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>
