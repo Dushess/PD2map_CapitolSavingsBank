@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/bank/ticket_dispenser/ticket_dispenser_01" orientation_object="rp_ticket_dispenser_01" />
+  <sequence_manager file="units/world/props/bank/ticket_dispenser/ticket_dispenser_01" />  
+  <bodies>
+    <body name="static_body" enabled="true" template="static">
+      <object name="rp_ticket_dispenser_01" />
+      <object name="c_mesh_mopp" collision_type="mesh_mopp" />
+    </body>
+  </bodies>
+  <decal_surfaces default_material="metal_chassis" static="true">
+    <decal_mesh name="dm_plastic" enabled="true" material="plastic" />
+    <decal_mesh name="dm_metal_chassis" enabled="true" material="metal_chassis" />
+  </decal_surfaces>
+  <graphics>
+    <object name="g_ticket_dispenser_01" enabled="true"  />
+    <object name="g_ticket_dispenser_02" enabled="true"  />
+    <object name="g_ticket_dispenser_03" enabled="true"  />
+	<object name="g_ticket_dispenser_02_display" enabled="false"  />
+  </graphics>
+</dynamic_object> 

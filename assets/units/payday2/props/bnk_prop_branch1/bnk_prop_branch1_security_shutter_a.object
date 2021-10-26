@@ -1,0 +1,31 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_branch1_security_shutter_a" materials="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter" />
+	<sequence_manager file="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_a" />
+	<animations>
+		<animation_group name="shutter" enabled="false">
+			<object name="a_shutter" />
+		</animation_group>
+	</animations>
+	<bodies>
+		<body name="static_body" template="static" enabled="true">
+			<object name="rp_bnk_prop_branch1_security_shutter_a" />
+			<object name="c_box_unit" collision_type="box" padding="-2.5"/>
+		</bodu>
+		<body name="shutter_body" template="animated" enabled="false">
+			<object name="a_shutter"/>
+			<object name="c_box_shutter" collision_type="box" padding="-2.5"/>
+		</body>
+		<body name="editor_body" template="editor" enabled="true">
+			<object name="a_shutter"/>
+			<object name="c_box_shutter" collision_type="box"/>
+		</body>
+	</bodies>
+	<decal_surfaces>
+		<decal_mesh name="dm_metal_shutter" enabled="false" material="metal"/>
+		<decal_mesh name="dm_metal_unit" 	enabled="true" 	material="metal"/>
+	</decal_surfaces>
+    <graphics>
+		<object name="g_shutter" enabled="true"/>
+		<object name="g_unit" enabled="true"/>
+    </graphics>
+</dynamic_object>

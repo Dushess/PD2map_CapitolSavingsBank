@@ -1,0 +1,10 @@
+<materials version="3">
+    <material render_template="generic:DIFFUSE_TEXTURE:INSTANCED:NORMALMAP" decal_material="cloth" version="2" name="office_chair_boss">
+        <diffuse_texture file="units/world/props/office/chair/office_chair_boss_df"/>
+        <bump_normal_texture file="units/world/props/office/chair/office_chair_boss_nm"/>
+    </material>
+    <!--material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" decal_material="cloth" version="2" name="bosschair_metal">
+        <diffuse_texture file="units/world/props/office/chair/boss_chair_df"/>
+        <bump_normal_texture file="units/world/props/office/chair/boss_chair_nm"/>
+    </material-->
+</materials>

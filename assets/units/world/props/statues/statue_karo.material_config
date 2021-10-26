@@ -1,0 +1,7 @@
+<materials version="3">
+    <material name="statue_karo" decal_material="metal" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/world/props/statues/statue_karo_df"/>
+        <bump_normal_texture file="units/world/props/statues/statue_karo_nm"/>
+    </material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2"/>    
+</materials>

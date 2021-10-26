@@ -1,0 +1,10 @@
+<unit type="lxa" slot="1" >
+    <object file="units/payday2/props/lxa_prop_gallery_paintings/lxa_prop_painting4" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+        <extension name="damage" class="UnitDamage" />
+    </extensions>
+    <sounds>
+    	<soundsource name="snd" source="rp_lxa_prop_painting4" />
+    </sounds>
+</unit>

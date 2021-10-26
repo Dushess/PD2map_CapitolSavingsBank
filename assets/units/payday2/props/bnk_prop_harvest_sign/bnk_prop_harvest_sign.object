@@ -1,0 +1,16 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_harvest_sign" materials="units/payday2/props/bnk_prop_harvest_sign/bnk_prop_harvest_sign" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+            <object name="rp_bnk_prop_harvest_sign"/>
+            <object collision_type="box" name="c_box_000" padding="-2.5"/>
+        </body>
+    </bodies>
+	<decal_surfaces default_material="metal" static="true">
+	<decal_mesh name="dm_sheet_metal" material="sheet_metal" enabled="true"/>
+	</decal_surfaces> 
+    <graphics>
+        <object name="g_g" enabled="true"  shadow_caster="false" />
+		<object name="s_s" enabled="true"  shadow_caster="true"/>
+    </graphics>
+</dynamic_object>

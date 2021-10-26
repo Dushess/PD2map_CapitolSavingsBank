@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/office/computer/computer_tower" orientation_object="rp_computer_case" />
+  <bodies>
+    <body name="static_body" enabled="true" template="static">
+      <object name="rp_computer_case" />
+      <object name="c_box" collision_type="box" padding="-2" />
+    </body>
+  </bodies>
+  
+  <decal_surfaces static="true" default_material="metal_chassis">
+    <decal_mesh name="dm_dm" enabled="true" material="metal_chassis"/>
+  </decal_surfaces>
+  
+  <graphics>
+    <object name="g_g" enabled="true" shadow_caster="false" instance_struct="world_tm" />
+  </graphics>
+</dynamic_object> 

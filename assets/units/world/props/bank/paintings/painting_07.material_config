@@ -1,0 +1,17 @@
+<materials version="3">
+    <material version="2" decal_material="wood" name="painting_7" render_template="generic:DIFFUSE_TEXTURE">
+        <diffuse_texture file="units/world/props/bank/paintings/textures/painting_07_df"/>
+    </material>
+    <material render_template="opacity:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE" decal_material="glass_breakable" version="2" name="glass">
+        <opacity_texture file="units/world/props/bank/paintings/textures/glass_op"/>
+        <diffuse_texture file="units/world/props/bank/paintings/textures/glass_df"/>
+        <reflection_texture type="cubemap" global_texture="current_global_texture"/>
+    </material>
+    <material name="glass_shattered" decal_material="glass_breakable" version="2" render_template="opacity:CUBE_ENVIRONMENT_MAPPING:CUBE_FRESNEL:DIFFUSE_TEXTURE:NORMALMAP">
+        <variable value="2 1 0.59999996423721" type="vector3" name="fresnel_settings"/>
+        <opacity_texture file="units/payday2/glass/glass_shattered_2_op"/>
+        <diffuse_texture file="units/payday2/glass/glass_shattered_df"/>
+        <reflection_texture type="cubemap" global_texture="current_global_texture"/>
+        <bump_normal_texture file="units/payday2/glass/glass_shattered_nm"/>
+    </material>
+</materials>

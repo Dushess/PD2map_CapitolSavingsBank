@@ -1,0 +1,10 @@
+<materials version="3">
+    <material name="flower_pot" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:INSTANCED:VERTEX_COLOR" version="2">
+        <diffuse_texture file="units/world/props/hotel/flower_pot/palm_df"/>
+        <reflection_texture global_texture="current_global_texture" type="cubemap"/>
+        <variable value="1 0.99900007247925 19.700000762939" type="vector3" name="environment_settings"/>
+    </material>
+    <material name="leafs" render_template="generic:DIFFUSE_TEXTURE:INSTANCED:VERTEX_COLOR" version="2">
+        <diffuse_texture file="units/world/props/hotel/flower_pot/palm_df"/>
+    </material>
+</materials>

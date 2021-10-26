@@ -1,0 +1,6 @@
+<materials version="3">
+	<material name="are_prop_bathroom_papertoweldispenser" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2" >
+		<diffuse_texture file="units/payday2/props/are_prop_bathroom_papertoweldispenser/are_prop_bathroom_papertoweldispenser_df"/>
+		<bump_normal_texture file="units/payday2/props/are_prop_bathroom_papertoweldispenser/are_prop_bathroom_papertoweldispenser_nm"/>
+	</material>
+</materials>

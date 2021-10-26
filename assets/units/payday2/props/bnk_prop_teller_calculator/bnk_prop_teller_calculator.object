@@ -1,0 +1,23 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_teller_calculator" materials="units/payday2/props/bnk_prop_teller_calculator/bnk_prop_teller_calculator" />
+	<sequence_manager file="units/payday2/props/bnk_prop_teller_calculator/bnk_prop_teller_calculator" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="rp_bnk_prop_teller_calculator"/>	
+            <object collision_type="capsule" name="c_capsule_01" padding="-2.5" />
+            <object collision_type="convex" name="c_convex_01"  padding="-2.5" />
+        </body>
+        <body enabled="false" template="small_prop" name="dynamic_body" >
+			<object name="rp_bnk_prop_teller_calculator"/>
+            <object collision_type="capsule" name="c_capsule_01"  padding="-2.5" mass="1"/>
+            <object collision_type="convex" name="c_convex_01"  padding="-2.5" mass="0.25"/>
+        </body>		
+    </bodies>
+    <graphics>
+		<lod_object name="calc">
+			<object name="g_g" max_distance="500" lod="0" enabled="true" />
+			<object name="g_lod1" lod="1" enabled="true" />
+		</lod_object>
+		<object name="g_dmg" enabled="false" />		
+    </graphics>
+</dynamic_object>

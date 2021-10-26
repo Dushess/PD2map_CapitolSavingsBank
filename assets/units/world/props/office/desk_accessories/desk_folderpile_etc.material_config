@@ -1,0 +1,5 @@
+<materials version="3">
+    <material render_template="generic:DIFFUSE_TEXTURE:INSTANCED:VERTEX_COLOR" version="2" name="desk_folderpile">
+        <diffuse_texture file="units/world/props/office/desk_accessories/desk_folderpile_df"/>
+    </material>
+</materials>

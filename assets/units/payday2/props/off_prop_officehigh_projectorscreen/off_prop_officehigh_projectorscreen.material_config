@@ -1,0 +1,5 @@
+<materials version="3">
+    <material version="2" render_template="generic:DIFFUSE_TEXTURE" name="mat_projectorscreen">
+        <diffuse_texture file="units/payday2/props/off_prop_officehigh_projectorscreen/off_prop_officehigh_projectorscreen_df"/>
+    </material>
+</materials>

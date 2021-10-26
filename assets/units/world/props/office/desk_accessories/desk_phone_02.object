@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/office/desk_accessories/desk_phone_02" orientation_object="rp_desk_phone_02" />
+  <sequence_manager file="units/world/props/medium_prop" />
+  <bodies>
+    <body remove_ray_type="walk vis_graph" name="static_body" enabled="true" template="raycoll_static">
+	  <object name="rp_desk_phone_02"/>
+      <object name="c_convex" collision_type="convex" padding="-2"/>
+    </body>
+     <body name="dynamic_body" enabled="false" template="small_prop" pushed_by_mover="false">
+    	<object name="rp_desk_phone_02"/>
+		<object name="c_convex" collision_type="convex" material="plastic" padding="-2"/>
+    </body>
+  </bodies>
+  <decal_surfaces default_material="plastic">
+    <decal_mesh name="dm_plastic" enabled="true" material="plastic" />
+  </decal_surfaces>
+  <graphics>
+    <object name="g_g" enabled="true"  />
+  </graphics>
+</dynamic_object>

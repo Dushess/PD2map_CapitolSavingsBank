@@ -1,0 +1,13 @@
+<materials version="3">
+    <material name="mat_cloth_sign" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/props/str_prop_parking_signs/str_prop_parking_signs_df"/>
+        <bump_normal_texture file="units/payday2/props/str_prop_parking_signs/str_prop_parking_signs_nm"/>
+    </material>
+	<material name="mat_cloth_sign_inst" render_template="generic:DIFFUSE_TEXTURE:INSTANCED:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/props/str_prop_parking_signs/str_prop_parking_signs_df"/>
+        <bump_normal_texture file="units/payday2/props/str_prop_parking_signs/str_prop_parking_signs_nm"/>
+    </material>
+	<material name="shadow_caster_inst" render_template="shadow_caster_only:INSTANCED" version="2"/>
+	
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+</materials>

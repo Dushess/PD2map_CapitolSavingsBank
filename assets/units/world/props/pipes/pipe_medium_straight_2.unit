@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<unit type="fwb" slot="1">
+	<!--
+	<mass>
+		<spawn in="700" method="enable" out="800" />
+	</mass>
+	-->
+  <object file="units/world/props/pipes/pipe_medium_straight_2" />
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+  </extensions>
+</unit>

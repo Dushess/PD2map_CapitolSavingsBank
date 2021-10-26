@@ -1,0 +1,52 @@
+<dynamic_object>
+    <diesel orientation_object="rp_off_prop_officehigh_chair_standard" materials="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair" />
+    <sequence_manager file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard" />
+    <bodies>
+		<body name="dynamic_wheels" enabled="false" template="debris" ray="ignore" collides_with_mover="false">
+			<object name="c_convex_physics_01" collision_type="convex" mass="4" />
+			<object name="g_wheels" />
+		</body>
+		<body name="dynamic_seat" enabled="false" template="debris" ray="ignore" collides_with_mover="false">
+			<object name="c_convex_physics_02" collision_type="convex" mass="4" />
+			<object name="g_seat" />
+		</body>
+		<body name="dynamic_armrest_l" enabled="false" template="debris" ray="ignore" collides_with_mover="false">
+			<object name="c_box_physics_03" collision_type="box" mass="4" />
+			<object name="g_armrest_l" />
+		</body>
+		<body name="dynamic_armrest_r" enabled="false" template="debris" ray="ignore" collides_with_mover="false">
+			<object name="c_box_physics_04" collision_type="box" mass="4" />
+			<object name="g_armrest_r" />
+		</body>
+			
+		<body name="bullet" enabled="true" template="raycoll" collides_with_mover="false">
+			<object name="rp_off_prop_officehigh_chair_standard" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_02" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_03" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_04" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_05" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_06" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_07" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_08" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_09" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_10" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_11" collision_type="box" padding="-2.5" material="plastic" />
+			<object name="c_box_12" collision_type="box" padding="-2.5" material="plastic" />
+        </body>				
+		<body name="static_body_player" enabled="true" editable="true" template="static" remove_ray_type="bullet body">
+            <object name="rp_off_prop_officehigh_chair_standard" />
+			<object name="c_convex_staticblock" collision_type="convex" padding="-2.5"/>
+        </body>
+    </bodies>
+
+    <decal_surfaces>
+        <decal_mesh enabled="true" name="dm_cloth" material="cloth" />
+    </decal_surfaces>
+    <graphics>
+		<object name="g_armrest_l" 	enabled="true"/>
+		<object name="g_armrest_r" 	enabled="true"/>
+		<object name="g_wheels" 	enabled="true"/>
+		<object name="g_seat" 		enabled="true"/>
+    </graphics>
+</dynamic_object>

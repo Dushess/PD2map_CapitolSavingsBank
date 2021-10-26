@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<unit type="fwb" slot="1">
+  <object file="units/world/props/office/computer/computer_mouse" />
+	<mass>
+		<spawn in="700" method="enable" out="800" />
+	</mass>
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+    <extension name="damage" class="UnitDamage" />
+  </extensions>
+</unit>

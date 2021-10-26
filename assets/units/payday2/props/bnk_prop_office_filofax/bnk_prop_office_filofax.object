@@ -1,0 +1,21 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_office_filofax" materials="units/payday2/props/bnk_prop_office_filofax/bnk_prop_office_filofax" />
+    <sequence_manager file="units/payday2/props/bnk_prop_office_filofax/bnk_prop_office_filofax" />  
+	<bodies>
+        <body enabled="true" template="static" name="static" >
+			<object name="rp_bnk_prop_office_filofax" />
+            <object collision_type="box" name="c_box_01" padding="-2.5"/>
+			<object collision_type="capsule" name="c_capsule_01" padding="-1.25"/>
+		</body>	
+        <body enabled="false" template="debris" name="dynamic_fax" >
+            <object collision_type="box" name="c_box_01" padding="-1.25" mass="0.25"/>
+		</body>	
+        <body enabled="false" template="debris" name="dynamic_pen" >			
+            <object collision_type="capsule" name="c_capsule_01" padding="-1.25" mass="0.25"/>
+        </body>		
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_g" />	
+        <object enabled="true" name="g_pen" />
+    </graphics>
+</dynamic_object>

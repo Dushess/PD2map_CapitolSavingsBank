@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_teller" orientation_object="rp_bnk_prop_b1_teller" />
+	<sequence_manager file="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_teller" />
+	<bodies>
+		<body name="static_glass_01" enabled="true" template="static" remove_ray_type="vis_graph ai_vision">
+			<object name="rp_bnk_prop_b1_teller" />
+			<object name="c_box_glass_01" collision_type="box" padding="-2.5"/>
+		</body>
+		<body name="static_glass_02" enabled="true" template="static" remove_ray_type="vis_graph ai_vision">
+			<object name="rp_bnk_prop_b1_teller" />
+			<object name="c_box_glass_02" collision_type="box" padding="-2.5"/>
+		</body>
+		<body name="static_glass_03" enabled="true" template="static" remove_ray_type="vis_graph ai_vision">
+			<object name="rp_bnk_prop_b1_teller" />
+			<object name="c_box_glass_03" collision_type="box" padding="-2.5"/>
+		</body>
+		<body name="static_glass_04" enabled="true" template="static" remove_ray_type="vis_graph ai_vision">
+			<object name="rp_bnk_prop_b1_teller" />
+			<object name="c_convex_glass_04_a" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_glass_04_b" collision_type="convex" padding="-2.5"/>
+			<object name="c_box_glass_04" collision_type="box" padding="-2.5"/>
+		</body>
+	
+		<!-- body name="nav_body" enabled="true" template="nav_walk">
+			<object name="c_box_nav" collision_type="box" padding="-2.5"/>
+		</body -->
+		
+		<body name="static_body" enabled="true" template="static">
+			<object name="rp_bnk_prop_b1_teller" />
+			<object name="c_box_teller_01" collision_type="box" padding="-2.5"/>
+			<object name="c_box_teller_02" collision_type="box" padding="-2.5"/>
+			<object name="c_box_teller_03" collision_type="box" padding="-2.5"/>
+			<object name="c_box_teller_04" collision_type="box" padding="-2.5"/>
+			<object name="c_box_teller_05" collision_type="box" padding="-2.5"/>
+			<object name="c_convex_teller_01" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_teller_02" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_teller_03" collision_type="convex" padding="-2.5"/>
+		</body>
+	</bodies>
+	<decal_surfaces default_material="wood">
+		<decal_mesh name="dm_glass_01" enabled="true" material="glass_breakable"/>
+		<decal_mesh name="dm_glass_02" enabled="true" material="glass_breakable"/>
+		<decal_mesh name="dm_glass_03" enabled="true" material="glass_breakable"/>
+		<decal_mesh name="dm_glass_04" enabled="true" material="glass_breakable"/>
+		<decal_mesh name="dm_hard_wood" enabled="true" material="wood"/>
+		<decal_mesh name="dm_marble" enabled="true" material="marble"/>
+		<decal_mesh name="dm_metal" enabled="true" material="metal"/>
+		<decal_mesh name="dm_plastic" enabled="true" material="plastic"/>	
+	</decal_surfaces>
+	<graphics>
+		<object name="g_teller" enabled="true"/>
+		<object name="g_glass_01" enabled="true"/>
+		<object name="g_glass_02" enabled="true"/>
+		<object name="g_glass_03" enabled="true"/>
+		<object name="g_glass_04" enabled="true"/>
+	</graphics>
+</dynamic_object> 

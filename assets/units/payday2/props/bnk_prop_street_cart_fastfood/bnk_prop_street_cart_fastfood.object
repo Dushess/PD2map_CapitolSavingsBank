@@ -1,0 +1,178 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_street_cart_fastfood" materials="units/payday2/props/bnk_prop_street_cart_fastfood/bnk_prop_street_cart_fastfood" />
+    <sequence_manager file="units/payday2/props/bnk_prop_street_cart_fastfood/bnk_prop_street_cart_fastfood" />
+	
+	<animations>
+		<animation_group name="anim">
+			<object name="a_hinge_cart" />
+		</animation_group>
+	</animations>
+	
+    <bodies>
+        <body name="static_main_body" template="animated" enabled="true" > 
+			<!-- was static before animations-->
+			<object name="a_hinge_cart" />
+			<object name="c_box_cart_01" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_02" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_03" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_04" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_05" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_06" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_07" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_08" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_09" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_10" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_11" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_12" collision_type="box" padding="-2.5"/>			
+        </body>
+		
+        <body name="static_player_blocker" template="bag" keyframed="true" enabled="true" collision_class="bag_blocker">
+			<object name="a_hinge_cart" />
+			<object name="c_box_bag" collision_type="box" padding="-2.5"/>
+        </body>
+		
+        <body name="static_objects" template="static" enabled="true" >
+			<object name="rp_bnk_prop_street_cart_fastfood" />
+			<object name="c_box_shelf_01" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shelf_02" collision_type="box" padding="-2.5"/>
+			<object name="c_box_shelf_03" collision_type="box" padding="-2.5"/>
+			
+			<object name="c_capsule_container_01" 	collision_type="capsule" 	padding="-2.5"/>
+			<object name="c_box_container_02" 		collision_type="box" 		padding="-2.5"/>
+			<object name="c_box_container_03" 		collision_type="box" 		padding="-2.5"/>
+        </body>
+		
+        <body name="static_damaged" template="static" enabled="false" >
+        	<object name="rp_bnk_prop_street_cart_fastfood" />
+			<object name="c_box_support_dmg_01" collision_type="box" padding="-2.5"/>
+			<object name="c_convex_support_dmg_01" collision_type="convex" padding="-2.5"/>
+        </body>
+		
+        <body name="debri_wheel_01" template="debris"  enabled="false" >
+			<object name="c_convex_wheel_01" collision_type="convex" padding="-2.5"/>
+        </body>
+        <body name="debri_wheel_02" template="debris"  enabled="false" >
+			<object name="c_convex_wheel_02" collision_type="convex" padding="-2.5"/>
+        </body>
+        <body name="dynamic_trashcan" template="debris"  enabled="false" >
+			<object name="c_convex_trashcan" collision_type="convex" 	material="plastic" padding="-2.5"/>
+        </body>
+        <body name="dynamic_sign" template="debris"  enabled="false" >
+			<object name="c_convex_sign" collision_type="convex"		material="plastic" padding="-2.5"/>
+        </body>
+		
+        <body name="dynamic_container_01" template="debris"  enabled="false" >
+			<object name="c_capsule_container_01" collision_type="capsule" material="plastic" padding="-2.5"/>
+        </body>
+        <body name="dynamic_container_02" template="debris"  enabled="false" >
+			<object name="c_box_container_02" collision_type="box" material="plastic" padding="-2.5"/>
+        </body>
+        <body name="dynamic_container_03" template="debris"  enabled="false" >
+			<object name="c_box_container_03" collision_type="box" material="plastic" padding="-2.5"/>
+        </body>
+		
+		
+        <body name="dynamic_shelf_01" template="debris"  enabled="false" remove_ray_type="bullet">
+			<object name="c_box_shelf_01" collision_type="box" padding="-2.5"/>
+			<object name="g_dyn_shelf_01" />
+        </body>	
+        <body name="dynamic_shelf_02" template="debris"  enabled="false">
+			<object name="c_box_shelf_02" collision_type="box" padding="-2.5"/>
+			<object name="g_dyn_shelf_02" />
+        </body>	
+        <body name="dynamic_shelf_03" template="debris"  enabled="false">
+			<object name="c_box_shelf_03" collision_type="box" padding="-2.5"/>
+			<object name="g_dyn_shelf_03" />
+        </body>
+		
+		<!--
+        <body name="hinged_cart" template="dynamic"  enabled="false" >
+			<object name="a_hinge_cart" />
+			<object name="c_box_cart_01" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_02" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_03" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_04" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_05" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_06" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_07" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_08" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_09" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_10" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_11" collision_type="box" padding="-2.5"/>
+			<object name="c_box_cart_12" collision_type="box" padding="-2.5"/>
+        </body>
+		-->
+    </bodies>
+		
+	<decal_surfaces default_material="sheet_metal">
+		<decal_mesh name="dm_hardwood" 		enabled="true" material="hardwood"/>
+		<decal_mesh name="dm_sheet_metal" 	enabled="true" material="metal"/>
+	</decal_surfaces>
+	
+	<constraints>
+		<!-- Used with the "hinged_cart" (dynamic) body
+		<constraint name="hinge_cart" enabled="true" type="limited_hinge">
+			<param body_a="@world" body_b="hinged_cart"/>
+			<param pivot="position:a_hinge_cart"/>
+			<param min_angle="-15" max_angle="5" axis="xaxis:a_hinge_cart" twist_freedom="15"/>
+			<param damping="8" spring_constant="1000" min_restitution="0"/>
+		</constraint>
+		-->
+		
+		
+		<!--		
+		<constraint name="hinge_shelf_01" enabled="true" type="limited_hinge" internal_collision = "true">
+			<param body_a="hinged_cart" body_b="dynamic_shelf_01"/>
+			<param pivot="position:a_hinge_shelf_01"/>
+			<param min_angle="-75" max_angle="75" axis="xaxis:a_hinge_shelf_01" twist_freedom="0"/>
+			<param damping="10" spring_constant="100" min_restitution="0"/>
+		</constraint>	
+
+
+		
+		<constraint name="hinge_shelf_02" enabled="true" type="limited_hinge">
+			<param body_a="@world" body_b="dynamic_shelf_02"/>
+			<param pivot="position:a_hinge_shelf_02"/>
+			<param min_angle="-45" max_angle="95" axis="xaxis:a_hinge_shelf_02" twist_freedom="15"/>
+			<param damping="8" spring_constant="1000" min_restitution="0"/>
+		</constraint>
+		<constraint name="hinge_shelf_03" enabled="true" type="limited_hinge">
+			<param body_a="@world" body_b="dynamic_shelf_03"/>
+			<param pivot="position:a_hinge_shelf_03"/>
+			<param min_angle="-45" max_angle="95" axis="xaxis:a_hinge_shelf_03" twist_freedom="15"/>
+			<param damping="8" spring_constant="1000" min_restitution="0"/>
+		</constraint>-->	
+	</constraints>
+	
+    <graphics>
+		<!-- Support Parts -->
+        <object name="g_dest_remove" 		enabled="true"	/>
+        <object name="g_cart"		 		enabled="true"	/>
+		<object name="g_support" 			enabled="true"	/>
+		<object name="g_support_dmg" 		enabled="false" />
+		<object name="g_debris_wheel_01" 	enabled="true"  />
+		<object name="g_debris_wheel_01" 	enabled="true"  />
+		<object name="s_dest_remove" 	 	enabled="true" shadow_caster="true"/>
+		<object name="s_cart" 			 	enabled="true" shadow_caster="true"/>
+		<object name="s_support" 			enabled="true" shadow_caster="true"/>
+		<object name="s_support_dmg" 		enabled="false" shadow_caster="true"/>
+		<object name="s_debris_wheel_01" 	enabled="false" shadow_caster="true"/>
+		<object name="s_debris_wheel_02" 	enabled="false" shadow_caster="true"/>
+		
+		<!-- More parts that fly -->
+		<object name="g_dyn_container_01" 	enabled="true" />
+		<object name="g_dyn_container_02" 	enabled="true" />
+		<object name="g_dyn_container_03" 	enabled="true" />
+		<object name="g_dyn_sign" 			enabled="true" />
+		<object name="g_dyn_trashcan" 		enabled="true" />
+		
+		<!-- Hinged shelves -->
+		<object name="g_dyn_shelf_01" enabled="true" />
+		<object name="g_dyn_shelf_02" enabled="true" />
+		<object name="g_dyn_shelf_03" enabled="true" />
+		<object name="s_dyn_shelf_01" enabled="true" shadow_caster="true"/>
+		<object name="s_dyn_shelf_02" enabled="true" shadow_caster="true"/>
+		<object name="s_dyn_shelf_03" enabled="true" shadow_caster="true"/>
+		
+    </graphics>
+</dynamic_object>

@@ -1,0 +1,13 @@
+<dynamic_object>
+    <diesel orientation_object="rp_rp" materials="units/world/props/suburbia_wall_outlett_outlined/suburbia_wall_outlett" />
+    <sequence_manager file="units/world/props/suburbia_wall_outlett_outlined/suburbia_wall_outlett_outlined" />
+    <bodies>
+        <body enabled="true" template="editor" name="body" >
+            <object name="rp_rp" />
+            <object name="c_box_c" collision_type="box" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_g" />
+    </graphics>
+</dynamic_object>

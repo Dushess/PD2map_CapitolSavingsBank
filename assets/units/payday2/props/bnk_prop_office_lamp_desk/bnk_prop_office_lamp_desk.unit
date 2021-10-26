@@ -1,0 +1,10 @@
+<unit type="bnk" slot="1" >
+    <object file="units/payday2/props/bnk_prop_office_lamp_desk/bnk_prop_office_lamp_desk" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+        <extension class="UnitDamage" name="damage" />
+    </extensions>
+	<dependencies>
+		<depends_on effect="effects/particles/dest/sparks_lamp_dest" />
+	</dependencies>
+</unit>

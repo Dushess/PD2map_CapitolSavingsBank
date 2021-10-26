@@ -1,0 +1,14 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_teller_billshelf" materials="units/payday2/props/bnk_prop_teller_billshelf/bnk_prop_teller_billshelf" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="c_box_01" collision_type="box" padding="-2.5"/>
+        </body>
+    </bodies>
+	<decal_surfaces>
+		<decal_mesh name="dm_sheet_metal" enabled="true" material="sheet_metal"/>
+	</decal_surfaces>
+    <graphics>
+        <object enabled="true" name="g_g" />
+    </graphics>
+</dynamic_object>

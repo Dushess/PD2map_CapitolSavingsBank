@@ -1,0 +1,16 @@
+<dynamic_object>
+	<diesel materials="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_teller" orientation_object="rp_bnk_prop_b1_desk" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="c_box_01" collision_type="box" padding="-2.5"/>
+			<object name="c_box_02" collision_type="box" padding="-2.5"/>
+        </body>
+    </bodies>
+    <decal_surfaces>
+		<decal_mesh name="dm_marble" enabled="true" material="marble"/>
+		<decal_mesh name="dm_wood" enabled="true" material="wood"/>
+    </decal_surfaces>
+    <graphics>
+		<object name="g_desk" enabled="true"/>
+    </graphics>
+</dynamic_object>

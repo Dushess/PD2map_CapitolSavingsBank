@@ -1,0 +1,24 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_office_shelf_2m_b" materials="units/payday2/props/bnk_prop_office_desk_shelves/bnk_prop_office_desk_shelves" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+            <object collision_type="box" name="c_box_01" padding="-2.5"/>
+            <object collision_type="box" name="c_box_02" padding="-2.5"/>
+            <object collision_type="box" name="c_box_03" padding="-2.5"/>
+            <object collision_type="box" name="c_box_04" padding="-2.5"/>
+            <object collision_type="box" name="c_box_05" padding="-2.5"/>
+            <object collision_type="box" name="c_box_06" padding="-2.5"/>
+        </body>
+    </bodies>
+    <decal_surfaces>
+        <decal_mesh enabled="true" name="dm_hardwood" material="hardwood" />
+    </decal_surfaces>
+    <graphics>
+        <lod_object name="shelf_mat_lod">
+            <object name="g_g" enabled="true"  >
+                <material materials="mat_desks" max_distance="500" />
+                <material materials="mat_desks_lod1" />      
+            </object>
+        </lod_object>
+    </graphics>
+</dynamic_object>

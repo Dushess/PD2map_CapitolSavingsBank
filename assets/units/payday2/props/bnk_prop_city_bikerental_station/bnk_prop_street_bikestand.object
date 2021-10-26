@@ -1,0 +1,31 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_street_bikestand" materials="units/payday2/props/bnk_prop_city_bikerental_station/bnk_prop_city_bikerental_station" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="rp_bnk_prop_street_bikestand"/>
+			<object name="c_convex_01" 			collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_01_01" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_01_02" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_01_03" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_02_01" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_02_02" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_02_03" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_03_01" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_03_02" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_03_03" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_04_01" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_04_02" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_04_03" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_05_01" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_05_02" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_stand_05_03" collision_type="convex" padding="-2.5"/>
+        </body>
+    </bodies>
+	<decal_surfaces>
+		<decal_mesh name="dm_sheet_metal" enabled="true" material="metal"/>
+	</decal_surfaces>
+    <graphics>
+		<object name="g_g" enabled="true"/>
+		<object name="s_s" enabled="true" shadow_caster="true"/>
+    </graphics>
+</dynamic_object>

@@ -1,0 +1,18 @@
+<materials version="3">
+    <material name="mat_chair_deluxe" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_deluxe_df"/>
+        <bump_normal_texture file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_deluxe_nm"/>
+    </material>
+    <material name="mat_chair_standard" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard_df"/>
+        <bump_normal_texture file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard_nm"/>
+    </material>
+    <material name="mat_chair_standard_white" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard_white_df"/>
+        <bump_normal_texture file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard_white_nm"/>
+    </material>
+    <material name="mat_chair_standard_black" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard_black_df"/>
+        <bump_normal_texture file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard_white_nm"/>
+    </material>
+</materials>

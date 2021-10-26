@@ -1,0 +1,6 @@
+<unit type="bnk" slot="1" >
+    <object file="custom/bnk_prop_harvest_sign/bnk_prop_harvest_sign_deposit" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

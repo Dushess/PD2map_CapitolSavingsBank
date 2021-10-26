@@ -1,0 +1,10 @@
+<materials version="3">
+    <material name="mat_officehigh_desk" decal_material="wood" version="2" render_template="generic:DIFFUSE_TEXTURE">
+        <diffuse_texture file="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_dark_df"/>
+    </material>
+    <material name="mat_backplate" decal_material="sheet_metal" version="2" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:OPACITY_TEXTURE">
+        <diffuse_texture file="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_dark_df"/>
+        <opacity_texture file="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_op"/>
+    </material>
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+</materials>

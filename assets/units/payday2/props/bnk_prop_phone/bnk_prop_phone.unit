@@ -1,0 +1,13 @@
+<unit type="bnk" slot="1" >
+    <object file="units/payday2/props/bnk_prop_phone/bnk_prop_phone" />
+    <network sync="spawn"/>
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="_interact_object" value="interact"/>
+			<var name="tweak_data" value="hospital_phone" />
+			<var name="drop_in_sync_tweak_data" value="true" />
+		</extension>
+    </extensions>
+</unit>

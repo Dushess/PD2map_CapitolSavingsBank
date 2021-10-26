@@ -1,0 +1,5 @@
+<materials version="3">
+    <material version="2" decal_material="plastic" render_template="generic:DIFFUSE_TEXTURE" name="mat_bulletinboard">
+        <diffuse_texture file="units/payday2/props/off_prop_officehigh_bulletinboard/off_prop_officehigh_bulletinboard_df"/>
+    </material>
+</materials>

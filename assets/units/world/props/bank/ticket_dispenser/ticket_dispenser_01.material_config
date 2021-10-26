@@ -1,0 +1,8 @@
+<materials version="3">
+    <material name="ticket_dispenser_01" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION" version="2">
+        <bump_normal_texture file="units/world/props/bank/ticket_dispenser/ticket_dispenser_01_nm"/>
+        <diffuse_texture file="units/world/props/bank/ticket_dispenser/ticket_dispenser_01_df"/>
+        <self_illumination_texture file="units/world/props/bank/ticket_dispenser/ticket_dispenser_01_il"/>
+        <variable value="sun" type="scalar" name="il_multiplier"/>
+    </material>
+</materials> 

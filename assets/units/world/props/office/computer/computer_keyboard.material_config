@@ -1,0 +1,5 @@
+<materials version="3">
+    <material version="2" decal_material="glass_breakable" name="keyboard" render_template="generic:DIFFUSE_TEXTURE:INSTANCED">
+        <diffuse_texture file="units/world/props/display/bank_display_master_df"/>
+    </material>
+</materials>

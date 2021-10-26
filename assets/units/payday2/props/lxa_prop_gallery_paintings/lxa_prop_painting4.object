@@ -1,0 +1,19 @@
+<dynamic_object>
+    <diesel orientation_object="rp_lxa_prop_painting4" materials="units/payday2/props/lxa_prop_gallery_paintings/lxa_prop_painting4" />
+   <sequence_manager file="units/payday2/props/lxa_prop_gallery_paintings/lxa_painting_destroy"/>
+   <bodies>
+        <body enabled="true" template="static" name="static_body" >
+            <object collision_type="box" name="c_main_box" />
+        </body>
+		<body enabled="false" template="small_prop" name="dynamic_body" sweep="true" pushed_by_mover="false" >
+            <object collision_type="box" name="c_main_box" />
+        </body>
+    </bodies>
+    <decal_surfaces>
+        <decal_mesh enabled="true" name="dm_cloth" material="cloth" />
+        <decal_mesh enabled="true" name="dm_wood" material="wood" />
+    </decal_surfaces>
+    <graphics>
+        <object enabled="true" name="g_painting" />
+    </graphics>
+</dynamic_object>

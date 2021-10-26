@@ -1,0 +1,6 @@
+<materials version="3">
+    <material version="2" render_template="shadow_caster_only" name="shadow_caster"/>
+    <material name="mat_str_prop_street_concrete_barrier" render_template="generic:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/payday2/props/str_prop_street_concrete_barrier/str_prop_street_concrete_barrier_df"/>
+    </material>
+</materials>

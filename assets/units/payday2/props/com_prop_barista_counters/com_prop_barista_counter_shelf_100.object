@@ -1,0 +1,14 @@
+<dynamic_object>
+    <diesel orientation_object="rp_counter_shelf_100" materials="units/payday2/props/com_prop_barista_counters/com_prop_barista_counters" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+            <object name="c_box_01" collision_type="box" padding="-2.5"/>
+        </body>
+    </bodies>
+	<decal_surfaces static="true" default_material="wood">
+		<decal_mesh name="dm_wood" enabled="true" material="wood"/>
+	</decal_surfaces>
+    <graphics>
+        <object enabled="true" name="g_g" />
+    </graphics>
+</dynamic_object>

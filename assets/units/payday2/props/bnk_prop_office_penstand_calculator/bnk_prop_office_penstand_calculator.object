@@ -1,0 +1,27 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_office_penstand_calculator" materials="units/payday2/props/bnk_prop_office_penstand_calculator/bnk_prop_office_penstand_calculator" />
+		<sequence_manager file="units/payday2/props/bnk_prop_office_penstand_calculator/bnk_prop_office_penstand_calculator" />  
+	<bodies>
+        <body enabled="true" template="static" name="static" >
+			<object name="rp_bnk_prop_office_penstand_calculator" />
+            <object collision_type="convex" name="c_convex_01" padding="-2.5"/>
+			<object collision_type="capsule" name="c_capsule_01" padding="-1.25"/>
+		</body>	
+        <body enabled="false" template="debris" name="dynamic_stand" >
+            <object collision_type="convex" name="c_convex_01" padding="-2.5" mass="0.25"/>
+		</body>	
+        <body enabled="false" template="debris" name="dynamic_pen" >			
+            <object collision_type="capsule" name="c_capsule_01" padding="-1.25" mass="0.25"/>
+        </body>		
+    </bodies>
+    <graphics>
+		<lod_object name="penstander">
+			<object enabled="true" name="g_g" lod="0" max_distance="750"/>
+			<object enabled="true" name="g_lod1" lod="1"/>
+		</lod_object>
+		<lod_object name="penhander">
+        <object enabled="true" name="g_pen" lod="0" max_distance="750"/>
+        <object enabled="true" name="g_pen_lod1" lod="1"/>
+		</lod_object>			
+    </graphics>
+</dynamic_object>

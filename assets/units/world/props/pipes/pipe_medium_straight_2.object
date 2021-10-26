@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/world/props/pipes/pipes_set" orientation_object="rp_pipe_medium_straight_2" />  
+	<bodies>
+		<body name="static_body" enabled="true" template="raycoll_static">
+			<object name="rp_pipe_medium_straight_2"/>
+			<object name="c_box" collision_type="box" padding="-2.5"/>
+		</body>
+	</bodies>
+	<graphics>
+		<object name="g_g" enabled="true" instance_struct="world_tm"/>
+	</graphics>
+	<decal_surfaces default_material="metal_hollow" static="true">
+		<decal_mesh name="dm_dm" enabled="true" material="metal_hollow" />
+	</decal_surfaces>
+	<objects>
+		<align_point name="snap" enabled="true" parent="rp_pipe_medium_straight_2" position="0 0 0" rotation="0 0 0" />
+	</objects>
+</dynamic_object> 

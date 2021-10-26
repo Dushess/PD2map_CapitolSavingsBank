@@ -1,0 +1,15 @@
+<dynamic_object>
+    <diesel orientation_object="rp_off_prop_officehigh_desk_drawers" materials="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_dark" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+            <object collision_type="box" name="c_mesh" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_mesh" />
+		<object name="s_mesh" enabled="true" shadow_caster="true"/>
+    </graphics>
+  <decal_surfaces static="true" default_material="wood">
+    <decal_mesh name="dm_wood" enabled="true" material="wood"/>
+  </decal_surfaces>
+</dynamic_object>

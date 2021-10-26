@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<unit type="und" slot="1">
+  <object file="units/payday2/props/bnk_prop_harvest_sign/bnk_prop_harvest_sign_cube" />
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+	<extension name="damage" class="UnitDamage" />
+  </extensions>
+</unit>

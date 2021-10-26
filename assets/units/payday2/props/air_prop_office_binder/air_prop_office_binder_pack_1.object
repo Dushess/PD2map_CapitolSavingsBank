@@ -1,0 +1,16 @@
+<dynamic_object>
+    <diesel orientation_object="rp_air_prop_office_binder_pack_1" materials="units/payday2/props/air_prop_office_binder/air_prop_office_binder_all" />
+    <bodies>
+        <body name="body0"  enabled="true" template="static">
+            <object name="c_box_01"  collision_type="box" />
+            <object name="c_box_02" collision_type="box" />
+        </body>
+    </bodies>  
+    <decal_surfaces>
+        <decal_mesh name="dm_plastic"  enabled="true" material="thin_layer" />
+    </decal_surfaces>
+    <graphics>
+        <object name="rp_air_prop_office_binder_pack_1"  enabled="true" instance_struct="world_tm"/>
+        <object name="g_table_binder_pack_1"  enabled="true" instance_struct="world_tm"/>
+    </graphics>
+</dynamic_object>

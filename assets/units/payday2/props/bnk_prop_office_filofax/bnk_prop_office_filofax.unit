@@ -1,0 +1,10 @@
+<unit type="bnk" slot="1" >
+   <object file="units/payday2/props/bnk_prop_office_filofax/bnk_prop_office_filofax" />
+  	<mass>
+		<spawn in="1600" method="enable" out="2000" />
+	</mass> 
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+	 <extension name="damage" class="UnitDamage" />
+  </extensions>
+</unit>

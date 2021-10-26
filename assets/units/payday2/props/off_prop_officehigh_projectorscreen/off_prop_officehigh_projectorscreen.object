@@ -1,0 +1,67 @@
+<dynamic_object>
+    <diesel orientation_object="rp_projectorscreen" materials="units/payday2/props/off_prop_officehigh_projectorscreen/off_prop_officehigh_projectorscreen" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+            <object name="rp_projectorscreen" />
+            <object collision_type="box" name="c_box_01" />
+        </body>
+	</bodies>
+		<!-- THIS IS THE CODE FOR MAKING IT DYNAMIC
+		
+		<body  name="body_left_top" enabled="true" template="static"  friction="0.01"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="block" lin_damping="0.4" ang_damping="1" restitution="0">
+			<object name="ct_left_top" />
+			<object name="c_left_top" collision_type="box"  padding="-4" />
+		</body>
+		<body  name="body_left_bottom" enabled="true" template="dynamic"  friction="0.01"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="block" lin_damping="0.4" ang_damping="1" restitution="0">
+			<object name="ct_left_bottom" />
+			<object name="c_left_bottom" collision_type="box" mass="1" padding="-4" />
+		</body>
+		<body  name="body_right_top" enabled="true" template="dynamic"  friction="0.01"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="block" lin_damping="0.4" ang_damping="1" restitution="0">
+			<object name="ct_right_top" />
+			<object name="c_right_top" collision_type="box" mass="1" padding="-4" />
+		</body>
+		<body  name="body_right_bottom" enabled="true" template="dynamic"  friction="0.01"  keyframed="false" collision_script_quiet_time="0.5" collision_script_tag="small" ray="block" lin_damping="0.4" ang_damping="1" restitution="0">
+			<object name="ct_right_bottom" />
+			<object name="c_right_bottom" collision_type="box" mass="1" padding="-4" />
+		</body>
+    </bodies>
+	
+	<constraints>
+		<constraint name="left_top" enabled="true" type="limited_hinge">
+			<param body_a="@world" body_b="body_left_top"/>
+			<param pivot="position:ct_left_top"/>
+			<param min_angle="-60" max_angle="60" axis="yaxis:ct_left_top" twist_freedom="15"/>
+			<param plane_axis="xaxis:ct_left_top"/>
+			<param damping="8" spring_constant="1000" min_restitution="0"/>
+		</constraint>
+
+		<constraint name="left_bottom" enabled="true" type="limited_hinge">
+			<param body_a="@world" body_b="body_left_bottom"/>
+			<param pivot="position:ct_left_bottom"/>
+			<param min_angle="-60" max_angle="60" axis="yaxis:ct_left_bottom" twist_freedom="15"/>
+			<param plane_axis="xaxis:ct_left_bottom"/>
+			<param damping="8" spring_constant="1000" min_restitution="0"/>
+		</constraint>
+
+		<constraint name="right_top" enabled="true" type="limited_hinge">
+			<param body_a="@world" body_b="body_right_top"/>
+			<param pivot="position:ct_right_top"/>
+			<param min_angle="-60" max_angle="60" axis="yaxis:ct_right_top" twist_freedom="15"/>
+			<param plane_axis="xaxis:ct_right_top"/>
+			<param damping="8" spring_constant="1000" min_restitution="0"/>
+		</constraint>
+
+		<constraint name="right_bottom" enabled="true" type="limited_hinge">
+			<param body_a="@world" body_b="body_right_bottom"/>
+			<param pivot="position:ct_right_bottom"/>
+			<param min_angle="-60" max_angle="60" axis="yaxis:ct_right_bottom" twist_freedom="15"/>
+			<param plane_axis="xaxis:ct_right_bottom"/>
+			<param damping="8" spring_constant="1000" min_restitution="0"/>
+		</constraint>
+	</constraints>
+	
+	-->
+    <graphics>
+        <object enabled="true" name="g_rolled_out" culling_object="co_culling" />
+    </graphics>
+</dynamic_object>

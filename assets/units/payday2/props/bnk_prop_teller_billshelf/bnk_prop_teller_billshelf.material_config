@@ -1,0 +1,6 @@
+<materials version="3">
+    <material name="mat_billshelf" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/props/bnk_prop_teller_billshelf/bnk_prop_teller_billshelf_df"/>
+        <bump_normal_texture file="units/payday2/props/bnk_prop_teller_billshelf/bnk_prop_teller_billshelf_nm"/>
+    </material>
+</materials>

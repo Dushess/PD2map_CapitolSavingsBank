@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<dynamic_object>
+	<diesel materials="units/payday2/architecture/res_b/res_b" orientation_object="rp_res_b_ext_vtile_4x8m_plane_b" />
+    <bodies>
+        <body name="static_body" template="static" enabled="true" >
+            <object name="rp_res_b_ext_vtile_4x8m_plane_b"/>
+            <object collision_type="mesh_mopp" enabled="true" name="g_res_b_ext_vtile_4x8m_plane_b"/>
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="stone" static="true">
+		<decal_mesh name="g_res_b_ext_vtile_4x8m_plane_b" material="stone" enabled="true"/>
+	</decal_surfaces> 
+	
+    <graphics>
+		
+        <object enabled="true" name="g_res_b_ext_vtile_4x8m_plane_b" shadow_caster="false"/>
+        <object enabled="true" name="s_res_b_ext_vtile_4x8m_plane_b" shadow_caster="true"/>
+    </graphics>
+	
+</dynamic_object>

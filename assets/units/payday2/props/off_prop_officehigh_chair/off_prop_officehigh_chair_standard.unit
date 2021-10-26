@@ -1,0 +1,7 @@
+<unit type="off" slot="1" >
+    <object file="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+        <extension class="UnitDamage" name="damage" />
+    </extensions>
+</unit>

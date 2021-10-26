@@ -1,0 +1,17 @@
+<dynamic_object>
+    <diesel orientation_object="rp_bnk_prop_street_bike" materials="units/payday2/props/bnk_prop_city_bikerental_station/bnk_prop_city_bikerental_station" />
+    <bodies>
+        <body enabled="true" template="fence" name="fence_body" >
+			<object name="rp_bnk_prop_street_bike"/>
+			<object name="c_convex_fence_01" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_fence_02" collision_type="convex" padding="-2.5"/>
+        </body>
+    </bodies>
+    <graphics>
+		<lod_object name="lamp">
+			<object name="g_g"		enabled="true"	lod="0" max_distance="1000" />
+			<object name="g_g_lod"  enabled="true"	lod="1" />
+		</lod_object>
+		<object name="s_s" enabled="true" shadow_caster="true"/>
+    </graphics>
+</dynamic_object>

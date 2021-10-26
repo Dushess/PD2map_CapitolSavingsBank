@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/office/computer/computer_keyboard" orientation_object="rp_computer_mouse" />
+  <bodies>
+    <body name="static_body" enabled="true" template="editor">
+      <object name="rp_computer_mouse" />
+      <object name="c_box" collision_type="box" padding="-3"/>
+    </body>
+  </bodies>
+  <graphics>
+    <object name="g_g" enabled="true" shadow_caster="false"  instance_struct="world_tm"  />
+  </graphics>
+</dynamic_object> 

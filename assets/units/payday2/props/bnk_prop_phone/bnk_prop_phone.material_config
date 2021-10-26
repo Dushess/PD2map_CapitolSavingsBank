@@ -1,0 +1,12 @@
+<materials version="3">
+    <material name="mat_bnk_phone" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP" unique="true" version="2">
+        <diffuse_texture file="units/payday2/props/bnk_prop_phone/bnk_prop_phone_df"/>
+        <bump_normal_texture file="units/payday2/props/bnk_prop_phone/bnk_prop_phone_nm"/>
+        <variable value="1 1 1" type="vector3" name="contour_color"/>
+        <variable value="0" type="scalar" name="contour_opacity"/>
+    </material>
+    <material version="2" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" name="mat_effect">
+        <diffuse_texture file="units/payday2/props/bnk_prop_phone/bnk_prop_phone_df"/>
+        <variable value="sun" type="scalar" name="intensity"/>
+    </material>
+</materials>

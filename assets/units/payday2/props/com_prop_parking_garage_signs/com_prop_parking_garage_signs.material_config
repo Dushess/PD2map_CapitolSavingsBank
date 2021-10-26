@@ -1,0 +1,7 @@
+<materials version="3">
+    <material name="mat_signs" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION" version="2">
+        <diffuse_texture file="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_signs_df"/>
+        <self_illumination_texture file="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_signs_il"/>
+        <variable value="streetlight" type="scalar" name="il_multiplier"/>
+    </material>
+</materials>

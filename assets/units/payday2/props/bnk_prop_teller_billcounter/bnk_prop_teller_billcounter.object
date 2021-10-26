@@ -1,0 +1,13 @@
+<dynamic_object>
+    <diesel orientation_object="rp_counter" materials="units/payday2/props/bnk_prop_teller_billcounter/bnk_prop_teller_billcounter" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+            <object name="rp_counter" />
+            <object collision_type="box" name="c_box_01" padding="-2.5"/>
+            <object collision_type="box" name="c_box_02" padding="-2.5" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_mesh" />
+    </graphics>
+</dynamic_object>
