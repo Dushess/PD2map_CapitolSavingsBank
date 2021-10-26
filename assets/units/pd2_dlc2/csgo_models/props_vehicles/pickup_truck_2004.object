@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<dynamic_object>
+    <diesel materials="units/pd2_dlc2/csgo_models/props_vehicles/pickup_truck_2004" orientation_object="rp_pickup_truck_2004" />
+	<sequence_manager file="units/pd2_dlc2/csgo_models/props_vehicles/pickup_truck_2004"/>
+	<animations>
+		<animation_group name="trunk" enabled="false">
+			<object name="a_anim_trunk" />		
+		</animation_group>	
+	</animations>	
+    <bodies>
+        <body name="static_body" template="static" enabled="true" >
+            <object name="rp_pickup_truck_2004"/>
+            <object name="c_convex_1" collision_type="convex" padding="-2.5"/>
+            <object name="c_convex_2" collision_type="convex" padding="-2.5"/>
+            <object name="c_convex_3" collision_type="convex" padding="-2.5"/>
+            <object name="c_convex_4" collision_type="convex" padding="-2.5"/>			
+			<object name="c_mesh_mopp" collision_type="mesh_mopp" padding="-2.5"/>
+        </body>
+        <body name="anim_body" template="animated" enabled="true" >
+            <object name="a_anim_trunk"/>
+            <object name="c_mesh_mopp1" collision_type="mesh_mopp" padding="-2.5"/>
+        </body>			
+    </bodies>
+    
+    <decal_surfaces default_material="sheet_metal" static="true">
+        <decal_mesh name="g_pickup_truck_2004_glass" material="glass_unbreakable" enabled="true"/>
+        <decal_mesh name="dm_metal" material="sheet_metal" enabled="true"/>
+        <decal_mesh name="dm_rubber" material="rubber" enabled="true"/>
+        <decal_mesh name="dm_plastic" material="plastic" enabled="true"/>
+        <decal_mesh name="g_pickup_truck_2004_trunk" material="sheet_metal" enabled="true"/>		
+    </decal_surfaces> 
+    
+    <graphics>
+        <object enabled="true" name="g_pickup_truck_2004_glass" shadow_caster="true"/>
+        <object enabled="true" name="g_pickup_truck_2004" shadow_caster="true"/>
+        <object enabled="true" name="g_pickup_truck_2004_trunk" shadow_caster="true"/>		
+    </graphics>
+</dynamic_object> 

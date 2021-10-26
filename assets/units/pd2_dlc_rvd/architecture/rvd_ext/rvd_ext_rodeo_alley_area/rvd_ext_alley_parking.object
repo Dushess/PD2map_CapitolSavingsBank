@@ -1,0 +1,99 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_rvd/architecture/rvd_ext/rvd_ext_rodeo_alley_area/rvd_ext_alley_parking" orientation_object="rp_rvd_ext_alley_parking" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_rvd_ext_alley_parking" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+			<object name="c_box_02" collision_type="box" padding="-2.5" />
+			<object name="c_box_03" collision_type="box" padding="-2.5" />
+			<object name="c_box_04" collision_type="box" padding="-2.5" />
+			<object name="c_box_05" collision_type="box" padding="-2.5" />
+			<object name="c_box_06" collision_type="box" padding="-2.5" />
+			<object name="c_box_07" collision_type="box" padding="-2.5" />
+			<object name="c_box_08" collision_type="box" padding="-2.5" />
+			<object name="c_box_09" collision_type="box" padding="-2.5" />
+			<object name="c_box_10" collision_type="box" padding="-2.5" />
+			<object name="c_box_11" collision_type="box" padding="-2.5" />
+			<object name="c_box_12" collision_type="box" padding="-2.5" />
+			<object name="c_box_13" collision_type="box" padding="-2.5" />
+			<object name="c_box_14" collision_type="box" padding="-2.5" />
+			<object name="c_box_15" collision_type="box" padding="-2.5" />
+			<object name="c_box_16" collision_type="box" padding="-2.5" />
+			<object name="c_box_17" collision_type="box" padding="-2.5" />
+			<object name="c_box_18" collision_type="box" padding="-2.5" />
+			<object name="c_box_19" collision_type="box" padding="-2.5" />
+			<object name="c_box_20" collision_type="box" padding="-2.5" />
+			<object name="c_box_21" collision_type="box" padding="-2.5" />
+			<object name="c_box_22" collision_type="box" padding="-2.5" />
+			<object name="c_box_23" collision_type="box" padding="-2.5" />
+			<object name="c_box_24" collision_type="box" padding="-2.5" />
+			<object name="c_box_25" collision_type="box" padding="-2.5" />
+			<object name="c_box_26" collision_type="box" padding="-2.5" />
+			<object name="c_box_27" collision_type="box" padding="-2.5" />
+			<object name="c_box_28" collision_type="box" padding="-2.5" />
+			<object name="c_box_29" collision_type="box" padding="-2.5" />
+			<object name="c_box_30" collision_type="box" padding="-2.5" />
+			<object name="c_box_31" collision_type="box" padding="-2.5" />
+			<object name="c_box_32" collision_type="box" padding="-2.5" />
+			<object name="c_box_33" collision_type="box" padding="-2.5" />
+			<object name="c_box_34" collision_type="box" padding="-2.5" />
+			<object name="c_box_35" collision_type="box" padding="-2.5" />
+			<object name="c_box_36" collision_type="box" padding="-2.5" />
+			<object name="c_box_37" collision_type="box" padding="-2.5" />
+			<object name="c_box_38" collision_type="box" padding="-2.5" />
+			<object name="c_box_39" collision_type="box" padding="-2.5" />
+			<object name="c_box_40" collision_type="box" padding="-2.5" />
+			<object name="c_box_41" collision_type="box" padding="-2.5" />
+			<object name="c_box_42" collision_type="box" padding="-2.5" />
+			<object name="c_box_43" collision_type="box" padding="-2.5" />
+			<object name="c_box_44" collision_type="box" padding="-2.5" />
+			<object name="c_box_45" collision_type="box" padding="-2.5" />
+			<object name="c_box_46" collision_type="box" padding="-2.5" />
+			<object name="c_box_47" collision_type="box" padding="-2.5" />
+			<object name="c_box_48" collision_type="box" padding="-2.5" />
+			<object name="c_box_49" collision_type="box" padding="-2.5" />
+			<object name="c_box_50" collision_type="box" padding="-2.5" />
+			<object name="c_box_51" collision_type="box" padding="-2.5" />
+			<object name="c_box_52" collision_type="box" padding="-2.5" />
+			<object name="c_box_53" collision_type="box" padding="-2.5" />
+			<object name="c_box_54" collision_type="box" padding="-2.5" />
+			<object name="c_box_55" collision_type="box" padding="-2.5" />
+			<object name="c_box_56" collision_type="box" padding="-2.5" />
+			<object name="c_box_57" collision_type="box" padding="-2.5" />
+			<object name="c_box_58" collision_type="box" padding="-2.5" />
+			<object name="c_box_59" collision_type="box" padding="-2.5" />
+			<object name="c_box_60" collision_type="box" padding="-2.5" />
+			<object name="c_box_61" collision_type="box" padding="-2.5" />
+			<object name="c_box_62" collision_type="box" padding="-2.5" />
+			<object name="c_box_63" collision_type="box" padding="-2.5" />
+			<object name="c_box_64" collision_type="box" padding="-2.5" />
+			<object name="c_box_65" collision_type="box" padding="-2.5" />
+			<object name="c_box_66" collision_type="box" padding="-2.5" />
+			<object name="c_box_67" collision_type="box" padding="-2.5" />
+			<object name="c_box_68" collision_type="box" padding="-2.5" />
+			<object name="c_box_69" collision_type="box" padding="-2.5" />
+			<object name="c_box_70" collision_type="box" padding="-2.5" />
+			<object name="c_box_71" collision_type="box" padding="-2.5" />
+			<object name="c_box_72" collision_type="box" padding="-2.5" />
+			<object name="c_box_73" collision_type="box" padding="-2.5" />
+			<object name="c_box_74" collision_type="box" padding="-2.5" />
+			<object name="c_box_75" collision_type="box" padding="-2.5" />
+			<object name="c_box_76" collision_type="box" padding="-2.5" />
+			<object name="c_box_77" collision_type="box" padding="-2.5" />
+			<object name="c_box_78" collision_type="box" padding="-2.5" />
+			<object name="c_box_79" collision_type="box" padding="-2.5" />
+			<object name="c_box_80" collision_type="box" padding="-2.5" />
+			<object name="c_convex_01" collision_type="convex" padding="-2.5" />
+			<object name="c_convex_02" collision_type="convex" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="concrete">
+		<decal_mesh name="dm_concrete" enabled="true" material="concrete" />
+		<decal_mesh name="dm_plaster" enabled="true" material="plaster" />
+		<decal_mesh name="dm_steel" enabled="true" material="steel" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_g" enabled="true" />
+		<object name="s_s" enabled="true" shadow_caster="true" />
+	</graphics>
+</dynamic_object>

@@ -1,0 +1,71 @@
+<materials version="3">
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="mat_are_int_double_door_v2" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/props/rvd_prop_double_door/are_int_double_door_v2_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/props/rvd_prop_double_door/are_int_double_door_v2_nm" mip="1"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="mat_are_int_single_door" version="2">
+        <diffuse_texture file="units/payday2/props/are_int_single_door/are_int_single_door_df"/>
+        <bump_normal_texture file="units/payday2/props/are_int_single_door/are_int_single_door_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_barrier_piller" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_backdrop_building_overlay_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_backdrop_building_overlay_nm"/>
+    </material>
+    <material name="mat_brick_white" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2" src="GLOBAL">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_white_brick_parking_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_white_brick_parking_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_ceiling" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rp_rvd_ext_building_backdrop_white_mortar_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rp_rvd_ext_building_backdrop_white_mortar_nm"/>
+    </material>
+    <material name="mat_dirt_decal" render_template="decal:DIFFUSE_TEXTURE" version="2" src="GLOBAL">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_building_dirt_decal_dcd"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" name="mat_metal_black" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_int/int_textures/tiling_metal_df"/>
+        <material_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_black_metal_gsma"/>
+        <bump_normal_texture file="units/payday2/textures/blank_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_parking_floor" version="2">
+        <diffuse_texture file="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage_concrete_floor_df"/>
+        <bump_normal_texture file="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage_concrete_floor_nm"/>
+    </material>
+    <material render_template="decal:DIFFUSE_TEXTURE:NORMALMAP:OPACITY_TEXTURE" name="mat_road_markings" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_road_lines_df"/>
+        <opacity_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_road_lines_op"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_road_lines_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="mat_standard_building_03_vxtc" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_wall_marble_tiles_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_wall_marble_tiles_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_standard_building_vxtc" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_backdrop_building_overlay_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_backdrop_building_overlay_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_wall_concrete" version="2">
+        <diffuse_texture file="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage_concrete_df"/>
+        <bump_normal_texture file="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage_concrete_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_white_bricke_large" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_white_brick_large_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_white_brick_large_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_white_concrete" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_int/int_textures/rvd_int_concrete_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_int/int_textures/rvd_int_concrete_nm"/>
+    </material>
+    <material render_template="shadow_caster_only" name="shadow_caster" version="2"/>
+    <material render_template="generic:DIFFUSE_TEXTURE:VERTEX_COLOR" name="mat_dirt_decal_floor" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_building_dirt_decal_dcd"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_parking_floor_decal" version="2">
+        <diffuse_texture file="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage_concrete_floor_df"/>
+        <bump_normal_texture file="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage_concrete_floor_nm"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_celling_parking" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/rvd_ext_rodeo_alley_area/rvd_ext_parking_ceiling_concrete_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/rvd_ext_rodeo_alley_area/rvd_ext_parking_ceiling_concrete_nm"/>
+    </material>
+</materials>

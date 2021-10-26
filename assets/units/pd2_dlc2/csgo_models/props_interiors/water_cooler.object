@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<dynamic_object>
+    <diesel materials="units/pd2_dlc2/csgo_models/props_interiors/water_cooler" orientation_object="rp_water_cooler" />
+    <bodies>
+        <body name="static_body" template="static" enabled="true" >
+            <object name="rp_water_cooler"/>
+            <object name="c_convex_01" collision_type="convex" padding="-2.5"/>
+            <object name="c_convex_02" collision_type="convex" padding="-2.5"/>
+        </body>
+    </bodies>
+    
+    <decal_surfaces default_material="metal" static="true">
+        <decal_mesh name="g_water_cooler" material="plastic" enabled="true"/>
+        <decal_mesh name="g_water_cooler_opacity" material="plastic" enabled="true"/>
+    </decal_surfaces> 
+    
+    <graphics>
+        <object enabled="true" name="g_water_cooler" shadow_caster="true"/>
+        <object enabled="true" name="g_water_cooler_opacity" shadow_caster="true"/>
+    </graphics>
+</dynamic_object> 

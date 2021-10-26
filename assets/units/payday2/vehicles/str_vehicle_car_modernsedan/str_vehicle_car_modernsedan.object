@@ -1,0 +1,72 @@
+<dynamic_object>
+    <diesel materials="units/payday2/vehicles/str_vehicle_car_modernsedan/str_vehicle_car_modernsedan" orientation_object="rp_str_vehicle_car_modernsedan" />
+	<sequence_manager file="units/payday2/vehicles/str_vehicle_car_modernsedan/str_vehicle_car_modernsedan" />
+	<animations>
+		<animation_group name="alarm_lights" enabled="false">
+			<object name="ls_left" />
+			<object name="ls_right" />
+			<object name="ls_rear" />
+		</animation_group>
+	</animations>
+	<bodies>
+        <body enabled="true" template="static" name="static_body" >
+            <object collision_type="mesh_mopp" name="c_body" />
+		</body>
+		
+		<body name="body_windows_front" enabled="true" template="static">
+			<object name="c_windows_front" collision_type="mesh_mopp" />
+		</body>
+
+		<body name="body_windows_side_left" enabled="true" template="static">
+			<object name="c_windows_side_left" collision_type="mesh_mopp" />
+		</body>
+
+		<body name="body_windows_side_right" enabled="true" template="static">
+			<object name="c_windows_side_right" collision_type="mesh_mopp" />
+		</body>
+			
+		<body name="body_windows_back" enabled="true" template="static">
+			<object name="c_windows_back" collision_type="mesh_mopp" />
+		</body>	
+
+		<body name="body_blocker_graph" enabled="true" template="graph_blocker">
+			<object name="rp_str_vehicle_car_modernsedan" />
+			<object name="c_graph_blocker" collision_type="box" padding="25" />
+		</body>
+    </bodies>
+	
+    <decal_surfaces>
+        <decal_mesh enabled="true" name="dm_body" 					material="sheet_metal" />
+        <decal_mesh enabled="true" name="dm_windows_front" 			material="glass_breakable" />
+        <decal_mesh enabled="true" name="dm_windows_back" 			material="glass_breakable" />
+        <decal_mesh enabled="true" name="dm_windows_side_right" 	material="glass_breakable" />
+        <decal_mesh enabled="true" name="dm_windows_side_left" 		material="glass_breakable" />
+        <decal_mesh enabled="true" name="dm_glass_headlights" 		material="glass_breakable" />
+    </decal_surfaces>
+	
+    <graphics>
+		<lod_object name="lod_g">
+				<object name="g_body_lod0" enabled="true" max_distance="2500" />
+				<object name="g_body_lod1" enabled="true" max_distance="3500" />
+				<object name="g_body_lod2" enabled="true" />
+		</lod_object>
+		<object enabled="false" name="g_lights" />
+        <object enabled="true" name="g_glass_headlights" />
+        <object enabled="true" name="g_windows_side_left" />
+        <object enabled="true" name="g_windows_side_right" />
+        <object enabled="true" name="g_windows_back" />
+        <object enabled="true" name="g_windows_front" />
+        <object enabled="false" name="g_windows_side_left_dmg" />
+        <object enabled="false" name="g_windows_side_right_dmg" />
+        <object enabled="false" name="g_windows_back_dmg" />
+        <object enabled="false" name="g_windows_front_dmg" />
+        <object enabled="true" shadow_caster="true" name="s_s" />
+    </graphics>
+
+    <lights>
+		<light name="ls_left" far_range="2000" type="spot|specular"   end_angle="53" multiplier="identity" editable="true" />
+		<light name="ls_right" far_range="2000" type="spot|specular"   end_angle="39" multiplier="identity" editable="true" />
+		<light name="ls_rear" far_range="350" type="omni|specular" multiplier="0.1" falloff="4" editable="true" />
+    </lights>
+</dynamic_object>
+

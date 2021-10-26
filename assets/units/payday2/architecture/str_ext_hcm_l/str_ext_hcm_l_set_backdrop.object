@@ -1,0 +1,18 @@
+<dynamic_object>
+	<diesel materials="units/payday2/architecture/str_ext_hcm_l/str_ext_hcm_l_set_backdrop" orientation_object="rp_str_ext_hcm_l_set_backdrop" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_str_ext_hcm_l_set_backdrop" />
+			<object name="c_Box_01" collision_type="box" padding="-2.5" />
+			<object name="c_Box_02" collision_type="box" padding="-2.5" />
+			<object name="c_Box_03" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="concrete">
+		<decal_mesh name="dm_concrete" enabled="true" material="concrete" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_g" enabled="true" />
+		<object name="s_s" enabled="true" shadow_caster="true" />
+	</graphics>
+</dynamic_object>
