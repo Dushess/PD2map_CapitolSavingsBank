@@ -2,12 +2,14 @@
 Template for overall files and info. Curently WIP.
 
 "U.S. Capitol Savings Bank"
+
 Full technical description + storyline
 
 STORY:
 Two plans:
-1)Standard as common hacking'n'cracking'n'robbing. Like usual heist.
-2)Insider's help as impersonation of company's deposit injection(fake of course) while temp storage is not suitable. Forсing to reshedule vault opening.
+
+1) Standard as common hacking'n'cracking'n'robbing. Like usual heist.
+2) Insider's help as impersonation of company's deposit injection(fake of course) while temp storage is not suitable. Forсing to reshedule vault opening.
 
 Plan A (stealth)
 We starting in casing mode.
@@ -22,11 +24,17 @@ We starting in casing mode.
   + Variant 2 (faulty timelock test) is not, continuing is loud only. >>>Semi-fixed variations for this event. Described in dedicated section below.
 + 6th objective is wait for timelock and then enter the codes on drums (12 seconds action). And then open up the door with main handle (1 second action).
 + 7th objective - secure the loot and escape.
+
 ---(on loud) Differences is: 
-a)lots of cops
-b)requirement of proceed to stage(objective) 5 above anyway. Then Bain needs additional hack for sealing pins lockers and tells us to drill up drums sealing lock. This time we breaking also drums' teeths and can go straight to opening without codes. Variations about time of alarm triggering is described in voicelines file. In case of loud nearly from start, (anything below objective 5, I mean before VCS hack is complete and he detects locking system ACTIVATION), after hacking finished he just puts phrase about sealing is active and he needs to be reconnected for last hack (right after report about their vault system stats) and we must drill.
-c)cops can kill the lights in office/customers secton. We need pull it back on and restart PC + reconnect Bain. (action -> additional 20 seconds of waiting time, like booting up and reconnecting him -> hacking progress bar continues)
-d)additional gas attack as trap for us. Goes in 'safe' to defend areas to (literally) smoke us out. That is vault, toilets, server room and room2. 25 seconds then fades in 15 seconds, deals damage all 40 seconds. Or more with requirement to remove gas can from the roof.
+
+a) lots of cops
+
+b) requirement of proceed to objective 5 above anyway. Then Bain needs additional hack for sealing pins lockers and tells us to drill up drums sealing lock. This time we breaking also drums' teeths and can go straight to opening without codes. Variations about time of alarm triggering is described in voicelines file. 
+In case of loud nearly from start (anything below objective 5, I mean before VCS hack is complete and he detects locking system ACTIVATION), after hacking finished he just puts phrase about sealing is active and he needs to be reconnected for last hack (right after report about their vault system stats) and we must drill.
+
+c) cops can kill the lights in office/customers secton, we might pull it back on. And also they might stop our hack by kicking of the PC. We must restart it + reconnect Bain. (action -> additional 20 seconds of waiting time, like booting up and 4 seconds to reconnect him -> hacking progress bar continues [starts again])
+
+d) additional gas attack as trap for us. Goes in 'safe' to defend areas to (literally) smoke us out. That is vault, staff toilets, server/archive room nearby and Office supply room. 25 seconds then fades in 15 seconds, deals damage all 40 seconds. Or more with requirement to remove gas can from the roof/ventilation equipment room near the Storage stairs.
 
 Plan B (Insider asset which costs almost all points/expensive enough)
 We starting in casing mode
