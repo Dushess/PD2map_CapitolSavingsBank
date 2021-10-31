@@ -76,15 +76,18 @@ When GenSec car is in the way (4 minutes to arrive), we need to finish our tasks
 4) Selected player entering Civilian mode, and being respawned outside Security room. Doors must be set to can_interact_in_civilian during this phase. 
 5) Security room's door switches state to closed if still opened. (We should preserve its state for CTD+, since there is open_from_inside override to omnidirectional, so fake guard can open it with lockpick type)
 6) FadeToBlack ends.
+
 Everyone except fake guard stays in the room while door is closed (can be opened, but not recommended to, 0.125 second action). Costumed heister must go to meeting point and wait inspection team. (after Fade disappeared new objective pops up for him: "Meet GenSec team at moneycounting room and show them our situation" and area appears in that room)
-Guards walks in through one of exits, depends from arriving point, and stops in center between 2 doorframes. TSU door must not be in anim_open_door state. Audiolines automatically plays (Don't forget about semi-fixed variations) - like q1-a1-s1-a1-s1 / q2-a2-s2-a2-s2. Every question/answer/sentence per scenario (worker and testing) has randomization. Visually marked in voicelines file. At the end they got satisfied and leaving. Used guard saying last phrase (also at his head coordinates) and switch-area in Security becomes enabled again, with new objective. Then as soon as they reached their car they all despawning. We need to go back to Security room, open up the door staying in Casing mode of course, but civilian type has no masks and stuff anyway. And then we all again must be in trigger_area to make same script working. But this time:
+Guards walks in through one of exits, depends from arriving point, and stops in center between 2 doorframes. TSU door must not be in anim_open_door state. Audiolines automatically plays (Don't forget about semi-fixed variations) - like q1-a1-s1-a1-s1 / q2-a2-s2-a2-s2. Every question/answer/sentence per scenario (worker and testing) has randomization. Visually marked in voicelines file. At the end they got satisfied and leaving. Used guard saying last phrase (also at his head coordinates) and switch-area in Security becomes enabled again, with new objective, meeting area disappears.
+
+Then as soon as they reached their car they all despawning, no departing anim completely :( We need to go back to Security room, open up the door staying in Casing mode of course, but civilian type has no masks and stuff anyway. And then we all again must be in trigger_area to make same script working. But this time:
 1) FadeToBlack enabled. 
 2) Security room's door switches state to closed again, arming our custom open trigger (or just [still] being affected by CTD+). 
 3) Script picks up used player and swapping his model back to original. Switching back to heister_unmasked type(some advantage, not for Security room on cell1 and cell4 position, there's staff only area, no civilians should be there) BTW we mostly have it in public area's view. All of this may be useless. [Switch hiding spot to Archive?]
 4) FadeToBlack ends.
 
 ---Basically for now we can just set those 40% chance of sending GenSec variant to 0%, we'll make 'dressing up minigame' later.
-In case of someone joining while fake guard is active and w/o bots, newcomer's spawn needs to be overriden to Security room [Archive] instead of near the host. Bots at this phase need to be in forced waiting state.
+In case of someone joining while fake guard is active and w/o bots, newcomer's spawn needs to be set to Security room [Archive] instead of near the host. Bots at this phase need to be in forced waiting state.
 
 SECONDARY INFO
 Develop later, low priority.
@@ -92,11 +95,12 @@ Develop later, low priority.
 --Queueing simulation--
 We will have 2 bidirectional pathes, like H&T, same quiet driveway near the avenue crossing with another street, quiet place in bunch of trees and mostly living area. From one path peoples not so often will enter bank and make 3 ways of travelling: 
 + 1st stage for all -- ticket dispencer. 
-  + Rarely NPCs will walk to receptionist and then their destination is only manager's room and one point in Insurance unit. Corporative agents, huh. (Probably we may do it randomly, peoples have free choosing of where to inform about visit - Ticket machine or Receptionist, just make it not more than 9%, most of customers gonna use dispencer)
+  + Rarely NPCs will walk to receptionist instead and then their destination is only manager's room and one point in Insurance unit. Corporative agents, huh. (Probably we may do it randomly, peoples have free choosing of where to inform about visit - Ticket machine or Receptionist, just make it not more than 7%, most of customers gonna use dispencer)
 + 2nd stage is random decision of 2 navlink groups - Waiting area and Counters area. 
-+ 3rd stage is transition from Counters or straight from Waiting area (rare) to Tellers unit. There is also decision, where NPC can go from waiting in Lobby, Tellers or Units in 2nd hall.
-+ 4th stage is waiting in queue IF that's presented in choosen to go window (1,2 and rarely 4, that's currency exchange, 3rd gonna be unused). Make that waiting right near Tellers chance not high, you can be called when ready to free unit after all, logically calling system and ticket-to-serve displays is planned. We will tweak every chances later for balance) 
-  + Maybe NPCs don't use queueing, just walking to free unit (with staff waiting there) in runtime.
++ 3rd stage is transition from Counters or straight from Waiting area (rare) to Tellers unit. 
+  + There is also decision, where NPC can go from waiting in Lobby, Tellers or Units in 2nd hall. One more group is in 2nd hall to navigate them there.
++ (for Tellers)4th stage is waiting in queue IF that's presented in choosen to go window (1,2 and rarely 4, that's currency exchange, 3rd gonna be unused). Make that waiting right near Tellers chance not high, you can be called when ready to free unit after all, logically calling system and ticket-to-serve displays is planned. We will tweak every chances later for balance) 
+  + Maybe NPCs don't use queueing, just walking to free unit (with staff waiting there) in runtime. ?
 + 5th stage is leaving (through same navpoints?) to main entrance and then continuing travel on street-path to last point for despawning. In case of Tellers unit first NPC must turn left, make a step and turn left again. To leave right nearby dividers via free space (dedicated onedirectional navlink on left side of dividers marked walkway, for civs only), then back to unified travel navlinks. If someone stays behind in queue, he must walk forward and then talk with operationist wit hanims, ~2-6 minutes in front of worker behing the glass. (behaviour of every NPC choosed for Tellers unit)
 
 --Random staff traveling--
@@ -110,11 +114,11 @@ Guards will close back with keys/just close door to storage, but will check it p
 -----------------------------
 Manager needs to be hidden behind his desk, civs might enter and/or see. If no manager in room in normal state, they gonna wait in 3xchairs and leave after 5 minutes. (Back to reception? To another unit then? Decide later) 
 
-We might add right one pc search, then manager's pc and terminals in office will be used. Make 2 workplaces empty but launched(?) This will use 15 seconds to check a computer, then 3 seconds to activate process bar. Bain is working.
+We might add right one pc search, then manager's pc and terminals in office will be used. Make 2 workplaces empty but launched(?) This will use 25 seconds to check a computer, then 3 seconds to activate process bar. Bain is working.
 -----------------------------
 The GenSec car leaving not have seating up and depart animations, need to be done with just despawning. Someway we need force player to go back and don't look at this. Also rest of the team from cameras might see that ugly 'glitch'.
-If door's handle is destroyed by your silent judge - alarm from guard who detects that. (How to implement?) Same for vault door - one/two guards will use navpoints only in main area, might be left alive for pager limit, not gonna use deposit-corridor area, can't see the door. Will walk only in lobby, main Hall, 2nd Hall external side. Just opened-vault-door bounded alert triggers on more closer points, where they never gonna step. Same points will be used to travelling staff which scared of opened vault door.
+*If door's handle is destroyed by your silent judge - alarm from guard who detects that. (How to implement?)* Same for vault door - one/two guards will use navpoints only in main area, might be left alive for pager limit, not gonna use deposit-corridor area and before offices stairs only, can't see the vault door. Will walk only in lobby, main Hall, 2nd Hall external side and step in the offices near HR. Just opened-vault-door bounded alert triggers on more closer points, where they never gonna step. Same points will be used to travelling staff which scared of opened vault door. Also beware the panicbuttons then!
 
-Bain will cast 2 phrases about wasting keycards and send the van after, if at safe-to-use moment + 20 seconds we not have 2 keycards total in inventory. We can take one more somewhere, but the van will come. All inserted cards then will cancel 'take devices' objective. In case of presence he just reminds about opening.
+Bain will cast 2 phrases about wasting keycards and send the van after, if at safe-to-use moment + 20 seconds we not have 2 keycards total in inventory. We can take one more somewhere, but the van will come. All inserted cards then will cancel 'take devices' objective. In case of cards presence he just reminds about opening.
 -----------------------------
 That's why GenSec allows to open up vault early. Scheduled day is tomorrow or something, but here's client with another stack of dollars. Why not to open it today and put everything meant to be in also today? Left side in to put inside, right meant to be send back to customers when they come. 30%, something is already taken from previous vault handling day.
