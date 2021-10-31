@@ -15,45 +15,50 @@ Plan A (stealth)
 We starting in casing mode.
 + 1st objective: find server room, Bain wants to know details.
 + 2nd objective: hack Admin's PC in IT room. He is our hostage now. And it fails.
-+ 3rd objective: find some terminal with open session to VaultControlSystem. Bain offers manager's PC. (May be switced to right one PC search, like in Big bank, later in dev, 10 seconds, then 'yes' or 'no, try another') We proceeding to his office and tieing him too. plus keycard to use later. Next is installation of something useful on his PC.
++ 3rd objective: find some terminal with open session to VaultControlSystem. Bain offers manager's PC. (May be switced to right one PC search, like in Big bank, later in dev, 25 seconds, then 'yes' or 'no, try another') We proceeding to his office and tieing him too. plus keycard to use later. Next is installation of something useful on his PC.
 + 4th objective: relaunch hack in server room. Now successful. Bain scans their system and detects what we facing here. Then makes a note what we need to do.
-+ 5th objective: use or find two keycards on timelock and find codes for vault door somewhere in the branch.
-+ event (75% chance in 15-40 seconds, if we placed keycards with interval > 2 seconds): GenSec calls us on security chief/manager's phone. We have 15 seconds to respond or alarm goes off. 1 second (or 0) action to patch Bain on line. He tells a 'short story' about what happened here and why timelock is activated 'occasionally'. 2 variants of phrases and answers, random selection in each of category. Marked in voicelines list file. Each has separation to good and bad ending.
++ 5th objective: use or find two keycards for the timelock and find codes for vault door somewhere in the branch. Many places can be used, safes preferred. Also for pre-looting big one has code-door in addition to manager's key we collected from him (no item), you need to find codes in their database. Then we getting it from final Server hack only. It also might be obtainable from manager interrogation.
++ event (75% chance in 15-40 seconds, if we placed keycards with interval > 2 seconds): GenSec calls us on security chief/manager's phone. We have 15 seconds to respond or alarm goes off. 1 second action to patch Bain on line, it also holds the alarm trigger if you pushing [F] already. He tells a 'short story' about what happened here and why timelock is activated 'occasionally'. 2 variants of phrases and answers, random selection in each of category. Marked in voicelines list file. Each has separation to good and bad ending.
   + (Both variants) Operator satisfied and tell one of phrases, we ending the conversation same way. Then we can continue. If not, operator sends 2 additional guards on a car (40% chance, if we has more than 1 civilians killed).
-  + Variant 1 (breaking keycard panel) has option to make them fools with costuming and confirming the story. 
-  + Variant 2 (faulty timelock test) is not, continuing is loud only. -- Semi-fixed variations for this event. Described in dedicated section below.
-+ 6th objective: wait for timelock and then enter the codes on drums (12 seconds action). And then open up the door with main handle (1 second action).
+  + Variant 1 (breaking keycard panel) has option to make them fools with costuming event and confirming the story, launched if gensec inspection phase is initiated. Optional objective is to take some cosmetics in Cafeteria shelves (??) and tweak the face looking for the meeting. (Chains mostly looks like dark-skin-guard, uhm.. lore-based)
+  + Variant 2 (faulty timelock test) is not safe, continuing is loud only. -- Semi-fixed variations for this event. Described in dedicated section below. Alarm when the team reaches IT room.
++ 6th objective: wait for timelock and then enter the codes on drums (12 seconds interaction). And then open up the door with main handle (0.5 second action).
 + 7th objective: secure the loot and escape.
 
----(on loud) Differences is: 
+******for loud. 
+differences is: 
 
-a) lots of cops
+a) lots of cops.
 
 b) requirement of proceed to objective 5 above anyway. Then Bain needs additional hack for sealing pins lockers and tells us to drill up drums sealing lock. This time we breaking also drums' teeths and can go straight to opening without codes. Variations about time of alarm triggering is described in voicelines file. 
 In case of loud nearly from start (anything below objective 5, I mean before VCS hack is complete and he detects locking system ACTIVATION), after hacking finished he just puts phrase about sealing is active and he needs to be reconnected for last hack (right after report about their vault system stats) and we must drill.
+(We logically might have just go and drill scenario and then drill is done, but no opening sequence, handle interaction does nothing. All is from pins blocking on alarm)
 
 c) cops can kill the lights in office/customers secton, we might pull it back on. And also they might stop our hack by kicking off the PC. We must restart it + reconnect Bain. (action -> additional 20 seconds of waiting time, like booting up and 4 seconds to reconnect him -> hacking progress bar continues [starts again])
 
-d) additional gas attack as trap for us. Goes in 'safe' to defend areas to (literally) smoke us out. That is vault, staff toilets, server/archive room nearby and Office supply room. 25 seconds then fades in 15 seconds, deals damage all 40 seconds. Or more with requirement to remove gas can from the roof/ventilation equipment room near the Storage stairs. The door there will be closed in that case, but not by the lock, so lockpick timer also overriden to 0.125 seconds.
+d) additional gas attack as trap for us. Goes in 'safe' to defend areas to (literally) smoke us out. That is vault, staff toilets, server/archive room nearby, Office supply room and TSU. 25 seconds then fades in 15 seconds, deals damage all 40 seconds. Or more with requirement to remove gas can from the roof/ventilation equipment room near the Storage stairs. The door there will be closed in that case, but not by the lock, so lockpick timer also overriden to 0.125 seconds.
 
-Plan B (Insider asset which costs almost all points/expensive enough)
+Plan B (Insider asset which costs almost all points)
 We starting in casing mode
-+ 1st objective: walk to receptionist in lobby
++ 1st objective: walk to receptionist in lobby (grimm prepared as storyline in english.txt)
 + 2nd objective: ask for info about deposit injection as company (scripted dialogue). She points us to managers office behind the customers hall ('Deals' sign is there).
-+ 3rd objective: enter his office and put on the masks. (Careful, camera and direct view for civs might be there). We tieing him down and borrowing his keycard. (Optionally closing blinders, someone might do it even in casing mode)
-+ 4th objective: patching Bain to the phone (same 1 second) and he gonna make a call to GenSec to inform about unplanned urge to open up the vault. 
-Reason is 'big client' with a deposit injection, want to do it today, and TSU is not have enough space already for his stack of cash. Asks GenSec to move planned time a day early. Then we recieving clearance and new opening time(basically useless info for gameplay, might be complicated and low important to implement). Dialogue proceeds and ends as written in scripts file. Random variations are free.
-+ 5th objective: same activating timelock with cards and search for door codes.
++ 3rd objective: enter his office and put on the masks. (Careful, camera and direct view for civs might be there). We tieing him down and borrowing his keycard. (Optionally closing blinders, someone might do it even in casing mode) [there is 2 variants of wooden blinders from FWB on wide windowed wall. We must take care of the guy in there and don't move in in opened space. Closeable paper blinders is for the doorframe]
++ 4th objective: patching Bain to the phone (same 1 second) and he gonna make a call to GenSec to inform about unplanned urge to open up the vault. We still connected to the stream in our earpieces.
+Reason is 'big client' with a deposit injection, want to do it today, and TSU is not have enough space already for his stack of cash. Asks GenSec to move planned time a day early. Then we recieving clearance and new opening time(basically useless info for gameplay, might be complicated and low important to implement). Dialogue proceeds and ends as written in voicelines file. Random variations are free.
++ 5th objective: same activating timelock with cards and search for door codes everywhere. Logically it's on declared resheduled timestamp, so Control is calm.
 + 6th objective: wait for timelock and then enter the codes on drums (12 seconds action). Next open up the door with main handle (1 second action).
-  + in loud no codes intersction, after thermal drill finished you can interact the handle.
+  + in loud no codes interaction, after thermal drill finished you can interact the handle to open vault door. Make sure sealing hack is complete.
 + 7th objective: secure the loot and escape.
 
 TECHNICAL DATA:
-We need to save 2 keycards for vault door, 1 from manager(maybe give one to director too?), 2 stored in safes of manager and director. In plan B we have additional one in Security room.
+We need to save 2 keycards for vault door, 1 from manager(maybe give one to director too?), 2 stored in safes of manager and director or somewhere else. In plan B we have additional one in Security room.
 We warned not to use it on timelock before Bain will do some tricks. Better just disable interaction on panels for that.
+
+Manager can be interrogated if you hide him behind his desk or in Moneycounting behind the machines, if he's not in offices. He has option to be in Staff section walking back'n'forth with cellphone from near TSU to Г-shaped wall at Vault 2nd door. (If possible to sync anim of ending the conversation for his 'detected' trigger). He recieves 'follow me' trigger override being in his office area or in moneycounters area (room itself). Launched on 'found the codes' SO, he must be hidden there, and Bain notes the crew about. After the sequence he gets back his vanilla trigger to be moveable again.
+
+(Triggered when ready to use timelock safely but no actions in 20 seconds and players have not enough/at all keycards in their inventory. If you have them - he just reminds to open up the vault)
 In case of some not good guy already wasted them anyway and we don't have enough cards in inventory, when it's ready to use safely:
-(Triggered when ready to use timelock safely but no actions in 20 seconds and players have not enough/at all keycards in their inventory)
--Bain tell us that we are dumb lvl1 crooks and commands to withdraw.
+-Bain tell us that we are dumb lvl1 crooks and commands to make extra actions or withdraw.
 -Then Bain getting an idea about hacking also keycard panels, which don't have cards inserted. And makes a scanners delivery in Twitch's van with 10 minutes waiting. It available from same drill bag (pickup action override, 3 items recieved if none cards inserted, 2 items if one already in place, then pickup of drill bag itself becomes available on alarm trigger)
 Then we placing those scanners on panels near the vault door and on security providing server in IT room. When all devised placed -- 30 seconds and timelock activates. 
 Next required 1 action: to remove scanners from vault (2 seconds). In case if GenSec guards will arrive.
