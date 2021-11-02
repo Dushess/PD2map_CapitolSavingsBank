@@ -1,8 +1,0 @@
-<materials version="3">
-    <material name="mat_bnk_office_penstand_calculator" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
-        <diffuse_texture file="units/payday2/props/bnk_prop_office_penstand_calculator/bnk_prop_office_penstand_calculator_df"/>
-        <bump_normal_texture file="units/payday2/props/bnk_prop_office_penstand_calculator/bnk_prop_office_penstand_calculator_nm"/>
-	</material>
-</materials>
-
-

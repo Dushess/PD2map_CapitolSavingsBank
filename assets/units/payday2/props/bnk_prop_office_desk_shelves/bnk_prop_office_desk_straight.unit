@@ -1,6 +1,0 @@
-<unit type="bnk" slot="1" >
-    <object file="units/payday2/props/bnk_prop_office_desk_shelves/bnk_prop_office_desk_straight" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

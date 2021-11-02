@@ -1,6 +1,0 @@
-<unit type="lxa" slot="1" >
-    <object file="units/payday2/props/lxa_prop_int_carpet/lxa_prop_int_carpet_01_b" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

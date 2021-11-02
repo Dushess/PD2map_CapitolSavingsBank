@@ -1,78 +1,36 @@
-<table name="US Capitol Savings Bank">
+<table min_lib_ver="4.5" name="U.S. Capitol Savings Bank">
 	<Localization default="english.txt" directory="loc">
-		<loc file="english.txt" language="english" />
-		<loc file="russian.txt" language="russian" />
+		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="America" briefing_dialog="" id="us-capital" intro_event="" max_bags="25">
-		<add file="levels/us-capital/add.xml"/>
-		<assets/>
+	<level ai_group_type="America" briefing_dialog="" ghost_bonus="0.05" id="csb" intro_event="" max_bags="30" player_style="generic">
+		<assets>
+			<asset name="ammo_bag"/>
+			<asset name="health_bag"/>
+			<asset name="grenade_crate"/>
+			<asset name="bodybags_bag"/>
+		</assets>
 		<outro_event>
 			<value_node value=""/>
 		</outro_event>
-		<packages>
-			<value_node value="levels/narratives/vlad/nightclub/world/world"/>
-			<value_node value="levels/narratives/e_framing_frame/stage_3/world/world"/>
-			<value_node value="levels/instances/unique/hox_estate_security_room_door/world/world"/>
-			<value_node value="levels/narratives/e_framing_frame/stage_3/world"/>
-			<value_node value="levels/instances/unique/red/red_camera_room/world/world"/>
-			<value_node value="levels/instances/unique/dah/dah_security_room5/world/world"/>
-			<value_node value="levels/narratives/bain/rvd/stage2/mkp/mkp"/>
-			<value_node value="levels/narratives/h_firestarter/stage_3/pc_only/pc_only"/>
-			<value_node value="levels/narratives/locke/tag/shadow_caster/shadow_caster"/>
-			<value_node value="levels/narratives/vlad/nightclub/world"/>
-			<value_node value="levels/narratives/h_alex_must_die/stage_2/pc_only/pc_only"/>
-			<value_node value="levels/instances/unique/red/red_server_room/world/world"/>
-			<value_node value="levels/narratives/armadillo/arm_cro/pc_only/pc_only"/>
-			<value_node value="levels/instances/unique/bph/bph_c4_doubledoor/world/world"/>
-			<value_node value="levels/narratives/vlad/nightclub/pc_only/pc_only"/>
-			<value_node value="levels/instances/unique/chill/dragan_stage_01/world/world"/>
-			<value_node value="levels/instances/unique/dark/tunnel_room/world/world"/>
-			<value_node value="levels/narratives/dentist/mia/stage2/world"/>
-			<value_node value="levels/instances/unique/brb/brb_deposit_room/world/world"/>
-			<value_node value="levels/narratives/short2/stage2/backdrop/backdrop"/>
-			<value_node value="levels/narratives/h_alex_must_die/stage_2/world"/>
-			<value_node value="levels/narratives/e_election_day/stage_2/pc_only/pc_only"/>
-			<value_node value="levels/narratives/short1/stage1/lighting/lighting"/>
-			<value_node value="levels/instances/unique/flat/window_planks/world/world"/>
-			<value_node value="levels/instances/unique/chill/chill_slot_machine/world/world"/>
-			<value_node value="levels/narratives/bain/big/props/props"/>
-			<value_node value="levels/narratives/e_election_day/stage_1/mt_art/mt_art"/>
-			<value_node value="levels/narratives/e_election_day/stage_2/world"/>
-			<value_node value="levels/narratives/e_election_day/stage_3/new_mall/new_mall"/>
-			<value_node value="levels/instances/unique/cane/cane_trap_flame/world/world"/>
-			<value_node value="levels/instances/unique/chill/duke/world/world"/>
-			<value_node value="levels/narratives/e_framing_frame/stage_3/pc_only/pc_only"/>
-			<value_node value="levels/narratives/classics/red2/env/env"/>
-			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
-			<value_node value="levels/narratives/classics/flat/flt_backdrop/flt_backdrop"/>
-			<value_node value="levels/narratives/h_firestarter/stage_3/world/world"/>
-			<value_node value="levels/narratives/dentist/mus/world/world"/>
-			<value_node value="levels/narratives/classics/flat/world/world"/>
-			<value_node value="levels/narratives/locke/brb/props/props"/>
-			<value_node value="levels/narratives/bain/big/world/world"/>
-			<value_node value="levels/narratives/vlad/four_stores/world/world"/>
-			<value_node value="levels/instances/unique/vit/vit_wire_box/world/world"/>
-			<value_node value="levels/narratives/vlad/jolly/backdrop/backdrop"/>
-			<value_node value="levels/narratives/locke/bph/props4/props4"/>
-		</packages>
+		<packages/>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
 				<options merge_mode="add" mode="add"/>
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="" contact="bain" id="US Capitol Savings Bank">
+	<narrative briefing_event="" contact="bain" id="Capitol Savings Bank">
 		<chain>
-			<table level_id="us-capital" type="d" type_id="heist_type_assault"/>
+			<table level_id="csb" type="d" type_id="heist_type_assault"/>
 		</chain>
 		<contract_cost>
-			<value_node value="4000"/>
-			<value_node value="8000"/>
-			<value_node value="20000"/>
 			<value_node value="40000"/>
+			<value_node value="55000"/>
+			<value_node value="70000"/>
+			<value_node value="85000"/>
 			<value_node value="100000"/>
-			<value_node value="100000"/>
-			<value_node value="100000"/>
+			<value_node value="150000"/>
+			<value_node value="270000"/>
 		</contract_cost>
 		<crimenet_callouts>
 			<value_node value="nothing"/>
@@ -87,8 +45,8 @@
 			<value_node value="1"/>
 			<value_node value="1"/>
 			<value_node value="1"/>
-			<value_node value="2"/>
-			<value_node value="2"/>
+			<value_node value="1"/>
+			<value_node value="3"/>
 			<value_node value="3"/>
 			<value_node value="3"/>
 		</experience_mul>
@@ -111,13 +69,13 @@
 			<value_node value="2000"/>
 		</min_mission_xp>
 		<payout>
-			<value_node value="9800"/>
-			<value_node value="13200"/>
-			<value_node value="30000"/>
-			<value_node value="50000"/>
-			<value_node value="60000"/>
-			<value_node value="73000"/>
-			<value_node value="110000"/>
+			<value_node value="70000"/>
+			<value_node value="92000"/>
+			<value_node value="130000"/>
+			<value_node value="165000"/>
+			<value_node value="260000"/>
+			<value_node value="430000"/>
+			<value_node value="800000"/>
 		</payout>
 	</narrative>
 </table>

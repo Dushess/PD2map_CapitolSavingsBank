@@ -1,6 +1,0 @@
-<materials version="3">
-	<material name="mat_rug_table_chair" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
-		<diffuse_texture file="units/pd2_dlc_cage/props/ind_prop_cardealership_armchair_set/ind_prop_cardealership_couch_rug_chair_table_df" />
-		<bump_normal_texture file="units/pd2_dlc_cage/props/ind_prop_cardealership_armchair_set/ind_prop_cardealership_couch_rug_chair_table_nm" />
-	</material>
-</materials>

@@ -1,5 +1,0 @@
-<materials version="3">
-    <material render_template="generic:DIFFUSE_TEXTURE:INSTANCED" decal_material="sheet_metal" version="2" name="pipes_set">
-        <diffuse_texture file="units/world/props/pipes/pipes_set_df"/>
-    </material>
-</materials>

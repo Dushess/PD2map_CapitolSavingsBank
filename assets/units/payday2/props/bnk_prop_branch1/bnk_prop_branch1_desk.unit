@@ -1,6 +1,0 @@
-<unit type="bnk" slot="1" >
-    <object file="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_desk" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

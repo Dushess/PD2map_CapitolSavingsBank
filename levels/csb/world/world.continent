@@ -1,0 +1,1346 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="-38 -73.5 -15.2" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_001" position="-38 -73.5 -15.2" rotation="0 0 0 -1" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-38 1526.5 -15.25" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-182.5 -1113 0.75" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_003" position="-38 1526.5 -15.25" rotation="-0 0 -0 -1" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-41 -1666.5 -14.9" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m_corner" name_id="str_ext_sidewalk_c_16x16m_corner_001" position="-41 -1666.5 -14.9" rotation="-0 0 -0 -1" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2878 -1663.5 -15" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_straight_a_16x16m" name_id="str_ext_road_c_straight_a_16x16m_004" position="2878 -1664.5 -15" rotation="0 0 -0.707107 -0.707107" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1278 -1659 -14.75" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_tcross_a_16x16m" name_id="str_ext_road_c_tcross_a_16x16m_001" position="1278 -1659 -14.75" rotation="0 0 0.707107 -0.707107" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2857 -3259.5 -14.9" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_straight_a_32x16m" name_id="str_ext_road_c_straight_a_32x16m_001" position="2857 -3259.5 -14.9" rotation="-0 0 -0 -1" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1900 -3259.5 -15" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="-2469 517 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_straight_a_32x16m" name_id="str_ext_road_c_straight_a_32x16m_002" position="-1900 -3259.5 -15" rotation="-0 0 -0 -1" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1278 3134.5 -15.1" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_straight_a_32x16m" name_id="str_ext_road_c_straight_a_32x16m_003" position="1278 3134.5 -15.1" rotation="0 0 0.707107 -0.707107" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-11563 -1567 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="-2130 2114 0" local_rot="0 0 0 1" name="units/payday2/architecture/str_bdrop_building_north_03/str_bdrop_building_north_03" name_id="str_bdrop_building_north_03_001" position="-20285 -1567 0" rotation="0 0 0 -1" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-13074 -7209 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="-3641 -3528 0" local_rot="0 0 0 1" name="units/payday2/architecture/str_bdrop_building_north_04/str_bdrop_building_north_04" name_id="str_bdrop_building_north_04_001" position="-21796 -7209 0" rotation="0 0 0 -1" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-16708 -2856 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="-7275 825 0" local_rot="0 0 0 1" name="units/payday2/architecture/str_bdrop_building_north_set_01/str_bdrop_building_north_set_04" name_id="str_bdrop_building_north_set_04_001" position="-25430 -2856 0" rotation="0 0 0 -1" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="12296 18719 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str_ext_hcm_l/str_ext_hcm_l_set_backdrop" name_id="str_ext_hcm_l_set_backdrop_001" position="12296 18719 0" rotation="0 0 0.707107 -0.707107" unit_id="100013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1133.2 -2783.92 -32.3" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_c" name_id="str_ext_deco_asphalt_patch_c_001" position="1133.2 -2783.92 -32.3" rotation="0 0 0 -1" unit_id="100014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3072.29 -2189.49 -32.4" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_d" name_id="str_ext_deco_asphalt_patch_d_001" position="3072.29 -2189.49 -32.4" rotation="0 0 0 -1" unit_id="100015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2433.67 3924.96 -35" _prev_rot="0 0 0.694658 -0.71934" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_b" name_id="str_ext_deco_asphalt_patch_b_001" position="2429.67 3924.82 -35" rotation="0 0 0.694658 -0.71934" unit_id="100016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1052.6 -2781 -32.3" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_a" name_id="str_ext_deco_asphalt_patch_a_001" position="-1052.6 -2779 -32.3" rotation="0 0 -0.707107 -0.707107" unit_id="100017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2471.81 853.092 -32.6" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_a" name_id="str_ext_deco_asphalt_patch_a_002" position="2435.81 853.092 -32.6" rotation="0 0 0 -1" unit_id="100018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5732 -3259.5 -15" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_straight_a_32x16m" name_id="str_ext_road_c_straight_a_32x16m_004" position="5732 -3259.5 -15" rotation="-0 0 -0 -1" unit_id="100019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5145 -2099.36 -32.4" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_b" name_id="str_ext_deco_asphalt_patch_b_002" position="5145 -2099.36 -32.4" rotation="0 0 -0.0436194 -0.999048" unit_id="100020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3628 -3259.5 -14.8" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_straight_a_32x16m" name_id="str_ext_road_c_straight_a_32x16m_005" position="-3626 -3259.5 -14.9" rotation="-0 0 -0 -1" unit_id="100021"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1751.86 -2413.58 -32.3" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_a" name_id="str_ext_deco_asphalt_patch_a_003" position="-1751.86 -2413.58 -32.3" rotation="0 0 0 -1" unit_id="100022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9223 -3259.5 -15" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-2400 0 -0.1" local_rot="-0 0 0 1" name="units/payday2/architecture/str/str_ext_road_24x16m_parking" name_id="str_ext_road_24x16m_parking_001" position="-9226 -3259.5 -15" rotation="0 0 0 -1" unit_id="100023"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2878 3126.5 -15.3" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_parking_ramp" name_id="str_ext_road_c_parking_ramp_001" position="2878 3126.5 -15.3" rotation="0 0 -0.707107 -0.707107" unit_id="100024"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-38 -1673.5 -15.2" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_004" position="-38 -1673.5 -15.2" rotation="0 0 0 -1" unit_id="100025"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="20.5 -1685.5 -14.9" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="interact_disabled" name="units/pd2_dlc_peta/props/pta_interactable_electric_box/pta_interactable_electric_box" name_id="pta_interactable_electric_box_001" position="20.5 -1685.5 -14.9" rotation="-0 0 -0 -1" unit_id="100026"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1299.83 -854.65 -14.9" _prev_rot="0 0 0.861629 -0.507538" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_001" position="1299.83 -854.65 -14.9" rotation="0 0 0.861629 -0.507538" unit_id="100027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1065.93 -1161.38 -14.9" _prev_rot="0 0 0.92388 -0.382683" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_002" position="1065.93 -1161.38 -14.9" rotation="0 0 0.92388 -0.382683" unit_id="100028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="757.177 -1395.29 -14.9" _prev_rot="0 0 0.96363 -0.267238" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_003" position="757.177 -1395.29 -14.9" rotation="0 0 0.96363 -0.267238" unit_id="100029"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="394.835 -1542.03 -14.9" _prev_rot="0 0 0.993068 -0.117537" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_004" position="394.835 -1542.03 -14.9" rotation="0 0 0.993068 -0.117537" unit_id="100030"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1446.24 -491.626 -14.9" _prev_rot="0 0 0.788011 -0.615661" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_005" position="1449.15 -492.352 -14.9" rotation="0 0 0.798636 -0.601815" unit_id="100031"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5594.45 -1545 -15.15" _prev_rot="0 0 -0.12187 -0.992546" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/bnk_prop_street_cart_fastfood/bnk_prop_street_cart_fastfood" name_id="bnk_prop_street_cart_fastfood_001" position="-5613.86 -1549.84 -15.15" rotation="0 0 -0.12187 -0.992546" unit_id="100032"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-77.7568 -2447.13 -32.3" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_street_awning/com_prop_street_awning_wine_7m_dst" name_id="com_prop_street_awning_wine_7m_dst_001" position="-77.7568 -2447.13 -32.3" rotation="0 0 0 -1" unit_id="100033"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="629.156 -2447.87 -32.3" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_street_awning/com_prop_street_awning_wine_7m_dst" name_id="com_prop_street_awning_wine_7m_dst_002" position="629.156 -2447.87 -32.3" rotation="0 0 0 -1" unit_id="100034"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3401.81 -2447.65 -32.4" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_street_awning/com_prop_street_awning_wine_7m_dst" name_id="com_prop_street_awning_wine_7m_dst_003" position="3401.81 -2447.65 -32.4" rotation="0 0 0 -1" unit_id="100035"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4118.81 -2447.25 -32.4" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_street_awning/com_prop_street_awning_wine_7m_dst" name_id="com_prop_street_awning_wine_7m_dst_004" position="4092.81 -2447.25 -32.4" rotation="0 0 0 -1" unit_id="100036"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4763.58 -2447.66 -32.4" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_street_awning/com_prop_street_awning_wine_7m_dst" name_id="com_prop_street_awning_wine_7m_dst_005" position="4763.58 -2447.66 -32.4" rotation="0 0 0 -1" unit_id="100037"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2079.07 -1128.9 -33.33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_street_awning/com_prop_street_awning_wine_7m_dst" name_id="com_prop_street_awning_wine_7m_dst_006" position="2076.07 -1128.9 -33.33" rotation="0 0 -0.707107 -0.707107" unit_id="100038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2079.07 -446.902 -33.33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="681.998 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_street_awning/com_prop_street_awning_wine_7m_dst" name_id="com_prop_street_awning_wine_7m_dst_007" position="2076.07 -446.902 -33.33" rotation="0 0 -0.707107 -0.707107" unit_id="100039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2079.07 234.098 -33.33" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1363 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_street_awning/com_prop_street_awning_wine_7m_dst" name_id="com_prop_street_awning_wine_7m_dst_008" position="2076.07 234.098 -33.33" rotation="0 0 -0.707107 -0.707107" unit_id="100040"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1064.51 -1157.33 -7.4397" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_001" position="1064.51 -1157.33 -7.4397" rotation="0 0 -0.92388 -0.382683" unit_id="100041"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1298.98 -854.639 -7.43971" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_002" position="1298.98 -854.639 -7.43971" rotation="0 0 0 -1" unit_id="100042"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1452.32 -490.523 -7.4397" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_003" position="1452.32 -490.523 -7.4397" rotation="0 0 0.461749 -0.887011" unit_id="100043"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="395.93 -1543.8 -7.4397" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_004" position="395.93 -1543.8 -7.4397" rotation="0 0 0.976296 -0.21644" unit_id="100044"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="759.897 -1401.93 -7.4397" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_005" position="759.897 -1401.93 -7.4397" rotation="0 0 0.300706 -0.953717" unit_id="100045"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9433 -3681 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/gov_d_ext/gov_d_ext_inner_garden" name_id="gov_d_ext_inner_garden_001" position="-18155 -3681 0" rotation="0 0 0 -1" unit_id="100046"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="674.48 4114.89 -21" _prev_rot="-0 0 -0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1.04907e-006 0 -12" local_rot="0 1 0 4.37114e-008" mesh_variation="" name="units/pd2_dlc_dah/props/dah_prop_garden_light_modern/dah_prop_garden_light_modern" name_id="dah_prop_garden_light_modern_001" position="674.48 4114.89 -21" rotation="-0 0 -0 -1" unit_id="100047"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="685.48 4546.89 -21" _prev_rot="-0 0 -0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1.04907e-006 0 -12" local_rot="0 1 0 4.37114e-008" mesh_variation="" name="units/pd2_dlc_dah/props/dah_prop_garden_light_modern/dah_prop_garden_light_modern" name_id="dah_prop_garden_light_modern_002" position="674.48 4546.89 -21" rotation="-0 0 -0 -1" unit_id="100048"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="185.049 1689.77 -20.2" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 -3204 0" local_rot="0 0 0 1" name="units/world/vegetation/bush/hedge/hedge" name_id="hedge_001" position="185.049 1689.77 -18.2" rotation="0 0 0 -1" unit_id="100049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="185.049 886.773 -20.2" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 -4007 0" local_rot="0 0 0 1" name="units/world/vegetation/bush/hedge/hedge" name_id="hedge_002" position="185.049 886.773 -18.2" rotation="0 0 0 -1" unit_id="100050"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="185.049 2485.77 -20.2" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 -2408 0" local_rot="0 0 0 1" name="units/world/vegetation/bush/hedge/hedge" name_id="hedge_004" position="185.049 2485.77 -18.2" rotation="0 0 0 -1" unit_id="100052"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="185.049 3294.77 -20.2" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 -1599 0" local_rot="0 0 0 1" name="units/world/vegetation/bush/hedge/hedge" name_id="hedge_006" position="185.049 3294.77 -18.2" rotation="0 0 0 -1" unit_id="100054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="183 913 -15.2" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_streetplanters_ground/flt_prop_streetplanters_ground_big" name_id="flt_prop_streetplanters_ground_big_001" position="183 889 -15.2" rotation="-0 0 -0 -1" unit_id="100058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="183 1685 -15.2" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_streetplanters_ground/flt_prop_streetplanters_ground_big" name_id="flt_prop_streetplanters_ground_big_002" position="183 1686 -15.2" rotation="-0 0 -0 -1" unit_id="100059"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="183 2511 -15.2" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_streetplanters_ground/flt_prop_streetplanters_ground_big" name_id="flt_prop_streetplanters_ground_big_003" position="183 2490 -15.2" rotation="0 0 0 -1" unit_id="100060"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="183 3166 -15.2" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_streetplanters_ground/flt_prop_streetplanters_ground_big" name_id="flt_prop_streetplanters_ground_big_004" position="183 3287 -15.2" rotation="0 0 0 -1" unit_id="100061"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-22.456 -1608.16 -14.9" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_006" position="-22.456 -1608.16 -14.9" rotation="0 0 0 -1" unit_id="100074"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-23.1076 -1606.18 -7.4397" _prev_rot="0 0 -0.100189 -0.994968" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.651545 1.97668 7.4603" local_rot="0 0 0.100189 0.994968" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_006" position="-23.1076 -1606.18 -7.4397" rotation="0 0 -0.100189 -0.994969" unit_id="100075"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-34 -1956.5 -15.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="2297 -5865 -2.5" local_rot="0 0 0.707107 0.707107" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_005" position="-34 -1956.5 -15.5" rotation="0 0 -0.707107 -0.707107" unit_id="100077"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1635 -1956.5 -15.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_006" position="-1634 -1956.5 -15.5" rotation="0 0 -0.707107 -0.707107" unit_id="100078"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3234 -1956.5 -15.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="5708 -3287 -2.5" local_rot="0 0 1 0" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_007" position="-3234 -1956.5 -15.5" rotation="0 0 -0.707107 -0.707107" unit_id="100079"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-445.456 -1608.16 -14.9" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_007" position="-470.456 -1608.16 -14.9" rotation="0 0 0 -1" unit_id="100080"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-446.108 -1606.18 -7.4397" _prev_rot="0 0 -0.100189 -0.994968" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.65155 1.97668 7.4603" local_rot="0 0 0.100189 0.994968" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_007" position="-471.108 -1606.18 -7.4397" rotation="0 0 -0.100189 -0.994968" unit_id="100081"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-916.456 -1608.16 -14.9" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_008" position="-918.456 -1608.16 -14.9" rotation="0 0 0 -1" unit_id="100082"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-919.108 -1606.18 -7.4397" _prev_rot="0 0 -0.100189 -0.994968" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_008" position="-919.108 -1606.18 -7.44" rotation="0 0 -0.827816 -0.561" unit_id="100083"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1365.46 -1608.16 -14.9" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_a_1m" name_id="str_prop_street_planter_a_1m_009" position="-1366.46 -1608.16 -14.9" rotation="0 0 0 -1" unit_id="100084"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1367.11 -1606.18 -7.4397" _prev_rot="0 0 -0.100189 -0.994968" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/stn_prop_courtyard_tree_b/stn_prop_courtyard_tree_b_tall" name_id="stn_prop_courtyard_tree_b_tall_009" position="-1367.11 -1606.18 -7.44" rotation="0 0 -0.507538 -0.861629" unit_id="100085"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6946.83 -2868.45 -32.25" _prev_rot="-0 0 -0.00872654 -0.999962" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_b" name_id="str_ext_deco_asphalt_patch_b_003" position="-6946.83 -2868.45 -32.25" rotation="-0 0 -0.00872654 -0.999962" unit_id="100086"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="289 4026.5 -15.5" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-396.48 -74.3901 5.5" local_rot="-0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_001" position="289 4026.5 -15.5" rotation="0 0 0 -1" unit_id="100087"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-110 4026.5 -15.5" _prev_rot="0 -1.74533e-005 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_002" position="-110 4026.5 -15" rotation="0 -0.000523599 0 -1" unit_id="100088"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-38 2428.5 -15.399" _prev_rot="3.49066e-005 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_008" position="-38 2428.5 -15.399" rotation="3.49066e-005 0 0 -1" unit_id="100089"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2878 4749.5 -15.2" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1599 0 0.3" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x16m_a" name_id="str_ext_road_16x16m_a_001" position="2878 4725.5 -15.2" rotation="0 0 -0.707107 -0.707107" unit_id="100090"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2878 6349 -15" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="3198.5 0 0.5" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/architecture/str/str_ext_road_16x16m_a_manhole" name_id="str_ext_road_16x16m_a_manhole_001" position="2878 6325 -15" rotation="0 0 -0.707107 -0.707107" unit_id="100092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1278 9523 -15" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x16m_construction_b" name_id="str_ext_road_16x16m_construction_b_001" position="1278 9523 -15" rotation="0 0 0.707107 -0.707107" unit_id="100093"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2129.75 7814.67 -34.9991" _prev_rot="0 0 0.300706 -0.953717" continent="world" instance_data="false" local_pos="4664.17 748.253 -19.4991" local_rot="0 0 -0.887011 0.461749" name="units/payday2/props/str_prop_construction_waterbarrier_white_2m/str_prop_construction_waterbarrier_white_2m" name_id="str_prop_construction_waterbarrier_white_2m_001" position="2129.75 7790.67 -34.9991" rotation="0 0 0.300706 -0.953717" unit_id="100094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2362.81 7558.03 -34.9991" _prev_rot="0 0 0.5 -0.866025" continent="world" instance_data="false" local_pos="4407.53 515.185 -19.4991" local_rot="0 0 -0.965926 0.258819" name="units/payday2/props/str_prop_construction_waterbarrier_white_2m/str_prop_construction_waterbarrier_white_2m" name_id="str_prop_construction_waterbarrier_white_2m_002" position="2362.81 7534.03 -34.9991" rotation="0 0 0.5 -0.866025" unit_id="100095"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2068.22 8210.31 -34.9991" _prev_rot="0 0 0.67559 -0.737277" continent="world" instance_data="false" local_pos="5059.81 809.78 -19.4991" local_rot="0 0 -0.999048 0.0436193" name="units/payday2/props/str_prop_construction_waterbarrier_white_2m/str_prop_construction_waterbarrier_white_2m" name_id="str_prop_construction_waterbarrier_white_2m_003" position="2068.22 8186.31 -34.9991" rotation="0 0 0.67559 -0.737277" unit_id="100096"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2090.11 8553.17 -34.9991" _prev_rot="0 0 0.737277 -0.67559" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_construction_waterbarrier_white_2m/str_prop_construction_waterbarrier_white_2m" name_id="str_prop_construction_waterbarrier_white_2m_004" position="2098.08 8552.47 -34.9991" rotation="0 0 0.737277 -0.67559" unit_id="100097"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2086.72 8933.38 -34.9991" _prev_rot="0 0 0.67559 -0.737277" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_construction_waterbarrier_white_2m/str_prop_construction_waterbarrier_white_2m" name_id="str_prop_construction_waterbarrier_white_2m_005" position="2088.37 8914.45 -34.9991" rotation="0 0 0.67559 -0.737277" unit_id="100098"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2088.16 9362.58 -34.9991" _prev_rot="0 0 -0.34202 -0.939693" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_construction_waterbarrier_white_2m/str_prop_construction_waterbarrier_white_2m" name_id="str_prop_construction_waterbarrier_white_2m_006" position="2081.27 9356.79 -34.9991" rotation="0 0 -0.34202 -0.939693" unit_id="100099"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2308.41 9502.09 -34.9991" _prev_rot="0 0 -0.0436197 -0.999048" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_construction_waterbarrier_white_2m/str_prop_construction_waterbarrier_white_2m" name_id="str_prop_construction_waterbarrier_white_2m_007" position="2308.41 9502.09 -34.9991" rotation="0 0 -0.0436197 -0.999048" unit_id="100100"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2483.74 7266.84 -34.9991" _prev_rot="0 0 -0.642788 -0.766044" continent="world" instance_data="false" local_pos="4116.34 394.26 -19.4991" local_rot="0 0 -0.0871557 0.996195" name="units/pd2_dlc2/csgo_models/props_fortifications/traffic_barrier001" name_id="traffic_barrier001_001" position="2483.74 7242.84 -34.9991" rotation="0 0 -0.642788 -0.766044" unit_id="100101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2294.75 7506.87 -34.9991" _prev_rot="0 0 -0.382683 -0.92388" continent="world" instance_data="false" local_pos="4356.37 583.255 -19.4991" local_rot="0 0 -0.382684 0.92388" name="units/pd2_dlc2/csgo_models/props_fortifications/traffic_barrier001" name_id="traffic_barrier001_002" position="2294.75 7482.87 -34.9991" rotation="0 0 -0.382683 -0.92388" unit_id="100102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2117.2 9586.57 -34.9991" _prev_rot="0 0 -0.819152 -0.573577" continent="world" instance_data="false" local_pos="166.224 152.92 0" local_rot="0 0 0.573576 0.819152" name="units/pd2_dlc2/csgo_models/props_fortifications/traffic_barrier001" name_id="traffic_barrier001_003" position="2110.31 9580.79 -34.9991" rotation="0 0 -0.819152 -0.573577" unit_id="100103"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2645.23 8416.5 -15" _prev_rot="-0 0 -0.0174524 -0.999848" continent="world" instance_data="false" local_pos="5266 232.77 0.5" local_rot="0 0 -0.694658 0.71934" name="units/pd2_dlc_glace/props/glc_prop_construction_portabletoilet/glc_prop_construction_portabletoilet_closed" name_id="glc_prop_construction_portabletoilet_closed_001" position="2645.23 8392.5 -15" rotation="-0 0 -0.0174524 -0.999848" unit_id="100104"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="548.844 -1617.33 -14.9" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_run/props/run_prop_phonebooth_street_01/run_prop_phonebooth_street_01" name_id="run_prop_phonebooth_street_01_001" position="544.8 -1617.3 -14.9" rotation="0 0 -0.707107 -0.707107" unit_id="100106"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1531 -24.5 -15" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/csgo_models/props_street/newspaper_dispensers" name_id="newspaper_dispensers_001" position="1531 -24.5 -15" rotation="0 0 1 -4.37114e-008" unit_id="100107"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1540.82 63.779 36.104" _prev_rot="0 0 0.0174524 -0.999848" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/suburbia_newspaper/suburbia_newspaper" name_id="suburbia_newspaper_001" position="1540.79 62.78 36.104" rotation="0 0 0.71934 -0.694658" unit_id="100108"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="11311 -3260 -14.9" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x24m_c" name_id="str_ext_road_16x24m_c_001" position="11311 -3260 -14.9" rotation="0 0 -0.707107 -0.707107" unit_id="100109"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8899.1 -2611.1 -32" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="-2.43035e-005 278 0.0499992" local_rot="0 0 1 -4.37114e-008" name="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_prop_cardealership_speedbump" name_id="ind_prop_cardealership_speedbump_001" position="8899.1 -2602.1 -32" rotation="-0 0 -0 -1" unit_id="100091"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8899.1 -2324.1 -32.05" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_prop_cardealership_speedbump" name_id="ind_prop_cardealership_speedbump_002" position="8899.1 -2324.1 -32.05" rotation="0 0 1 4.37114e-008" unit_id="100110"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8911 -3259 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_001" position="8911 -3259 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100111"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2878 9545.5 -15.2" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="6395 0 0.3" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x16m_a" name_id="str_ext_road_16x16m_a_002" position="2878 9521.5 -15.2" rotation="0 0 -0.707107 -0.707107" unit_id="100112"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8911 -3259 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_002" position="8911 -63 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100113"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1990.42 9243.16 -35" _prev_rot="0 0 -0.0174524 -0.999848" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="interaction_disable" name="units/pd2_dlc2/architecture/str_ext_road_c/str_construction_metal_sheet_interactable" name_id="str_construction_metal_sheet_interactable_001" position="1990.56 9239.16 -35" rotation="0 0 -0.0174524 -0.999848" unit_id="100114"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1936.48 9269.29 -35" _prev_rot="0 0 -0.0174524 -0.999848" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-52.9951 27.9974 0" local_rot="0 0 0 1" mesh_variation="interaction_disable" name="units/pd2_dlc2/architecture/str_ext_road_c/str_construction_metal_sheet_interactable" name_id="str_construction_metal_sheet_interactable_002" position="1936.62 9265.29 -35" rotation="0 0 -0.0174524 -0.999848" unit_id="100115"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9611 1404 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="-178 5085 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_road_16x20" name_id="flt_ext_ground_road_16x20_001" position="-18333 1404 0" rotation="0 0 0 -1" unit_id="100116"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-11888 5398 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="-2455 9079 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_road_24x20" name_id="flt_ext_ground_road_24x20_001" position="-20610 5398 0" rotation="0 0 0 -1" unit_id="100117"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-13996 11637 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="-4563 15318 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_road_crossing_20x24m" name_id="flt_ext_ground_road_crossing_20x24m_001" position="-22718 11637 0" rotation="0 0 0 -1" unit_id="100118"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10337 -7540 0" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/architecture/run_ext_ground_road/run_ext_ground_road_20x10" name_id="run_ext_ground_road_20x10_001" position="10337 -7540 0" rotation="0 0 0 -1" unit_id="100119"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13683 -9914.95 0" _prev_rot="0 0 -0.34202 -0.939693" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/architecture/run_ext_ground_road/run_ext_ground_road_20x80" name_id="run_ext_ground_road_20x80_001" position="13683 -9914.95 0" rotation="0 0 -0.34202 -0.939693" unit_id="100120"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4834 -1956.5 -15.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-3932 -200 -2.5" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_009" position="-4834 -1956.5 -15.5" rotation="0 0 -0.707107 -0.707107" unit_id="100124"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-38 1191.5 -15.2" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-886 -96 -3.2" local_rot="0 0 -0.707107 0.707107" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_010" position="-38 1191.5 -15.2" rotation="0 0 1 4.37114e-008" unit_id="100153"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-38.0001 4032.5 -15.287" _prev_rot="1.52582e-012 -3.49066e-005 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="6.05005 -1570 -0.187018" local_rot="2.46827e-005 2.46827e-005 -0.707107 -0.707107" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_011" position="-38.0001 4032.5 -15.287" rotation="1.52582e-012 -3.49066e-005 1 -4.37114e-008" unit_id="100000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="713.5 4678.5 -14.9" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="interact_disabled" name="units/pd2_dlc_peta/props/pta_interactable_electric_box/pta_interactable_electric_box" name_id="pta_interactable_electric_box_002" position="713.5 4678.5 -14.9" rotation="0 0 -0.707107 -0.707107" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="461.221 -169.544 -13" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_c_8m" name_id="com_int_basement_garage_parkingline_c_8m_026" position="461.221 -170.544 -13" rotation="0 0 1 4.37114e-008" unit_id="100055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="189.107 -1112.39 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/mansion/man_prop_statue_karo_base/man_karo_statue_base" name_id="man_karo_statue_base_001" position="189.107 -1113.39 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="188.227 -1114.24 134.1" _prev_rot="0 0 -0.382683 -0.92388" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/statues/statue_karo" name_id="statue_karo_001" position="189.641 -1112.83 134.1" rotation="0 0 -0.382683 -0.92388" unit_id="100062"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-511 4026.5 -15.5" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_003" position="-509 4026.5 -15" rotation="-0 0 -0 -1" unit_id="100063"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-509 4026.5 -15" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_004" position="-909 4026.5 -15" rotation="0 0 0 -1" unit_id="100069"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-909 4026.5 -15" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_005" position="-1308 4026.5 -15" rotation="0 0 0 -1" unit_id="100070"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1608 4026.45 -15.1" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_006" position="-1608 4026.45 -15.1" rotation="-0 0 -0 -1" unit_id="100072"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1608 4026.45 -15.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0.707107 -0.707107" name="units/payday2/architecture/str/str_ext_alley_curb_1x1m_corner_a" name_id="str_ext_alley_curb_1x1m_corner_a_001" position="-1608 4026.45 -15.1" rotation="0 0 -0.707107 -0.707107" unit_id="100073"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1608 4026.45 -15.1" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x1m_corner_a" name_id="str_ext_alley_curb_1x1m_corner_a_002" position="-1608 4026.45 -15.1" rotation="0 0 1 -4.37114e-008" unit_id="100076"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="690 4636.5 -15.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_007" position="690 4636.5 -15.5" rotation="0 0 1 -4.37114e-008" unit_id="100121"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="291 4636.5 -15.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="399 -3.48817e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_008" position="291 4636.5 -15.5" rotation="0 0 1 -4.37114e-008" unit_id="100122"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-151 4636.5 -15.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_009" position="-108 4636.5 -15.5" rotation="0 0 1 -4.37114e-008" unit_id="100123"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-550 4636.5 -15.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="399 -3.48817e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_010" position="-507 4636.5 -15.5" rotation="0 0 1 -4.37114e-008" unit_id="100125"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-905 4636.5 -15.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_011" position="-906 4636.5 -15.5" rotation="0 0 1 -4.37114e-008" unit_id="100126"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1207 4636.5 -15.45" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_012" position="-1207 4636.5 -15.45" rotation="0 0 1 4.37114e-008" unit_id="100127"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1908 4635.45 -14.95" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x1m_corner_a" name_id="str_ext_alley_curb_1x1m_corner_a_003" position="-1908 4635.45 -14.95" rotation="0 0 1 -4.37114e-008" unit_id="100128"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="674.48 4114.89 -21" _prev_rot="0 1 0 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1.04907e-006 0 -12" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_dah/props/dah_prop_garden_light_modern/dah_prop_garden_light_modern" name_id="dah_prop_garden_light_modern_003" position="674.48 4114.89 -21" rotation="0 1 0 -4.37114e-008" unit_id="100129"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="685.48 4546.89 -21" _prev_rot="0 1 0 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1.04907e-006 0 -12" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_dah/props/dah_prop_garden_light_modern/dah_prop_garden_light_modern" name_id="dah_prop_garden_light_modern_004" position="674.48 4546.89 -21" rotation="0 -1 0 4.37114e-008" unit_id="100130"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="668.1 4330.9 -35.05" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cage/architecture/ind_cardealership_surroundings/ind_prop_cardealership_speedbump" name_id="ind_prop_cardealership_speedbump_003" position="658.1 4330.9 -35.05" rotation="0 0 1 4.37114e-008" unit_id="100135"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1078.81 1621.36 -15.25" _prev_rot="0 0 0.608761 -0.793353" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="grey" name="units/payday2/vehicles/str_vehicle_car_ford/str_vehicle_car_ford" name_id="str_vehicle_car_ford_001" position="727.209 1527.15 -15.25" rotation="0 0 0.608761 -0.793353" unit_id="100131">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.698039" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="721.824 1881.2 -15.25" _prev_rot="0 0 0.984808 -0.173648" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_84sedan" name_id="cara_84sedan_001" position="721.824 1881.2 -15.25" rotation="0 0 0.984808 -0.173648" unit_id="100132"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="727.036 3376.72 -15.2" _prev_rot="0 0 0.987688 -0.156434" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="brown" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_95sedan" name_id="cara_95sedan_001" position="718.074 3404.3 -15.2" rotation="0 0 0.987688 -0.156434" unit_id="100133"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="708.626 358.978 -15.2" _prev_rot="0 0 -0.793353 -0.608761" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_vehicle_car_suv_family/str_vehicle_car_suv_family" name_id="str_vehicle_car_suv_family_001" position="708.626 358.978 -15.2" rotation="0 0 -0.793353 -0.608761" unit_id="100136"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="680.637 2241.9 -15.25" _prev_rot="0 0 -0.843391 -0.5373" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_bmw/str_vehicle_bmw" name_id="str_vehicle_bmw_001" position="680.637 2241.9 -15.25" rotation="0 0 -0.843391 -0.5373" unit_id="100137">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.698039" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDbca13ba1d306f87b@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="726.996 741.805 -15.069" _prev_rot="0 0 -0.766045 -0.642788" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_orange" name="units/payday2/vehicles/str_vehicle_car_crossover_burned/str_vehicle_car_crossover_burned" name_id="str_vehicle_car_crossover_burned_001" position="706.315 738.159 -15.069" rotation="0 0 -0.793353 -0.608761" unit_id="100138">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_back" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 1 0.84" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_front" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="703.182 2587.54 -15.25" _prev_rot="0 0 -0.819152 -0.573576" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_cream" name="units/payday2/vehicles/str_vehicle_car_sedan_2/str_vehicle_car_sedan_2" name_id="str_vehicle_car_sedan_2_001" position="692.579 2616.68 -15.25" rotation="0 0 -0.819152 -0.573576" unit_id="100139">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_back" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 1 0.84" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_front" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="735.759 1137.92 -15.3" _prev_rot="0 0 -0.793353 -0.608761" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_vehicle_car_mercedes/str_vehicle_car_mercedes" name_id="str_vehicle_car_mercedes_001" position="735.759 1137.92 -15.3" rotation="0 0 -0.793353 -0.608761" unit_id="100140">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.94 0.7" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDbca13ba1d306f87b@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="691.185 3773.17 -15.3" _prev_rot="0 0 -0.819152 -0.573576" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_lights_off" name="units/payday2/vehicles/str_vehicle_car_mercedes/str_vehicle_car_mercedes" name_id="str_vehicle_car_mercedes_002" position="691.185 3773.17 -15.3" rotation="0 0 -0.819152 -0.573576" unit_id="100134">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.698039" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDbca13ba1d306f87b@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 4027 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_012" position="457 4027 -16" rotation="0 0 0.707107 -0.707107" unit_id="100141"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 3647 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="380 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_009" position="457 3647 -16" rotation="0 0 0.707107 -0.707107" unit_id="100142"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 3266 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="761 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_010" position="457 3266 -16" rotation="0 0 0.707107 -0.707107" unit_id="100143"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 2886 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1141 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_013" position="457 2886 -16" rotation="0 0 0.707107 -0.707107" unit_id="100144"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 2505 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1522 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_014" position="457 2505 -16" rotation="0 0 0.707107 -0.707107" unit_id="100145"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 2125 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1902 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_015" position="457 2125 -16" rotation="0 0 0.707107 -0.707107" unit_id="100146"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 1744 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="2283 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_016" position="457 1744 -16" rotation="0 0 0.707107 -0.707107" unit_id="100147"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 1364 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="2663 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_017" position="457 1364 -16" rotation="0 0 0.707107 -0.707107" unit_id="100148"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 983 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="3044 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_018" position="457 983 -16" rotation="0 0 0.707107 -0.707107" unit_id="100149"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1075 603 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="3424 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_019" position="457 603 -16" rotation="0 0 0.707107 -0.707107" unit_id="100150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5690.73 4315.63 -39.3" _prev_rot="0 0 -0.017453 -0.999848" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_off" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="str_vehicle_truck_gensec_transport_001" position="-5690.73 4315.63 -39.3" rotation="0 0 -0.0174524 -0.999848" unit_id="100051">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="false" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1893 4635.45 -14.95" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="400 1.04977 0.449997" local_rot="0 0 0.707107 -0.707107" name="units/payday2/architecture/str/str_ext_alley_curb_1x1m_corner_a" name_id="str_ext_alley_curb_1x1m_corner_a_004" position="-1908 4635.45 -14.95" rotation="0 0 -0.707107 -0.707107" unit_id="100053"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-240 3406 48" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_gensec_response" name="units/pd2_dlc2/vehicles/str_vehicle_car_charger_gensec_csgo_1/str_vehicle_car_charger_gensec_csgo_1" name_id="str_vehicle_car_charger_gensec_csgo_1_001" position="-240 3406 48" rotation="-0 0 -0 -1" unit_id="100056">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.113725 0.513726 1" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDd07c4dc12188729d@" name="li_light_blue" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.118 0.118" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light_red" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1080.34 9867.21 -13.999" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_construction_waterbarrier_white_2m/str_prop_construction_waterbarrier_white_2m" name_id="str_prop_construction_waterbarrier_white_2m_008" position="1080.34 9923.21 -13.999" rotation="0 0 0 -1" unit_id="100064"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="759.784 2994.67 -15.25" _prev_rot="0 0 -0.130526 -0.991445" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/csgo_models/props_vehicles/suv_2001" name_id="suv_2001_001" position="748.914 3035.24 -15.25" rotation="0 0 -0.130526 -0.991445" unit_id="100065"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6823 -3259.5 -14.9" _prev_rot="-0 0 -0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_road_c_straight_a_32x16m" name_id="str_ext_road_c_straight_a_32x16m_006" position="-6826 -3259.5 -14.9" rotation="-0 0 -0 -1" unit_id="100066"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4611.82 -2103.58 -32.25" _prev_rot="0 0 -0.00872654 -0.999962" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_b" name_id="str_ext_deco_asphalt_patch_b_004" position="-4611.8 -2104.58 -32.25" rotation="0 0 -0.00872654 -0.999962" unit_id="100067"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="706.914 1109.94 -15.2" _prev_rot="0 0 0.991445 -0.130526" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="lightgreen" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_82hatchback" name_id="cara_82hatchback_001" position="706.914 1109.94 -15.2" rotation="0 0 0.991445 -0.130526" unit_id="100068"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="772.863 3415.68 -15.25" _prev_rot="0 0 0.636078 -0.771624" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_bmw/str_vehicle_bmw" name_id="str_vehicle_bmw_002" position="748.322 3410.91 -15.25" rotation="0 0 0.636078 -0.771624" unit_id="100071">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.698039" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDbca13ba1d306f87b@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="640 3925 -34" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/str_ext_asphalt/str_ext_asphalt_8x8" name_id="str_ext_asphalt_8x8_001" position="640 3925 -34" rotation="0 0 1 4.37114e-008" unit_id="100152"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3211 3925 -34" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/str_ext_asphalt/str_ext_asphalt_8x8" name_id="str_ext_asphalt_8x8_002" position="-160 3925 -34" rotation="0 0 1 -4.37114e-008" unit_id="100151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-960 3925 -1134" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/str_ext_asphalt/str_ext_asphalt_8x8" name_id="str_ext_asphalt_8x8_003" position="-960 3925 -34" rotation="0 0 1 -4.37114e-008" unit_id="100154"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1710 3925 -34" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/str_ext_asphalt/str_ext_asphalt_8x8" name_id="str_ext_asphalt_8x8_004" position="-1760 3925 -34" rotation="0 0 1 4.37114e-008" unit_id="100155"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="702.284 1889.49 -15.2" _prev_rot="0 0 -0.85264 -0.522499" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_grey" name="units/payday2/vehicles/str_vehicle_car_suv_family/str_vehicle_car_suv_family" name_id="str_vehicle_car_suv_family_002" position="720.104 1898.57 -15.2" rotation="0 0 -0.85264 -0.522499" unit_id="100156"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="699.476 746.47 -15.2" _prev_rot="0 0 0.987688 -0.156434" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="blue" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_95sedan" name_id="cara_95sedan_002" position="700.427 746.779 -15.2" rotation="0 0 0.991445 -0.130526" unit_id="100157"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2280.4 11031.9 -35.1992" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="476.212 28.2485 -2.67029e-005" local_rot="0 0 0.67559 0.737278" name="units/payday2/props/gen_prop_police_barrier/gen_prop_police_barrier" name_id="gen_prop_police_barrier_002" position="2280.4 11031.9 -35.1992" rotation="0 0 -0.707107 -0.707107" unit_id="100164"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5145.29 -10064 0" _prev_rot="0 0 0.999962 -0.00872678" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/architecture/run_ext_ground_road/run_ext_ground_road_20x80" name_id="run_ext_ground_road_20x80_002" position="8347.8 -10008.1 0" rotation="0 0 0.999962 -0.00872692" unit_id="100165"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="346.021 -10147.8 0" _prev_rot="0 0 0.999962 -0.00872736" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/architecture/run_ext_ground_road/run_ext_ground_road_20x80" name_id="run_ext_ground_road_20x80_003" position="349.021 -10147.7 0" rotation="0 0 0.999962 -0.00872744" unit_id="100166"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5160 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_020" position="-5043 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100167"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4780 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-380 -2.78145e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_021" position="-4663 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100168"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4399 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-761 5.49357e-006 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_022" position="-4282 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100169"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4019 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-1141 -2.23209e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_023" position="-3902 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100170"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3638 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-1522 1.09871e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_024" position="-3521 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100171"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3258 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-1902 -1.68274e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_025" position="-3141 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100172"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2877 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-2283 1.64807e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_026" position="-2760 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100173"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2497 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-2663 -1.13338e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_011" position="-2380 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100174"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2116 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-3044 2.19743e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_027" position="-1999 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1736 528 -16" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-3424 -5.84021e-006 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_028" position="-1619 -991 -16" rotation="0 0 1 -4.37114e-008" unit_id="100176"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1617.78 -983.544 -13" _prev_rot="-0 0 -0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_c_8m" name_id="com_int_basement_garage_parkingline_c_8m_038" position="-1617.78 -990.544 -13" rotation="-0 0 -0 -1" unit_id="100177"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="457 184 -16" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_029" position="457 224 -16" rotation="0 0 0.707107 -0.707107" unit_id="100178"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="701.722 12.771 -15.25" _prev_rot="0 0 -0.819152 -0.573576" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_white" name="units/payday2/vehicles/str_vehicle_car_sedan_2/str_vehicle_car_sedan_2" name_id="str_vehicle_car_sedan_2_002" position="701.722 12.771 -15.25" rotation="0 0 -0.819152 -0.573576" unit_id="100179">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_back" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 1 0.84" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_front" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3386.35 -1232.28 -15.2" _prev_rot="0 0 0.991445 -0.130526" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="blue" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_82hatchback" name_id="cara_82hatchback_002" position="-3386.35 -1232.28 -15.2" rotation="0 0 0.587785 -0.809017" unit_id="100180"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2933.58 -1128.52 -15.069" _prev_rot="0 0 -0.130526 -0.991445" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_white" name="units/payday2/vehicles/str_vehicle_car_crossover_burned/str_vehicle_car_crossover_burned" name_id="str_vehicle_car_crossover_burned_002" position="-3379.83 -1248.09 -15.069" rotation="0 0 -0.130526 -0.991445" unit_id="100181">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_back" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 1 0.84" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_front" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="674.933 3007.36 -15.069" _prev_rot="0 0 -0.793353 -0.608761" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_orig" name="units/payday2/vehicles/str_vehicle_car_crossover_burned/str_vehicle_car_crossover_burned" name_id="str_vehicle_car_crossover_burned_003" position="674.933 3007.36 -15.069" rotation="0 0 -0.793353 -0.608761" unit_id="100182">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_back" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 1 0.84" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_front" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2641.39 -1211.89 -15.25" _prev_rot="0 0 -0.782608 -0.622514" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc2/csgo_models/props_vehicles/suv_2001" name_id="suv_2001_002" position="-2636.21 -1234.3 -15.25" rotation="0 0 -0.782608 -0.622514" unit_id="100183"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3018.71 -1264.74 -15.25" _prev_rot="0 0 0.984808 -0.173648" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_orig" name="units/payday2/vehicles/str_vehicle_car_sedan_2/str_vehicle_car_sedan_2" name_id="str_vehicle_car_sedan_2_003" position="-3009.32 -1261.32 -15.25" rotation="0 0 0.984808 -0.173648" unit_id="100184">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_back" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 1 0.84" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_front" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2252.55 -1246.16 -15.3" _prev_rot="0 0 -0.139173 -0.990268" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_car_mercedes/str_vehicle_car_mercedes" name_id="str_vehicle_car_mercedes_003" position="-2252.55 -1246.16 -15.3" rotation="0 0 -0.139173 -0.990268" unit_id="100185">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.694118" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDbca13ba1d306f87b@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4164.57 -1208.82 -15.2" _prev_rot="0 0 -0.190809 -0.981627" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_grey" name="units/payday2/vehicles/str_vehicle_car_suv_family/str_vehicle_car_suv_family" name_id="str_vehicle_car_suv_family_003" position="-4159.33 -1221.8 -15.2" rotation="0 0 -0.190809 -0.981627" unit_id="100186"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1849.49 -1239.12 -15.2" _prev_rot="0 0 -0.104529 -0.994522" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_brown" name="units/payday2/vehicles/str_vehicle_car_suv_family/str_vehicle_car_suv_family" name_id="str_vehicle_car_suv_family_004" position="-1851.36 -1230.32 -15.2" rotation="0 0 -0.104528 -0.994522" unit_id="100187"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1846.5 -1239.23 -15.2" _prev_rot="0 0 -0.766044 -0.642788" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="green" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_95sedan" name_id="cara_95sedan_003" position="-1846.5 -1239.23 -15.2" rotation="0 0 -0.766044 -0.642788" unit_id="100188"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5276.82 -1217.9 -15.25" _prev_rot="0 0 -0.130526 -0.991445" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_bmw/str_vehicle_bmw" name_id="str_vehicle_bmw_003" position="-5276.82 -1217.9 -15.25" rotation="0 0 -0.130526 -0.991445" unit_id="100189">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.698039" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDbca13ba1d306f87b@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5271.51 -1214.86 -15.25" _prev_rot="0 0 0.991445 -0.130526" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="grey" name="units/payday2/vehicles/str_vehicle_car_ford/str_vehicle_car_ford" name_id="str_vehicle_car_ford_002" position="-5271.51 -1214.86 -15.25" rotation="0 0 0.991445 -0.130526" unit_id="100190">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.694118" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3881.54 -842.423 -15.25" _prev_rot="0 0 0.991445 -0.130526" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="white" name="units/payday2/vehicles/str_vehicle_car_ford/str_vehicle_car_ford" name_id="str_vehicle_car_ford_003" position="-3785 -1202.71 -15.25" rotation="0 0 0.991445 -0.130526" unit_id="100191">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.694118" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3773.33 -1197.19 -15.069" _prev_rot="0 0 -0.0871558 -0.996195" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_orig" name="units/payday2/vehicles/str_vehicle_car_crossover_burned/str_vehicle_car_crossover_burned" name_id="str_vehicle_car_crossover_burned_004" position="-3765.17 -1243.48 -15.069" rotation="0 0 -0.0871558 -0.996195" unit_id="100192">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_back" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 1 0.84" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_front" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4845.5 -1433.97 -15.069" _prev_rot="0 0 -0.139173 -0.990268" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="color_variation_orange" name="units/payday2/vehicles/str_vehicle_car_crossover_burned/str_vehicle_car_crossover_burned" name_id="str_vehicle_car_crossover_burned_005" position="-4903.38 -1232.1 -15.069" rotation="0 0 -0.139173 -0.990268" unit_id="100193">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_back" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 1 0.84" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID748ce7d9371994d6@" name="li_light_front" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1808.47 10962.2 -35.1991" _prev_rot="0 0 -0.0436203 -0.999048" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_police_barrier_lights/gen_prop_police_barrier_lights" name_id="gen_prop_police_barrier_lights_001" position="1808.47 10962.2 -35.1991" rotation="0 0 -0.0436203 -0.999048" unit_id="100194">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.344 0" enabled="true" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light1" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+					<table clipping_values="10000 -10000 0" color="1 0.344 0" enabled="true" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="1330.96 10175.7 -14.199" _prev_rot="0 0 0.766044 -0.642788" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/gen_prop_police_barrier_lights/gen_prop_police_barrier_lights" name_id="gen_prop_police_barrier_lights_002" position="1302.4 10180.8 -14.199" rotation="0 0 0.766044 -0.642788" unit_id="100163">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.341176 0" enabled="true" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.344 0" enabled="true" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="2999.13 -2206.79 -35.199" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_police_barrier_lights/gen_prop_police_barrier_lights" name_id="gen_prop_police_barrier_lights_003" position="8776.13 -2206.79 -35.199" rotation="0 0 0.707107 -0.707107" unit_id="100195">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.344 0" enabled="true" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light1" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+					<table clipping_values="10000 -10000 0" color="1 0.344 0" enabled="true" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="3027.37 -2683 -35.199" _prev_rot="0 0 0.0436203 -0.999048" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="476.212 28.2485 -2.67029e-005" local_rot="0 0 0.67559 0.737278" name="units/payday2/props/gen_prop_police_barrier/gen_prop_police_barrier" name_id="gen_prop_police_barrier_003" position="8804.37 -2683 -35.199" rotation="0 0 0.0436203 -0.999048" unit_id="100196"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4583.44 -1255.77 -15.3" _prev_rot="0 0 0.991445 -0.130526" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_car_mercedes/str_vehicle_car_mercedes" name_id="str_vehicle_car_mercedes_004" position="-4542.88 -1244.9 -15.3" rotation="0 0 0.991445 -0.130526" unit_id="100197">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.694118" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDbca13ba1d306f87b@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5277.96 -1249.82 -15.25" _prev_rot="0 0 -0.771625 -0.636078" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="blue" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_84sedan" name_id="cara_84sedan_002" position="-5277.96 -1249.82 -15.25" rotation="0 0 -0.771625 -0.636078" unit_id="100198"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2666.64 -1242.63 -15.25" _prev_rot="0 0 -0.809017 -0.587785" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="green" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_84sedan" name_id="cara_84sedan_003" position="-2643.82 -1235.21 -15.25" rotation="0 0 -0.809017 -0.587785" unit_id="100199"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2450.54 9990.34 -43" _prev_rot="0 0 0.996195 -0.0871559" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="open" name="units/payday2/vehicles/str_vehicle_swat_van/str_vehicle_swat_van" name_id="str_vehicle_swat_van_001" position="2433.8 9987.39 -43" rotation="0 0 0.996195 -0.0871559" unit_id="100200">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="1000" multiplier="@IDbca13ba1d306f87b@" name="ls_t_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="1000" multiplier="@IDbca13ba1d306f87b@" name="ls_t_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="2664 -340 39" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_police_responce" name="units/pd2_dlc2/vehicles/str_vehicle_truck_swat_csgo_1/str_vehicle_truck_swat_csgo_1" name_id="str_vehicle_truck_swat_csgo_1_001" position="2664 -340 39" rotation="0 0 0.707107 -0.707107" unit_id="100201"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-44 3310 39" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_police_responce" name="units/pd2_dlc2/vehicles/str_vehicle_truck_swat_csgo_1/str_vehicle_truck_swat_csgo_1" name_id="str_vehicle_truck_swat_csgo_1_002" position="-44 3310 39" rotation="-0 0 -0 -1" unit_id="100202"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="339 3867 -31.5" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_run/props/run_prop_gym_booth_garage_01/run_gym_booth_garage_01" name_id="run_gym_booth_garage_01_002" position="339 3843 -31.5" rotation="0 0 0.707107 -0.707107" unit_id="100203"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="10342 -4098 0" _prev_rot="0 0 1 7.54979e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_hlm_arrive_2" name="units/payday2/vehicles/anim_vehicle_car_police/anim_vehicle_car_police" name_id="anim_vehicle_car_police_001" position="10342 -4087 0" rotation="0 0 1 -4.37114e-008" unit_id="100105">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.117647 0.513726 1" enabled="true" falloff_exponent="4" far_range="350" multiplier="@IDd07c4dc12188729d@" name="li_light_blue" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.118 0.118" enabled="true" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light_red" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="11890.4 59.669 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_bdrop/hcm_bdrop_mid_07" name_id="hcm_bdrop_mid_07_001" position="11890.4 238.669 0" rotation="0 0 1 -4.37114e-008" unit_id="100204"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1458.24 -1021.78 -15.5" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_street_bench_01/run_prop_street_bench_01" name_id="run_prop_street_bench_01_001" position="-1458 -1021 -15.5" rotation="-0 0 -0 -1" unit_id="100205"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2110.31 9580.79 -34.9991" _prev_rot="0 0 -0.819152 -0.573577" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/csgo_models/props_fortifications/traffic_barrier001" name_id="traffic_barrier001_004" position="2386.58 9681.34 -34.9991" rotation="0 0 -0.819152 -0.573577" unit_id="100206"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="645 6336 -15.1" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a" name_id="hcm_b_ext_8x16m_a_001" position="645 6336 -15.1" rotation="0 0 0 -1" unit_id="100207"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="645 4736 -15.1" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a_corner" name_id="hcm_b_ext_8x16m_a_corner_001" position="645 4736 -15.1" rotation="-0 0 -0 -1" unit_id="100208"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="645 9536 -15.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="-4799.9 2402 0.0499992" local_rot="0 0 1 0" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a_corner" name_id="hcm_b_ext_8x16m_a_corner_002" position="645 9536 -15.1" rotation="0 0 -0.707107 -0.707107" unit_id="100209"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1757 4736.1 -15.15" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a_corner" name_id="hcm_b_ext_8x16m_a_corner_003" position="-1757 4736.1 -15.15" rotation="0 0 0.707107 -0.707107" unit_id="100210"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1508 4636.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_013" position="-1508 4636.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100211"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1834 4636.5 -15.4" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_014" position="-1834 4636.5 -15.4" rotation="0 0 -0.707107 -0.707107" unit_id="100212"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1834 5035.5 -15.4" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="399 0 5.72205e-006" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_015" position="-1834 5035.5 -15.4" rotation="0 0 -0.707107 -0.707107" unit_id="100213"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1834 5434.5 -15.45" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_016" position="-1834 5121 -15.45" rotation="0 0 -0.707107 -0.707107" unit_id="100214"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1757.05 4736.15 384" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.0498047 -0.0500488 399.15" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a_corner" name_id="hcm_b_ext_8x16m_a_corner_004" position="-1757.05 4736.15 384" rotation="0 0 0.707107 -0.707107" unit_id="100215"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="645 4736 515.9" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0.101074 2402 0.0500488" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a_corner" name_id="hcm_b_ext_8x16m_a_corner_005" position="644.95 4736.05 384.05" rotation="0 0 0 -1" unit_id="100216"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="645 9536 515.9" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-4799.9 2402 0.0500488" local_rot="0 0 1 0" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a_corner" name_id="hcm_b_ext_8x16m_a_corner_006" position="644.95 9536.05 384.05" rotation="0 0 -0.707107 -0.707107" unit_id="100217"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="644.95 6336.05 384.05" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a" name_id="hcm_b_ext_8x16m_a_002" position="644.95 6336.05 384.05" rotation="0 0 0 -1" unit_id="100218"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1481 5521 -411" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x8m_d_corner" name_id="hcm_b_ext_8x8m_d_corner_001" position="-1481 5521 -411" rotation="-0 0 -0 -1" unit_id="100220"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3882.05 5514.15 384.05" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a" name_id="hcm_b_ext_8x16m_a_003" position="-3881.05 5514.15 384.05" rotation="0 0 0.707107 -0.707107" unit_id="100219"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3881 5521.1 -15.1" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a" name_id="hcm_b_ext_8x16m_a_004" position="-3881 5514.1 -15.1" rotation="0 0 0.707107 -0.707107" unit_id="100221"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5481 5514.1 -15.15" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a_corner" name_id="hcm_b_ext_8x16m_a_corner_007" position="-5481 5514.1 -15.15" rotation="0 0 0.707107 -0.707107" unit_id="100222"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4675.05 5514.15 384" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.0498047 -0.0498047 399.15" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a_corner" name_id="hcm_b_ext_8x16m_a_corner_008" position="-5481.05 5514.15 384" rotation="0 0 0.707107 -0.707107" unit_id="100223"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2281.05 5514.15 389" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_a" name_id="hcm_b_ext_8x16m_a_005" position="-2281.05 5514.15 389.05" rotation="0 0 0.707107 -0.707107" unit_id="100224"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7043 566 34" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 -1600 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_b_corner_overpasshole_interact_hcmarm" name_id="hcm_b_ext_8x16m_b_corner_overpasshole_interact_hcmarm_001" position="-10684 566 34" rotation="0 0 0.707107 -0.707107" unit_id="100225"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5443 566 34" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_d" name_id="hcm_b_ext_8x16m_d_001" position="-9084 566 34" rotation="0 0 0.707107 -0.707107" unit_id="100226"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-11296 -1956.5 -15.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 4800 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_012" position="-11234 -1956.5 -15.5" rotation="0 0 -0.707107 -0.707107" unit_id="100227"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9696 -1956.5 -15.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 3200 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_013" position="-9634 -1956.5 -15.5" rotation="0 0 -0.707107 -0.707107" unit_id="100228"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8096 -1956.5 -15.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 1600 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_014" position="-8034 -1956.5 -15.5" rotation="0 0 -0.707107 -0.707107" unit_id="100229"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6496 -1956.5 -15.5" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/str_ext_road_c/str_ext_sidewalk_c_16x16m" name_id="str_ext_sidewalk_c_16x16m_015" position="-6434 -1956.5 -15.5" rotation="0 0 -0.707107 -0.707107" unit_id="100230"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2281 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0.0498047 0" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_017" position="-2281 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100231"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2680 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-399 0.0498047 0" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_018" position="-2680 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100232"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3080 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-799 0.0498047 5.72205e-006" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_019" position="-3080 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100233"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3479 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-1198 0.0498047 5.72205e-006" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_020" position="-3479 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100234"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3879 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-1598 0.0498047 5.72205e-006" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_021" position="-3879 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100235"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4278 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-1997 0.0498047 5.72205e-006" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_022" position="-4278 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100236"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4678 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-2397 0.0498047 5.72205e-006" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_023" position="-4678 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100237"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5077 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-2796 0.0498047 5.72205e-006" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_024" position="-5077 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100238"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5477 5443.5 -15.4" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-3196 0.0498047 5.72205e-006" local_rot="0 0 -1 4.37114e-008" name="units/payday2/architecture/str/str_ext_alley_curb_1x4m_a" name_id="str_ext_alley_curb_1x4m_a_025" position="-5477 5446.5 -15.4" rotation="0 0 1 -4.37114e-008" unit_id="100239"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2281 5443.45 -15.4" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/str/str_ext_alley_curb_1x1m_corner_a" name_id="str_ext_alley_curb_1x1m_corner_a_005" position="-2281 5446.45 -15.4" rotation="0 0 0.707107 -0.707107" unit_id="100240"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2281 5443.45 -15.4" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_alley_curb_1x1m_corner_a" name_id="str_ext_alley_curb_1x1m_corner_a_006" position="-2281 5446.45 -15.4" rotation="0 0 0 -1" unit_id="100241"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7311 -1660 -15.1" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/architecture/hcm/hcm_ext_storefront_16x16m_corner_d" name_id="hcm_ext_storefront_16x16m_corner_d_001" position="7311 -1660 -15.1" rotation="0 0 0.707107 -0.707107" unit_id="100242"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7311 -810 -15.1" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x8m_metal_a" name_id="hcm_ext_8x8m_metal_a_001" position="7311 -810 -15.1" rotation="0 0 1 4.37114e-008" unit_id="100243"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7311 -810 -15.1" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x8m_metal_a" name_id="hcm_ext_8x8m_metal_a_002" position="7311 -10 -15.1" rotation="0 0 1 -4.37114e-008" unit_id="100244"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7311 790 -15.1" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x8m_metal_a" name_id="hcm_ext_8x8m_metal_a_003" position="7311 790 -15.1" rotation="0 0 1 4.37114e-008" unit_id="100245"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8111 790 -15.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x8m_metal_a" name_id="hcm_ext_8x8m_metal_a_004" position="8111 790 -15.1" rotation="0 0 -0.707107 -0.707107" unit_id="100246"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8912 786 -15.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x8m_metal_a" name_id="hcm_ext_8x8m_metal_a_005" position="8911 790 -15.1" rotation="0 0 -0.707107 -0.707107" unit_id="100247"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2262 5420 -416" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_1x8m_b" name_id="hcm_ext_1x8m_b_001" position="-2262 5420 -416" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100248"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2267 5420 -416" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_1x8m_b" name_id="hcm_ext_1x8m_b_002" position="-2267.05 5420 -416" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100249"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2272 5420 -416" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_1x8m_b" name_id="hcm_ext_1x8m_b_003" position="-2272 5420 -416" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100250"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2277 5420 -416" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_1x8m_b" name_id="hcm_ext_1x8m_b_004" position="-2277.05 5420 -416" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100251"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2277 5420 -416" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_1x8m_b" name_id="hcm_ext_1x8m_b_005" position="-2282 5420 -416" rotation="3.09086e-008 0.707107 0.707107 3.09086e-008" unit_id="100252"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2283 5422 289" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_metal_a" name_id="hcm_ext_8x1m_corner_metal_a_001" position="-5581 5422 289" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100253"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4780 5422 289" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_metal_a" name_id="hcm_ext_8x1m_corner_metal_a_002" position="-4781 5422 289" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100254"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3975 5422 289" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_metal_a" name_id="hcm_ext_8x1m_corner_metal_a_003" position="-3981 5422 289" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100255"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3167 5422 289" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_metal_a" name_id="hcm_ext_8x1m_corner_metal_a_004" position="-3181 5422 289" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100256"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2266 5422 289" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_metal_a" name_id="hcm_ext_8x1m_corner_metal_a_005" position="-2381 5422 289" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100257"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8093.92 -1504.29 -13.5066" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_int_stores/lcm_store_counter_flipped" name_id="lcm_store_counter_flipped_001" position="8058.92 -1504.29 -13.5066" rotation="0 0 0 -1" unit_id="100258"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5481 5889 -34" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a" name_id="cdr_int_cinder_wall_2x3m_a_002" position="-5481 5889 -34" rotation="0 0 1 4.37114e-008" unit_id="100260"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5446 3951 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_001" position="-5446 3951 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100263"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6163 3951.05 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_002" position="-6163 3951.05 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100264"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6955 3950.5 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x4m_groundfloor_c" name_id="ind_ext_4x4m_groundfloor_c_001" position="-6956 3950.5 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100265"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7356 3951 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_003" position="-7355 3951 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100266"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8073 3951.05 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0.0498047 717 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_004" position="-8072 3951.05 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100267"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8790 3951 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 1434 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_005" position="-8789 3951 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100268"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9980 3951.05 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0.0500488 2624 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_006" position="-9979 3951.05 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100269"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10695 3918 -34" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-32.9998 3339 0" local_rot="0 0 -0.707107 0.707107" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_d" name_id="ind_ext_4x8m_groundfloor_d_001" position="-10694 3918 -34" rotation="0 0 0 -1" unit_id="100270"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10694 5518 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_e" name_id="ind_ext_4x8m_groundfloor_e_001" position="-10694 5518 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100271"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6246 3951 765" _prev_rot="0.707107 0.707107 -3.09086e-008 -3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_007" position="-6246 3951 765" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="100272"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6963 3951.05 765" _prev_rot="0.707107 0.707107 3.09086e-008 3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_008" position="-6963 3951.05 765" rotation="0.707107 0.707107 3.09086e-008 3.09086e-008" unit_id="100273"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8156 3951 765" _prev_rot="0.707107 0.707107 -3.09086e-008 -3.09086e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 800 799" local_rot="-1 0 0 4.37114e-008" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_009" position="-8155 3951 765" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="100274"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8873 3951.05 765" _prev_rot="0.707107 0.707107 3.09086e-008 3.09086e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0.0498047 1517 799" local_rot="-1 0 0 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_010" position="-8872 3951.05 765" rotation="0.707107 0.707107 3.09086e-008 3.09086e-008" unit_id="100275"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9589 3951 765" _prev_rot="0.707107 0.707107 3.09086e-008 3.09086e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_011" position="-9589 3951 765" rotation="0.707107 0.707107 3.09086e-008 3.09086e-008" unit_id="100276"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10694 4718 -34" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_b" name_id="ind_ext_4x8m_groundfloor_b_001" position="-10694 4718 -34" rotation="0 0 0 -1" unit_id="100278"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9581 3950.5 -34" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.5 2225 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x4m_groundfloor_c" name_id="ind_ext_4x4m_groundfloor_c_002" position="-9580 3950.5 -34" rotation="0 0 -0.707107 -0.707107" unit_id="100279"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7439 3951.02 765" _prev_rot="0.707107 0.707107 3.09086e-008 3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_013" position="-7439 3951.02 765" rotation="0.707107 0.707107 3.09086e-008 3.09086e-008" unit_id="100280"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10064 3951.02 765" _prev_rot="0.707107 0.707107 -3.09086e-008 -3.09086e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_014" position="-10064 3951.05 765" rotation="0.707107 0.707107 3.09086e-008 3.09086e-008" unit_id="100281"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1956 3915 -34.05" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/str_ext_asphalt/str_ext_asphalt_24x24" name_id="str_ext_asphalt_24x24_001" position="-1906 3915 -34.05" rotation="0 0 1 -4.37114e-008" unit_id="100298"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4508 3915 -34.05" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/str_ext_asphalt/str_ext_asphalt_24x24" name_id="str_ext_asphalt_24x24_002" position="-4306 3915 -34.05" rotation="0 0 1 -4.37114e-008" unit_id="100158"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6721 3915 -34.05" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/str_ext_asphalt/str_ext_asphalt_24x24" name_id="str_ext_asphalt_24x24_003" position="-6706 3915 -34.05" rotation="0 0 1 -4.37114e-008" unit_id="100159"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9106 3915 -34.05" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/str_ext_asphalt/str_ext_asphalt_24x24" name_id="str_ext_asphalt_24x24_004" position="-9106 3915 -34.05" rotation="0 0 1 -4.37114e-008" unit_id="100160"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1512 5436 -15.25" _prev_rot="0 0 1 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_001" position="1512 5436 -15.25" rotation="0 0 1 -4.37114e-008" unit_id="100161"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1512 5426 -15.25" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_002" position="1512 5426 -15.3" rotation="0 0 -0.707107 -0.707107" unit_id="100162"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1512 6226 -15.25" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="800 0 5.72205e-006" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_003" position="1512 6226 -15.3" rotation="0 0 -0.707107 -0.707107" unit_id="100282"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1512 5426 -15.3" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_004" position="1512 7025 -15.3" rotation="0 0 -0.707107 -0.707107" unit_id="100283"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1512 6226 -15.3" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="800 0 1.52588e-005" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_005" position="1512 7825 -15.3" rotation="0 0 -0.707107 -0.707107" unit_id="100284"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1512 8626 -15.3" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_006" position="1512 8624 -15.3" rotation="0 0 -0.707107 -0.707107" unit_id="100285"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1512 9424 -15.3" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_007" position="1512 9424 -15.3" rotation="0 0 -0.707107 -0.707107" unit_id="100286"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1512 9424 -15.3" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_008" position="712 9424 -15.3" rotation="0 0 -0.707107 -0.707107" unit_id="100287"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="471.764 -175.047 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_001" position="471.764 -175.047 -14.9" rotation="0 0 0 -1" unit_id="100288"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="584.764 -175.047 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="113 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_002" position="584.764 -175.047 -14.9" rotation="0 0 0 -1" unit_id="100289"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="696.764 -175.047 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="225 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_003" position="696.764 -175.047 -14.9" rotation="0 0 0 -1" unit_id="100290"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="809.764 -175.047 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="338 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_004" position="809.764 -175.047 -14.9" rotation="0 0 0 -1" unit_id="100291"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="922.764 -175.047 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="451 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_005" position="922.764 -175.047 -14.9" rotation="0 0 0 -1" unit_id="100292"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1035.76 -175.047 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="564 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_006" position="1035.76 -175.047 -14.9" rotation="0 0 0 -1" unit_id="100293"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1148.76 -175.047 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="677 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_007" position="1148.76 -175.047 -14.9" rotation="0 0 0 -1" unit_id="100294"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1261.76 -175.047 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="790 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_008" position="1261.76 -175.047 -14.9" rotation="0 0 0 -1" unit_id="100295"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1682.24 -1011.05 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_009" position="-1682.24 -1011.05 -14.9" rotation="0 0 0.573577 -0.819152" unit_id="100296"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1569.24 -1011.05 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="113 4.57764e-005 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_010" position="-1643.59 -1117.23 -14.9" rotation="0 0 0.573577 -0.819152" unit_id="100297"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1457.24 -1011.05 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="225 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_011" position="-1605.28 -1222.48 -14.9" rotation="0 0 0.573577 -0.819152" unit_id="100299"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1344.24 -1011.05 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="338 3.8147e-005 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_012" position="-1566.63 -1328.66 -14.9" rotation="0 0 0.573577 -0.819152" unit_id="100300"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1231.24 -1011.05 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="451 -3.05176e-005 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_013" position="-1527.98 -1434.85 -14.9" rotation="0 0 0.573577 -0.819152" unit_id="100301"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1118.24 -1011.05 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="564 1.52588e-005 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_014" position="-1489.34 -1541.03 -14.9" rotation="0 0 0.573577 -0.819152" unit_id="100302"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1005.24 -1011.05 -14.9" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="677 -1.52588e-005 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_015" position="-1450.69 -1647.22 -14.9" rotation="0 0 0.573577 -0.819152" unit_id="100303"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2069 5637 195" _prev_rot="0 -0.707107 0 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/are/are_off_int_glass_01" name_id="are_off_int_glass_01_001" position="-2069 5637 195" rotation="0 -0.707107 0 -0.707107" unit_id="100304"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2067 5637 195" _prev_rot="0.707107 3.09086e-008 -0.707107 3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/are/are_off_int_glass_01" name_id="are_off_int_glass_01_002" position="-2069 5637 195" rotation="0.707107 3.09086e-008 -0.707107 3.09086e-008" unit_id="100305"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1966 5637 195" _prev_rot="0 1 0 -0" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/are/are_off_int_glass_01" name_id="are_off_int_glass_01_003" position="-1966 5637 199" rotation="0 1 0 -0" unit_id="100306"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2155 5637 199" _prev_rot="1 0 0 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/are/are_off_int_glass_01" name_id="are_off_int_glass_01_004" position="-2171 5637 199" rotation="1 0 0 -4.37114e-008" unit_id="100307"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2268.77 5586.29 -16.6304" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_1_02_door_v3" name_id="ind_ext_level_1_02_door_v3_001" position="-2268.77 5918.29 -16.6304" rotation="0 0 -0.707107 -0.707107" unit_id="100308"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2124.01 5920.73 -16.63" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_off" name="units/payday2/equipment/gen_interactable_door_keycard_dark/gen_interactable_door_keycard_dark" name_id="gen_interactable_door_keycard_dark_001" position="-2124.01 5922.73 -16.63" rotation="0 0 0.707107 -0.707107" unit_id="100309"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2068.5 5627 -16.75" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="interaction_disabled" name="units/payday2/equipment/gen_interactable_door_hcm/gen_interactable_door_hcm_double" name_id="gen_interactable_door_hcm_double_001" position="-2068.5 5628 -16.75" rotation="0 0 0.707107 -0.707107" unit_id="100310"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5580 5370.5 -31" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/hcm_ext_roof_top/hcm_ext_roof_top_building_a_4x5m" name_id="hcm_ext_roof_top_building_a_4x5m_001" position="-5580 5370.5 -31" rotation="0 0 -0.707107 -0.707107" unit_id="100311"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5681 5889 -34" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="200 1.74846e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a" name_id="cdr_int_cinder_wall_2x3m_a_005" position="-6081 5889 -34" rotation="0 0 1 4.37114e-008" unit_id="100262"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5881 5889 -34" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a" name_id="cdr_int_cinder_wall_2x3m_a_006" position="-6281 5889 -34" rotation="0 0 1 4.37114e-008" unit_id="100312"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6081 5889 -34" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="200 1.74846e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a" name_id="cdr_int_cinder_wall_2x3m_a_007" position="-6481 5889 -34" rotation="0 0 1 4.37114e-008" unit_id="100313"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6691 5889 -34" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a" name_id="cdr_int_cinder_wall_2x3m_a_008" position="-6681 5889 -34" rotation="0 0 1 4.37114e-008" unit_id="100314"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5681 5889 -34" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a" name_id="cdr_int_cinder_wall_2x3m_a_001" position="-5681 5889 -34" rotation="0 0 1 4.37114e-008" unit_id="100259"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6506.43 5475.45 272.001" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="200 1.74846e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a" name_id="cdr_int_cinder_wall_2x3m_a_003" position="-5881 5889 -34" rotation="0 0 1 4.37114e-008" unit_id="100261"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6870 4314 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_001" position="-6870 4314 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100315"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 4488 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000389319 566 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_002" position="-6870 4488 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100316"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6870 4662 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_003" position="-6870 4662 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100317"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 4836 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000328472 914 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_004" position="-6870 4836 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100318"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 5011 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000297874 1089 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_005" position="-6870 5011 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100319"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 5185 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000267451 1263 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_006" position="-6870 5185 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100320"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 5359 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000237028 1437 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_007" position="-6870 5359 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100321"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 5533 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000206605 1611 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_008" position="-6870 5533 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100322"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 5707 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000176182 1785 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_009" position="-6870 5707 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100323"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 5882 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000145584 1960 0" local_rot="0 0 -1 -4.37114e-008" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_010" position="-6870 5882 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100324"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6867 4034.5 -31.5" _prev_rot="-0 0 -0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000468611 112.5 0" local_rot="0 0 -8.74228e-008 1" mesh_variation="activate_door" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door_grey" name_id="ind_ext_fence_door_grey_001" position="-6870 4034.5 -31.5" rotation="-0 0 -0 -1" unit_id="100325"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6870 3922 -31.5" _prev_rot="0 0 -8.74228e-008 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m_grey" name_id="ind_ext_fence_1m_grey_001" position="-6870 3922 -31.5" rotation="0 0 -8.74228e-008 -1" unit_id="100326"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10779 3951 765" _prev_rot="0.707107 0.707107 -3.09086e-008 -3.09086e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_i" name_id="ind_ext_4x8m_groundfloor_i_015" position="-10779 3951 765" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="100327"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5455 4745 -31.5" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-0.000122042 -698 0" local_rot="0 0 -8.74228e-008 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_011" position="-5457 4745 -31.5" rotation="0 0 1 4.37114e-008" unit_id="100277"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5455 4570 -31.5" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-9.14442e-005 -523 0" local_rot="0 0 -8.74228e-008 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_012" position="-5457 4570 -31.5" rotation="0 0 1 4.37114e-008" unit_id="100328"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5455 4396 -31.5" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-6.10211e-005 -349 0" local_rot="0 0 -8.74228e-008 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_013" position="-5457 4396 -31.5" rotation="0 0 1 4.37114e-008" unit_id="100329"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5455 4222 -31.5" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-3.0598e-005 -175 0" local_rot="0 0 -8.74228e-008 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter_grey" name_id="ind_ext_fence_2m_shorter_grey_014" position="-5457 4222 -31.5" rotation="0 0 1 4.37114e-008" unit_id="100330"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5455 4047 -31.5" _prev_rot="0 0 1 -4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m_grey" name_id="ind_ext_fence_1m_grey_002" position="-5457 4047 -31.5" rotation="0 0 1 -4.37114e-008" unit_id="100331"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2229.59 5370.48 288.999" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/hotel/ceiling_camera/ceiling_camera" name_id="ceiling_camera_001" position="-2229.59 5370.48 288.999" rotation="0 0 0 -1" unit_id="100332"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5560 3915.5 307" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" name_id="gen_equipment_security_camera_001" position="-5560 3915.5 349" rotation="0 0 1 4.37114e-008" unit_id="100333"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5892 3918 -31.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_c_6m" name_id="com_int_basement_garage_parkingline_c_6m_002" position="-5883 3918 -31.1" rotation="0 0 -0.707107 -0.707107" unit_id="100339"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6285 3918 -31.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_c_6m" name_id="com_int_basement_garage_parkingline_c_6m_003" position="-6285 3918 -31.1" rotation="0 0 -0.707107 -0.707107" unit_id="100340"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6695 3918 -31.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 803 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_c_6m" name_id="com_int_basement_garage_parkingline_c_6m_004" position="-6686 3918 -31.1" rotation="0 0 -0.707107 -0.707107" unit_id="100341"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6473 5289 -31.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_c_6m" name_id="com_int_basement_garage_parkingline_c_6m_006" position="-6285 5289 -31.1" rotation="0 0 -0.707107 -0.707107" unit_id="100335"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6077.13 4320.56 -39.3" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_off" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="str_vehicle_truck_gensec_transport_002" position="-6077.13 4320.56 -39.3" rotation="-0 0 -0 -1" unit_id="100334">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="false" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6481.13 4337.56 -39.3" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_off" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="str_vehicle_truck_gensec_transport_003" position="-6481.13 4337.56 -39.3" rotation="-0 0 -0 -1" unit_id="100336">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="false" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6870 4197 120" _prev_rot="0.707107 3.09086e-008 -0.707107 3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_jewelry_counters/com_prop_sign_cctv" name_id="com_prop_sign_cctv_001" position="-6870 4178 120" rotation="0.707107 3.09086e-008 -0.707107 3.09086e-008" unit_id="100337"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6909 3951 115" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_screen_enabled" name="units/pd2_dlc_arena/equipment/are_interactable_gensec_panel/are_interactable_gensec_panel" name_id="are_interactable_gensec_panel_001" position="-6925 3951 115" rotation="0 0 -0.707107 -0.707107" unit_id="100338"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6870.7 4185.91 99.95" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" name_id="gen_prop_security_sign_3_001" position="-6870.7 4177.91 99.95" rotation="-0.5 0.5 0.5 -0.5" unit_id="100342"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6434.16 5840.86 -31.05" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_crate_wood/gen_prop_crate_wood_a" name_id="gen_prop_crate_wood_a_001" position="-6434 5840.8 -31" rotation="-0 0 -0.0174524 -0.999848" unit_id="100343"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5785 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 235 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_001" position="-5785 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100351"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5550 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_002" position="-5550 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100344"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6023 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 473 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_003" position="-6023 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100345"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6262 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 712 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_004" position="-6262 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100346"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6501 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 951 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_005" position="-6501 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100347"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6740 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 1190 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_006" position="-6740 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100348"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6977 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 1427 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_007" position="-6977 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100349"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7215 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 1665 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_008" position="-7215 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100350"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7454 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 1904 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_009" position="-7454 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100352"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7693 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 -1434 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_010" position="-7693 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100353"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7935 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_011" position="-7933 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100354"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8172 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 -955 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_012" position="-8172 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100355"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8406 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 238 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_013" position="-8410 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100356"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8649 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 -478 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_014" position="-8649 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100357"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8888 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_015" position="-8891 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100358"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9127 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_016" position="-9127 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100359"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9367 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 237 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_017" position="-9364 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100360"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9605 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 475 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_018" position="-9602 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100361"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9844 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 714 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_019" position="-9841 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100362"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10080 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_020" position="-10080 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100363"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10319 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 239 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_021" position="-10319 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100364"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10555 3933 403" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 475 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_022" position="-10555 3933 403" rotation="0 0 -0.707107 -0.707107" unit_id="100365"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10080 3933 92" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_023" position="-10080 3933 55" rotation="0 0 -0.707107 -0.707107" unit_id="100366"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10319 3933 92" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 239 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_024" position="-10319 3933 55" rotation="0 0 -0.707107 -0.707107" unit_id="100367"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10555 3933 92" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 475 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm_b/lcm_b_ext_roof4_window_a" name_id="lcm_b_ext_roof4_window_a_025" position="-10555 3933 55" rotation="0 0 -0.707107 -0.707107" unit_id="100368"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2230 5370 322" _prev_rot="1 0 0 -4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_barrier_pole/str_prop_street_barrier_pole" name_id="str_prop_street_barrier_pole_001" position="-2229.5 5370.5 363" rotation="1 0 0 -4.37114e-008" unit_id="100369"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5439 -101 -16" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-380 3.32207e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_031" position="-5439 -313 -16" rotation="0 0 -0.707107 -0.707107" unit_id="100371"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5439 -482 -16" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-761 6.65288e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_032" position="-5439 -694 -16" rotation="0 0 -0.707107 -0.707107" unit_id="100372"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5439 -862 -16" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-1141 9.97494e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_033" position="-5439 -1074 -16" rotation="0 0 -0.707107 -0.707107" unit_id="100373"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5439 -1243 -16" _prev_rot="0 0 -0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="-1522 0.000133058 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_parkingline_a" name_id="com_int_basement_garage_parkingline_a_034" position="-5439 -1455 -16" rotation="0 0 -0.707107 -0.707107" unit_id="100374"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5715.14 -845.853 -15.5" _prev_rot="0 0 0.984808 -0.173648" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="lightgreen" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_69sedan" name_id="cara_69sedan_001" position="-5715.14 -845.853 -15.5" rotation="0 0 0.984808 -0.173648" unit_id="100375"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5845.78 -515.904 -15.2" _prev_rot="0 0 -0.199367 -0.979925" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="blue" name="units/pd2_dlc2/csgo_models/props_vehicles/cara_95sedan" name_id="cara_95sedan_004" position="-5715.06 -460.42 -15.2" rotation="0 0 -0.199368 -0.979925" unit_id="100376"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5738.37 -1234.36 -15.25" _prev_rot="0 0 0.608761 -0.793353" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="white" name="units/payday2/vehicles/str_vehicle_car_ford/str_vehicle_car_ford" name_id="str_vehicle_car_ford_004" position="-5738.37 -1234.36 -15.25" rotation="0 0 0.608761 -0.793353" unit_id="100370">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.694118" enabled="false" falloff_exponent="1" far_range="2000" multiplier="monitor" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="monitor" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="monitor" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1682.24 -1011.05 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_016" position="-5451.24 -1011.05 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100377"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1682.24 -1124.05 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="112.996 0.00341797 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_017" position="-5451.24 -1124.05 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100378"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1682.23 -1236.05 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="225.001 0.00585938 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_018" position="-5451.23 -1236.05 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100379"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1682.23 -1349.05 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="337.997 0.00927734 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_019" position="-5451.23 -1349.05 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100380"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1682.23 -1462.05 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="451.002 0.00927734 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_020" position="-5451.23 -1462.05 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100381"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1682.24 -1575.04 -14.9" _prev_rot="0 0 0.707107 -0.707107" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="563.994 0.00341797 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_sidewalk_pole/run_prop_sidewalk_pole" name_id="run_prop_sidewalk_pole_021" position="-5451.24 -1575.04 -14.9" rotation="0 0 0.707107 -0.707107" unit_id="100382"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5194 443 -15.3" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_009" position="-5193 443 -15.3" rotation="0 0 1 4.37114e-008" unit_id="100383"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5994 443 -15.3" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="800 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_010" position="-5993 443 -15.3" rotation="0 0 1 4.37114e-008" unit_id="100384"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6793 443 -15.3" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1599 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_011" position="-6792 443 -15.3" rotation="0 0 1 4.37114e-008" unit_id="100385"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7593 443 -15.3" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="2399 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_012" position="-7592 443 -15.3" rotation="0 0 1 4.37114e-008" unit_id="100386"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8959 443 -15.3" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_013" position="-8391 443 -15.3" rotation="0 0 1 4.37114e-008" unit_id="100387"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-9759 443 -15.3" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="800 6.99382e-005 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_014" position="-9191 443 -15.3" rotation="0 0 1 4.37114e-008" unit_id="100388"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-10558 443 -15.3" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="1599 0.000139789 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_015" position="-9990 443 -15.3" rotation="0 0 1 4.37114e-008" unit_id="100389"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-11358 443 -15.3" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" instance_data="false" local_pos="2399 0.000209727 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_016" position="-10790 443 -15.3" rotation="0 0 1 4.37114e-008" unit_id="100390"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

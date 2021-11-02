@@ -1,5 +1,0 @@
-<materials version="3">
-    <material name="mat_binder" render_template="generic:DIFFUSE_TEXTURE:INSTANCED:VERTEX_COLOR" version="2">
-        <diffuse_texture file="units/payday2/props/air_prop_office_binder/air_prop_office_binder_df"/>
-    </material>
-</materials>

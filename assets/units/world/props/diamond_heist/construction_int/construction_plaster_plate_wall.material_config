@@ -1,5 +1,0 @@
-<materials version="3">
-    <material name="construction_plaster_plate_wall" render_template="generic:DIFFUSE_TEXTURE" version="2">
-        <diffuse_texture file="units/world/props/diamond_heist/construction_int/plaster_plate_df"/>
-    </material>
-</materials>

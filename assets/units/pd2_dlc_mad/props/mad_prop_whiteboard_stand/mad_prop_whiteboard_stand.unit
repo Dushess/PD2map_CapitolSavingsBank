@@ -1,6 +1,0 @@
-<unit type="mad" slot="1">
-	<object file="units/pd2_dlc_mad/props/mad_prop_whiteboard_stand/mad_prop_whiteboard_stand" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>

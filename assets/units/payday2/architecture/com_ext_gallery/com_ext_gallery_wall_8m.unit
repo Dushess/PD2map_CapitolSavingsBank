@@ -1,6 +1,0 @@
-<unit type="com" slot="1" >
-    <object file="units/payday2/architecture/com_ext_gallery/com_ext_gallery_wall_8m" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

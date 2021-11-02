@@ -1,6 +1,0 @@
-<unit type="brb" slot="1">
-	<object file="units/pd2_dlc_brb/props/brb_prop_bank_rug/brb_bank_rug" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>

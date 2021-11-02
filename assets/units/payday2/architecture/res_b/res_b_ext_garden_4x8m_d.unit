@@ -1,6 +1,0 @@
-<unit type="res" slot="1" >
-    <object file="units/payday2/architecture/res_b/res_b_ext_garden_4x8m_d" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

@@ -1,5 +1,0 @@
-<materials version="3">
-    <material version="2" decal_material="wood" name="bossdesk" render_template="generic:DIFFUSE_TEXTURE">
-        <diffuse_texture file="units/world/props/diamond_heist/apartment/apartment_livingroom/officedesk_deluxe/wooden_props_shared_df"/>
-    </material>
-</materials>
