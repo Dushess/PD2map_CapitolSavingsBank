@@ -12,7 +12,9 @@
 		<outro_event>
 			<value_node value=""/>
 		</outro_event>
-		<packages/>
+		<packages>
+			<value_node value="levels/instances/unique/sand/sand_container_contents_pathopen/world/world"/>
+		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
 				<options merge_mode="add" mode="add"/>

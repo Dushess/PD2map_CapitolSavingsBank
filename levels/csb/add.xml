@@ -325,11 +325,6 @@
 		<sequence_manager path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_large_van"/>
 		<unit path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_large_van"/>
 	</add>
-	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_garage_gardenhose/mcm_prop_garage_gardenhose" type="unit">
-		<material_config path="units/pd2_mcmansion/props/mcm_prop_garage_gardenhose/mcm_prop_garage_gardenhose"/>
-		<object path="units/pd2_mcmansion/props/mcm_prop_garage_gardenhose/mcm_prop_garage_gardenhose"/>
-		<unit path="units/pd2_mcmansion/props/mcm_prop_garage_gardenhose/mcm_prop_garage_gardenhose"/>
-	</add>
 	<add from_db="true" path="units/pd2_dlc2/architecture/gov_d_ext/gov_d_ext_inner_garden" type="unit">
 		<material_config path="units/pd2_dlc2/architecture/gov_d_ext/gov_d_ext_inner_garden"/>
 		<object path="units/pd2_dlc2/architecture/gov_d_ext/gov_d_ext_inner_garden"/>
@@ -542,12 +537,6 @@
 		<sequence_manager path="units/pd2_dlc_brb/props/brb_prop_private_booth/brb_prop_private_booth"/>
 		<unit path="units/pd2_dlc_brb/props/brb_prop_private_booth/brb_prop_private_booth"/>
 	</add>
-	<add from_db="true" path="units/world/architecture/gym/gym_booth_garage/gym_booth_garage" type="unit">
-		<material_config path="units/world/architecture/gym/gym_booth_garage/gym_booth_garage"/>
-		<object path="units/world/architecture/gym/gym_booth_garage/gym_booth_garage"/>
-		<sequence_manager path="units/world/architecture/gym/gym_booth_garage/gym_booth_garage"/>
-		<unit path="units/world/architecture/gym/gym_booth_garage/gym_booth_garage"/>
-	</add>
 	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_phonebooth_street_01/run_prop_phonebooth_street_01" type="unit">
 		<material_config path="units/pd2_dlc_run/props/run_prop_phonebooth_street_01/run_prop_phonebooth_street_01"/>
 		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
@@ -626,11 +615,6 @@
 		<material_config path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_road_16x20"/>
 		<object path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_road_16x20"/>
 		<unit path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_road_16x20"/>
-	</add>
-	<add from_db="true" path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_asphalt_20x20m" type="unit">
-		<material_config path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_asphalt_20x20m"/>
-		<object path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_asphalt_20x20m"/>
-		<unit path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_asphalt_20x20m"/>
 	</add>
 	<add from_db="true" path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_road_24x20" type="unit">
 		<material_config path="units/pd2_dlc_flat/architecture/flt_ext_ground_road/flt_ext_ground_road_24x20"/>
@@ -1251,11 +1235,6 @@
 		<object path="units/pd2_dlc_chas/architecture/int/shop_interiors/chas_shop_interiors_jewlery_01"/>
 		<unit path="units/pd2_dlc_chas/architecture/int/shop_interiors/chas_shop_interiors_jewlery_01"/>
 	</add>
-	<add from_db="true" path="units/payday2/props/com_prop_shop_pear/com_prop_store_adds_wall_1" type="unit">
-		<material_config path="units/payday2/props/com_prop_shop_pear/com_prop_store_adds_wall"/>
-		<object path="units/payday2/props/com_prop_shop_pear/com_prop_store_adds_wall_1"/>
-		<unit path="units/payday2/props/com_prop_shop_pear/com_prop_store_adds_wall_1"/>
-	</add>
 	<add from_db="true" path="units/pd2_dlc2/csgo_models/props/cs_militia/light_shop2" type="unit">
 		<material_config path="units/pd2_dlc2/csgo_models/props/cs_militia/light_shop2"/>
 		<object path="units/pd2_dlc2/csgo_models/props/cs_militia/light_shop2"/>
@@ -1340,11 +1319,6 @@
 		<sequence_manager path="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_c_corner_overpasshole_interact"/>
 		<unit path="units/payday2/architecture/hcm_b/hcm_b_ext_8x16m_c_corner_overpasshole_interact_hcmarm"/>
 	</add>
-	<add from_db="true" path="units/payday2/architecture/hcm_b_backdrop/hcm_b_backdrop_far_4_b_night" type="unit">
-		<material_config path="units/payday2/architecture/hcm_b_backdrop/hcm_b_backdrop_far_night"/>
-		<object path="units/payday2/architecture/hcm_b_backdrop/hcm_b_backdrop_far_4_b_night"/>
-		<unit path="units/payday2/architecture/hcm_b_backdrop/hcm_b_backdrop_far_4_b_night"/>
-	</add>
 	<add from_db="true" path="units/payday2/architecture/hcm/hcm_ext_storefront_8x16m_a" type="unit">
 		<material_config path="units/payday2/architecture/hcm/hcm"/>
 		<object path="units/payday2/architecture/hcm/hcm_ext_storefront_8x16m_a"/>
@@ -1424,13 +1398,6 @@
 		<sequence_manager path="units/payday2/architecture/hcm/hcm_ext_1x8m_b"/>
 		<unit path="units/payday2/architecture/hcm/hcm_ext_1x8m_b"/>
 	</add>
-	<add from_db="true" path="units/payday2/architecture/hcm/hcm_ext_1x8m_a" type="unit">
-		<material_config path="units/payday2/architecture/hcm/hcm"/>
-		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
-		<object path="units/payday2/architecture/hcm/hcm_ext_1x8m_a"/>
-		<sequence_manager path="units/payday2/architecture/hcm/hcm_ext_1x8m_a"/>
-		<unit path="units/payday2/architecture/hcm/hcm_ext_1x8m_a"/>
-	</add>
 	<add from_db="true" path="units/payday2/architecture/hcm/hcm_ext_3x8m_a" type="unit">
 		<material_config path="units/payday2/architecture/hcm/hcm"/>
 		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
@@ -1482,11 +1449,6 @@
 		<material_config path="units/payday2/architecture/cdr/cdr_int"/>
 		<object path="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a"/>
 		<unit path="units/payday2/architecture/cdr/cdr_int_cinder_wall_2x3m_a"/>
-	</add>
-	<add from_db="true" path="units/payday2/architecture/cas_bdrop/cas_bdrop_mountain_east" type="unit">
-		<material_config path="units/payday2/architecture/cas_bdrop/cas_bdrop_mountain"/>
-		<object path="units/payday2/architecture/cas_bdrop/cas_bdrop_mountain_east"/>
-		<unit path="units/payday2/architecture/cas_bdrop/cas_bdrop_mountain_east"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/cdr/cdr_int_cinder_wall_trim_2x1m_a" type="unit">
 		<material_config path="units/payday2/architecture/cdr/cdr_int"/>
@@ -1774,20 +1736,6 @@
 		<sequence_manager path="units/payday2/equipment/gen_interactable_panel_keycard/gen_interactable_panel_keycard"/>
 		<unit path="units/payday2/equipment/gen_interactable_panel_keycard/item_panel_keycard_double"/>
 	</add>
-	<add from_db="true" path="units/payday2/props/are_int_double_door/are_int_double_door" type="unit">
-		<object path="units/payday2/props/are_int_double_door/are_int_double_door"/>
-		<material_config path="units/payday2/props/are_int_double_door/are_int_double_door"/>
-		<sequence_manager path="units/payday2/props/are_int_double_door/are_int_double_door"/>
-		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<bnk path="soundbanks/regular_sfx"/>
-		<gui path="guis/timer_gui"/>
-		<unit path="units/payday2/props/are_int_double_door/are_int_double_door"/>
-	</add>
 	<add from_db="true" path="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_lux" type="unit">
 		<unit path="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_lux"/>
 		<object path="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_lux"/>
@@ -1837,12 +1785,6 @@
 		<physic_effect path="physic_effects/push_sphere"/>
 		<sequence_manager path="units/pd2_dlc_rvd/props/rvd_prop_vault_door_medium/rvd_prop_vault_door_medium"/>
 		<unit path="units/pd2_dlc_rvd/props/rvd_prop_vault_door_medium/rvd_prop_vault_door_medium"/>
-	</add>
-	<add from_db="true" path="units/world/props/bank/vault/vault_door_set" type="unit">
-		<material_config path="units/world/props/bank/vault/vault"/>
-		<object path="units/world/props/bank/vault/vault_door_set"/>
-		<sequence_manager path="units/world/props/bank/vault/vault_door_set"/>
-		<unit path="units/world/props/bank/vault/vault_door_set"/>
 	</add>
 	<add from_db="true" path="units/world/props/bank/vault/vault_door_set_hidable/vault_door_set_hidable" type="unit">
 		<material_config path="units/world/props/bank/vault/vault"/>
@@ -1894,11 +1836,6 @@
 		<material_config path="units/payday2/props/com_prop_club_signs/com_prop_club_signs"/>
 		<object path="units/payday2/props/com_prop_club_signs/com_prop_club_sign_private"/>
 		<unit path="units/payday2/props/com_prop_club_signs/com_prop_club_sign_private"/>
-	</add>
-	<add from_db="true" path="units/payday2/props/com_prop_election_commercial_sign/com_prop_election_commercial_sign_a" type="unit">
-		<material_config path="units/payday2/props/com_prop_election_commercial_sign/com_prop_election_commercial_sign_a"/>
-		<object path="units/payday2/props/com_prop_election_commercial_sign/com_prop_election_commercial_sign_a"/>
-		<unit path="units/payday2/props/com_prop_election_commercial_sign/com_prop_election_commercial_sign_a"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/com_prop_election_commercial_sign/com_prop_election_commercial_sign_d" type="unit">
 		<material_config path="units/payday2/props/com_prop_election_commercial_sign/com_prop_election_commercial_sign_d"/>
@@ -1965,8 +1902,1639 @@
 		<unit path="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_a"/>
 	</add>
 	<add from_db="true" path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_a/mex_warehouse_bldg_a" type="unit">
-		<unit path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_a/mex_warehouse_bldg_a"/>
-		<object path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_a/mex_warehouse_bldg_a"/>
 		<material_config path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_a/mex_warehouse_bldg_a"/>
+		<object path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_a/mex_warehouse_bldg_a"/>
+		<unit path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_a/mex_warehouse_bldg_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/props/mex_prop_sign_close_door/mex_prop_sign_close_door" type="unit">
+		<material_config path="units/pd2_dlc_mex/props/mex_prop_sign_close_door/mex_prop_sign_close_door"/>
+		<object path="units/pd2_dlc_mex/props/mex_prop_sign_close_door/mex_prop_sign_close_door"/>
+		<unit path="units/pd2_dlc_mex/props/mex_prop_sign_close_door/mex_prop_sign_close_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/props/mex_prop_window/mex_prop_window" type="unit">
+		<material_config path="units/pd2_dlc_mex/props/mex_prop_window/mex_prop_window"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<object path="units/pd2_dlc_mex/props/mex_prop_window/mex_prop_window"/>
+		<sequence_manager path="units/pd2_dlc_mex/props/mex_prop_window/mex_prop_window"/>
+		<unit path="units/pd2_dlc_mex/props/mex_prop_window/mex_prop_window"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/mex_bldg_a/mex_bldg_a" type="unit">
+		<material_config path="units/pd2_dlc_mex/architecture/mex_bldg_a/mex_bldg_a"/>
+		<object path="units/pd2_dlc_mex/architecture/mex_bldg_a/mex_bldg_a"/>
+		<unit path="units/pd2_dlc_mex/architecture/mex_bldg_a/mex_bldg_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/mex_storage_shack/mex_storage" type="unit">
+		<material_config path="units/pd2_dlc_mex/architecture/mex_storage_shack/mex_storage"/>
+		<object path="units/pd2_dlc_mex/architecture/mex_storage_shack/mex_storage"/>
+		<unit path="units/pd2_dlc_mex/architecture/mex_storage_shack/mex_storage"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/mex_hangar/mex_hangar_doors" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_mex/architecture/mex_hangar/mex_hangar_doors"/>
+		<object path="units/pd2_dlc_mex/architecture/mex_hangar/mex_hangar_doors"/>
+		<sequence_manager path="units/pd2_dlc_mex/architecture/mex_hangar/mex_hangar_doors"/>
+		<unit path="units/pd2_dlc_mex/architecture/mex_hangar/mex_hangar_doors"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/mex_tunnel_exit/mex_tunnel_exit" type="unit">
+		<material_config path="units/pd2_dlc_mex/architecture/mex_tunnel_exit/mex_tunnel_exit"/>
+		<object path="units/pd2_dlc_mex/architecture/mex_tunnel_exit/mex_tunnel_exit"/>
+		<unit path="units/pd2_dlc_mex/architecture/mex_tunnel_exit/mex_tunnel_exit"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/pickups/mex_pickup_red_key/mex_pickup_red_key" type="unit">
+		<unit path="units/pd2_dlc_mex/pickups/mex_pickup_red_key/mex_pickup_red_key"/>
+		<object path="units/pd2_dlc_mex/pickups/mex_pickup_red_key/mex_pickup_red_key"/>
+		<material_config path="units/pd2_dlc_mex/pickups/mex_pickup_red_key/mex_pickup_red_key"/>
+		<unit path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped"/>
+		<object path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped"/>
+		<material_config path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard"/>
+		<sequence_manager path="units/pd2_dlc_mex/pickups/mex_pickup_red_key/mex_pickup_red_key"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/props/mex_prop_mountain_door/mex_prop_mountain_door" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_mex/props/mex_prop_mountain_door/mex_prop_mountain_door"/>
+		<object path="units/pd2_dlc_mex/props/mex_prop_mountain_door/mex_prop_mountain_door"/>
+		<sequence_manager path="units/pd2_dlc_mex/props/mex_prop_mountain_door/mex_prop_mountain_door"/>
+		<unit path="units/pd2_dlc_mex/props/mex_prop_mountain_door/mex_prop_mountain_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/props/mex_prop_runway_gate_rail/mex_prop_runway_gate_rail" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_mex/props/mex_prop_runway_gate_rail/mex_prop_runway_gate_rail"/>
+		<object path="units/pd2_dlc_mex/props/mex_prop_runway_gate_rail/mex_prop_runway_gate_rail"/>
+		<sequence_manager path="units/pd2_dlc_mex/props/mex_prop_runway_gate_rail/mex_prop_runway_gate_rail"/>
+		<unit path="units/pd2_dlc_mex/props/mex_prop_runway_gate_rail/mex_prop_runway_gate_rail"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/props/mex_prop_windmill_abandoned_animated/mex_prop_windmill_abandoned_animated" type="unit">
+		<material_config path="units/pd2_dlc_mex/props/mex_prop_windmill_abandoned_animated/mex_prop_windmill_abandoned_animated"/>
+		<object path="units/pd2_dlc_mex/props/mex_prop_windmill_abandoned_animated/mex_prop_windmill_abandoned_animated"/>
+		<sequence_manager path="units/pd2_dlc_mex/props/mex_prop_windmill_abandoned_animated/mex_prop_windmill_abandoned_animated"/>
+		<unit path="units/pd2_dlc_mex/props/mex_prop_windmill_abandoned_animated/mex_prop_windmill_abandoned_animated"/>
+	</add>
+	<add from_db="true" path="units/pd2_indiana/props/mus_prop_diamond_door/mus_prop_diamond_securitygate" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_indiana/props/mus_prop_diamond_door/mus_prop_diamond_portal"/>
+		<object path="units/pd2_indiana/props/mus_prop_diamond_door/mus_prop_diamond_securitygate"/>
+		<sequence_manager path="units/pd2_indiana/props/mus_prop_diamond_door/mus_prop_diamond_securitygate"/>
+		<unit path="units/pd2_indiana/props/mus_prop_diamond_door/mus_prop_diamond_securitygate"/>
+	</add>
+	<add from_db="true" path="units/world/props/mansion/man_ext_iron_gate/man_ext_iron_gate" type="unit">
+		<material_config path="units/world/props/mansion/man_ext_iron_gate/man_ext_iron_gate"/>
+		<object path="units/world/props/mansion/man_ext_iron_gate/man_ext_iron_gate"/>
+		<unit path="units/world/props/mansion/man_ext_iron_gate/man_ext_iron_gate"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/suburbia/suburbia_sewer_gate" type="unit">
+		<unit path="units/world/architecture/suburbia/suburbia_sewer_gate"/>
+		<object path="units/world/architecture/suburbia/suburbia_sewer_gate"/>
+		<material_config path="units/world/architecture/suburbia/suburbia"/>
+		<sequence_manager path="units/world/architecture/suburbia/suburbia_cellar_gate"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/particles/equipment/suburbia_cellar_gate_crowbar"/>
+	</add>
+	<add from_db="true" path="units/world/props/prop_suburbia_wall_gate/suburbia_wall_gate" type="unit">
+		<material_config path="units/world/props/prop_suburbia_wall_gate/suburbia_wall_gate"/>
+		<object path="units/world/props/prop_suburbia_wall_gate/suburbia_wall_gate"/>
+		<unit path="units/world/props/prop_suburbia_wall_gate/suburbia_wall_gate"/>
+	</add>
+	<add from_db="true" path="units/world/props/train/tra_prop_railwaygate/tra_prop_railwaygate" type="unit">
+		<material_config path="units/world/props/train/tra_prop_railwaygate/tra_prop_railwaygate"/>
+		<object path="units/world/props/train/tra_prop_railwaygate/tra_prop_railwaygate"/>
+		<unit path="units/world/props/train/tra_prop_railwaygate/tra_prop_railwaygate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/props/sand_prop_fenced_gate/sand_prop_fenced_gate" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_sand/props/sand_prop_fenced_gate/sand_prop_fenced_gate"/>
+		<object path="units/pd2_dlc_sand/props/sand_prop_fenced_gate/sand_prop_fenced_gate"/>
+		<sequence_manager path="units/pd2_dlc_sand/props/sand_prop_fenced_gate/sand_prop_fenced_gate"/>
+		<unit path="units/pd2_dlc_sand/props/sand_prop_fenced_gate/sand_prop_fenced_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/props/sand_interactable_sliding_gate/sand_interactable_sliding_gate" type="unit">
+		<material_config path="units/pd2_dlc_sand/props/sand_interactable_sliding_gate/sand_interactable_sliding_gate_contour"/>
+		<material_config path="units/pd2_dlc_sand/props/sand_interactable_sliding_gate/sand_interactable_sliding_gate"/>
+		<object path="units/pd2_dlc_sand/props/sand_interactable_sliding_gate/sand_interactable_sliding_gate"/>
+		<sequence_manager path="units/pd2_dlc_sand/props/sand_interactable_sliding_gate/sand_interactable_sliding_gate"/>
+		<unit path="units/pd2_dlc_sand/props/sand_interactable_sliding_gate/sand_interactable_sliding_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_2m_dmg" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/payday2/particles/impacts/small_particles/wood_particles"/>
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_set"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_2m_dmg"/>
+		<sequence_manager path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_2m_dmg"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_2m_dmg"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_small" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_set"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_small"/>
+		<sequence_manager path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_small"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_small"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mill/ind_mill_gate/ind_mill_gate" type="unit">
+		<material_config path="units/payday2/props/air_prop_runway_gate/air_prop_runway_gate"/>
+		<object path="units/pd2_dlc_mill/ind_mill_gate/ind_mill_gate"/>
+		<sequence_manager path="units/pd2_dlc_mill/ind_mill_gate/ind_mill_gate"/>
+		<unit path="units/pd2_dlc_mill/ind_mill_gate/ind_mill_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chew/props/chw_security_gate/chw_security_gate" type="unit">
+		<unit path="units/pd2_dlc_chew/props/chw_security_gate/chw_security_gate"/>
+		<object path="units/pd2_dlc_chew/props/chw_security_gate/chw_security_gate"/>
+		<material_config path="units/pd2_dlc_chew/props/chw_security_gate/chw_security_gate"/>
+		<sequence_manager path="units/pd2_dlc_chew/props/chw_security_gate/chw_security_gate"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chas/architecture/ext/chas_ext_dragongate_01/chas_ext_dragongate_01" type="unit">
+		<material_config path="units/pd2_dlc_chas/architecture/ext/chas_ext_dragongate_01/chas_ext_dragongate_01"/>
+		<object path="units/pd2_dlc_chas/architecture/ext/chas_ext_dragongate_01/chas_ext_dragongate_01"/>
+		<unit path="units/pd2_dlc_chas/architecture/ext/chas_ext_dragongate_01/chas_ext_dragongate_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_urban/fence_gate_post003" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_urban/fence_gate_post003"/>
+		<object path="units/pd2_dlc2/csgo_models/props_urban/fence_gate_post003"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_urban/fence_gate_post003"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_garage_barriergate/com_prop_garage_barriergate" type="unit">
+		<material_config path="units/payday2/props/com_prop_garage_barriergate/com_prop_garage_barriergate"/>
+		<object path="units/payday2/props/com_prop_garage_barriergate/com_prop_garage_barriergate"/>
+		<unit path="units/payday2/props/com_prop_garage_barriergate/com_prop_garage_barriergate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_c17/gate_door01a" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_c17/gate_door01a"/>
+		<object path="units/pd2_dlc2/csgo_models/props_c17/gate_door01a"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_c17/gate_door01a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/stn_wall_fence_gate_picklock/stn_wall_fence_gate_picklock" type="unit">
+		<material_config path="units/payday2/props/stn_wall_fence_gate_picklock/stn_wall_fence_gate_picklock"/>
+		<object path="units/payday2/props/stn_wall_fence_gate_picklock/stn_wall_fence_gate_picklock"/>
+		<sequence_manager path="units/payday2/props/stn_wall_fence_gate_picklock/stn_wall_fence_gate_picklock"/>
+		<unit path="units/payday2/props/stn_wall_fence_gate_picklock/stn_wall_fence_gate_picklock"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_wall_set/str_prop_wall_set_gate_8m" type="unit">
+		<material_config path="units/payday2/props/str_prop_wall_set/str_prop_wall_set_gate"/>
+		<object path="units/payday2/props/str_prop_wall_set/str_prop_wall_set_gate_8m"/>
+		<unit path="units/payday2/props/str_prop_wall_set/str_prop_wall_set_gate_8m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_berry/props/bry_prop_mountain_gate/bry_prop_mountain_gate" type="unit">
+		<material_config path="units/pd2_dlc_berry/props/bry_prop_mountain_gate/bry_prop_mountain_gate"/>
+		<object path="units/pd2_dlc_berry/props/bry_prop_mountain_gate/bry_prop_mountain_gate"/>
+		<sequence_manager path="units/pd2_dlc_berry/props/bry_prop_mountain_gate/bry_prop_mountain_gate"/>
+		<unit path="units/pd2_dlc_berry/props/bry_prop_mountain_gate/bry_prop_mountain_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_bex/architecture/bex_int_fence_door/bex_int_fence_gate" type="unit">
+		<unit path="units/pd2_dlc_bex/architecture/bex_int_fence_door/bex_int_fence_gate"/>
+		<object path="units/pd2_dlc_bex/architecture/bex_int_fence_door/bex_int_fence_gate"/>
+		<material_config path="units/pd2_dlc_bex/architecture/bex_int_fence_door/bex_int_fence_gate"/>
+		<sequence_manager path="units/pd2_dlc_bex/architecture/bex_int_fence_door/bex_int_fence_gate"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_fex/props/fex_prop_wine_cellar_gate/fex_prop_wine_cellar_gate" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_fex/props/fex_prop_wine_cellar_gate/fex_prop_wine_cellar_gate"/>
+		<object path="units/pd2_dlc_fex/props/fex_prop_wine_cellar_gate/fex_prop_wine_cellar_gate"/>
+		<sequence_manager path="units/pd2_dlc_fex/props/fex_prop_wine_cellar_gate/fex_prop_wine_cellar_gate"/>
+		<unit path="units/pd2_dlc_fex/props/fex_prop_wine_cellar_gate/fex_prop_wine_cellar_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_friend/props/sfm_prop_entrance_gate/sfm_prop_entrance_gate" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_friend/props/sfm_prop_entrance_gate/sfm_prop_entrance_gate"/>
+		<object path="units/pd2_dlc_friend/props/sfm_prop_entrance_gate/sfm_prop_entrance_gate"/>
+		<sequence_manager path="units/pd2_dlc_friend/props/sfm_prop_entrance_gate/sfm_prop_entrance_gate"/>
+		<unit path="units/pd2_dlc_friend/props/sfm_prop_entrance_gate/sfm_prop_entrance_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_vit/architecture/vit_int/vit_int_gate_to_ww/vit_int_gate_to_ew" type="unit">
+		<unit path="units/pd2_dlc_vit/architecture/vit_int/vit_int_gate_to_ww/vit_int_gate_to_ew"/>
+		<object path="units/pd2_dlc_vit/architecture/vit_int/vit_int_gate_to_ww/vit_int_gate_to_ew"/>
+		<material_config path="units/pd2_dlc_vit/architecture/vit_int/vit_int_gate_to_ww/vit_int_gate_to_ww"/>
+		<sequence_manager path="units/pd2_dlc_vit/architecture/vit_int/vit_int_gate_to_ww/vit_int_gate_to_ew"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_6m" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_set"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_6m"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_6m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence_gate_6m" type="unit">
+		<unit path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence_gate_6m"/>
+		<object path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence_gate_6m"/>
+		<material_config path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence"/>
+		<sequence_manager path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence_gate"/>
+		<effect load="true" path="effects/payday2/particles/wood/wood_door_shotgun_dmg_in"/>
+		<effect load="true" path="effects/payday2/particles/wood/wood_door_shotgun_dmg_out"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_gate_v3" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_gate"/>
+		<object path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_gate_v3"/>
+		<sequence_manager path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_gate_v3"/>
+		<unit path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_gate_v3"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_fence_yellow_gate_new" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_fence_yellow_wall_new"/>
+		<object path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_fence_yellow_gate_new"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_fence_yellow_gate_new"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_bex/architecture/ext/bex_ext_metalgate/bex_metalgate" type="unit">
+		<material_config path="units/pd2_dlc_bex/architecture/ext/bex_ext_metalgate/bex_metalgate"/>
+		<object path="units/pd2_dlc_bex/architecture/ext/bex_ext_metalgate/bex_metalgate"/>
+		<unit path="units/pd2_dlc_bex/architecture/ext/bex_ext_metalgate/bex_metalgate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_born/props/bor_prop_canal_gate/bor_canale_gate" type="unit">
+		<material_config path="units/pd2_dlc_born/props/bor_prop_canal_gate/bor_canale_gate"/>
+		<object path="units/pd2_dlc_born/props/bor_prop_canal_gate/bor_canale_gate"/>
+		<unit path="units/pd2_dlc_born/props/bor_prop_canal_gate/bor_canale_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_bph/architecture/bph_int/bph_int_cell_block/bph_int_cell_gate" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_bph/architecture/bph_int/bph_int_cell_block/bph_int_cell_gate"/>
+		<object path="units/pd2_dlc_bph/architecture/bph_int/bph_int_cell_block/bph_int_cell_gate"/>
+		<sequence_manager path="units/pd2_dlc_bph/architecture/bph_int/bph_int_cell_block/bph_int_cell_gate"/>
+		<unit path="units/pd2_dlc_bph/architecture/bph_int/bph_int_cell_block/bph_int_cell_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_bph/props/bph_prop_window_barred/bph_prop_window_barred_gate_static" type="unit">
+		<material_config path="units/pd2_dlc_bph/props/bph_prop_window_barred/bph_prop_window_barred"/>
+		<object path="units/pd2_dlc_bph/props/bph_prop_window_barred/bph_prop_window_barred_gate_static"/>
+		<unit path="units/pd2_dlc_bph/props/bph_prop_window_barred/bph_prop_window_barred_gate_static"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chas/architecture/ext/chas_ext_dragongate_01/chas_ext_dragongate_02" type="unit">
+		<material_config path="units/pd2_dlc_chas/architecture/ext/chas_ext_dragongate_01/chas_ext_dragongate_02"/>
+		<object path="units/pd2_dlc_chas/architecture/ext/chas_ext_dragongate_01/chas_ext_dragongate_02"/>
+		<unit path="units/pd2_dlc_chas/architecture/ext/chas_ext_dragongate_01/chas_ext_dragongate_02"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chca/architecture/backdrop/chca_ext_backdrop_golden_gate" type="unit">
+		<material_config path="units/pd2_dlc_chca/architecture/backdrop/chca_ext_backdrop"/>
+		<object path="units/pd2_dlc_chca/architecture/backdrop/chca_ext_backdrop_golden_gate"/>
+		<unit path="units/pd2_dlc_chca/architecture/backdrop/chca_ext_backdrop_golden_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_cro/ind_dock_gate/ind_dock_gate" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_cro/ind_dock_gate/ind_dock_gate"/>
+		<object path="units/pd2_dlc_cro/ind_dock_gate/ind_dock_gate"/>
+		<sequence_manager path="units/pd2_dlc_cro/ind_dock_gate/ind_dock_gate"/>
+		<unit path="units/pd2_dlc_cro/ind_dock_gate/ind_dock_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate_bars" type="unit">
+		<material_config path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate_bars"/>
+		<object path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate_bars"/>
+		<unit path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate_bars"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate" type="unit">
+		<unit path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate"/>
+		<object path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate"/>
+		<material_config path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate"/>
+		<sequence_manager path="units/pd2_dlc_dark/props/drk_prop_sliding_gate/drk_prop_sliding_gate"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_fex/props/fex_prop_entrance_gate/fex_prop_entrance_gate_v2" type="unit">
+		<effect load="true" path="effects/payday2/particles/fire/thermite_infinite"/>
+		<effect load="true" path="effects/payday2/particles/fire/thermite_fade"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_fex/props/fex_prop_entrance_gate/fex_prop_entrance_gate_v2"/>
+		<object path="units/pd2_dlc_fex/props/fex_prop_entrance_gate/fex_prop_entrance_gate_v2"/>
+		<sequence_manager path="units/pd2_dlc_fex/props/fex_prop_entrance_gate/fex_prop_entrance_gate_v2"/>
+		<unit path="units/pd2_dlc_fex/props/fex_prop_entrance_gate/fex_prop_entrance_gate_v2"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_help/architecture/hlp_int_prison_bars/hlp_int_fence_gate" type="unit">
+		<material_config path="units/pd2_dlc_help/architecture/hlp_int_prison_bars/hlp_int_fence_wall"/>
+		<object path="units/pd2_dlc_help/architecture/hlp_int_prison_bars/hlp_int_fence_gate"/>
+		<unit path="units/pd2_dlc_help/architecture/hlp_int_prison_bars/hlp_int_fence_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_pex/props/pex_prop_wall_fence_gate/pex_prop_wall_fence_gate" type="unit">
+		<material_config path="units/pd2_dlc_pex/props/pex_prop_wall_fence_gate/pex_prop_wall_fence_gate"/>
+		<object path="units/pd2_dlc_pex/props/pex_prop_wall_fence_gate/pex_prop_wall_fence_gate"/>
+		<sequence_manager path="units/pd2_dlc_pex/props/pex_prop_wall_fence_gate/pex_prop_wall_fence_gate"/>
+		<unit path="units/pd2_dlc_pex/props/pex_prop_wall_fence_gate/pex_prop_wall_fence_gate"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_2m" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_gate_set"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_2m"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_garden_fence_gate_set/mcm_prop_garden_fence_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_rail_2m" type="unit">
+		<material_config path="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_rail"/>
+		<object path="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_rail_2m"/>
+		<unit path="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_rail_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_basement/com_int_basement_garage_entrance_a" type="unit">
+		<material_config path="units/payday2/architecture/com_int_basement/com_int_basement_garage_entrance_a"/>
+		<object path="units/payday2/architecture/com_int_basement/com_int_basement_garage_entrance_a"/>
+		<unit path="units/payday2/architecture/com_int_basement/com_int_basement_garage_entrance_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage" type="unit">
+		<material_config path="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage"/>
+		<object path="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage"/>
+		<unit path="units/payday2/architecture/com_int_parking_garage/com_int_parking_garage"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_rollupgaragedoor_a" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_garagedoor01"/>
+		<object path="units/payday2/architecture/ind/ind_ext_rollupgaragedoor_a"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_rollupgaragedoor_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_garage_ticketpass/com_prop_garage_ticketpass" type="unit">
+		<material_config path="units/payday2/props/com_prop_garage_ticketpass/com_prop_garage_ticketpass"/>
+		<object path="units/payday2/props/com_prop_garage_ticketpass/com_prop_garage_ticketpass"/>
+		<unit path="units/payday2/props/com_prop_garage_ticketpass/com_prop_garage_ticketpass"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_clearance" type="unit">
+		<material_config path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_signs"/>
+		<object path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_clearance"/>
+		<unit path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_clearance"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_info_a" type="unit">
+		<material_config path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_signs"/>
+		<object path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_info_a"/>
+		<unit path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_info_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_pay_machine" type="unit">
+		<material_config path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_signs"/>
+		<object path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_pay_machine"/>
+		<unit path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_pay_machine"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_stairs" type="unit">
+		<material_config path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_signs"/>
+		<object path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_stairs"/>
+		<unit path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_stairs"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door" type="unit">
+		<material_config path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door"/>
+		<object path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door"/>
+		<sequence_manager path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door"/>
+		<unit path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_two_way_traffic" type="unit">
+		<material_config path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_signs"/>
+		<object path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_two_way_traffic"/>
+		<unit path="units/payday2/props/com_prop_parking_garage_signs/com_prop_parking_garage_sign_two_way_traffic"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door_button" type="unit">
+		<material_config path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door_button"/>
+		<object path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door_button"/>
+		<sequence_manager path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door_button"/>
+		<unit path="units/pd2_dlc1/architecture/bnk_ext_garage/bnk_ext_garage_door_button"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/architecture/gov_d_ext/gov_d_ext_garage_entry_stairs" type="unit">
+		<material_config path="units/pd2_dlc2/architecture/gov_d_ext/gov_d_ext_garage_entry"/>
+		<object path="units/pd2_dlc2/architecture/gov_d_ext/gov_d_ext_garage_entry_stairs"/>
+		<unit path="units/pd2_dlc2/architecture/gov_d_ext/gov_d_ext_garage_entry_stairs"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_born/props/bor_prop_garage_bike_assembly/parts/bor_prop_garage_assembly_part_skull" type="unit">
+		<material_config path="units/pd2_dlc_born/props/bor_prop_garage_bike_assembly/parts/bor_prop_garage_assembly_parts"/>
+		<object path="units/pd2_dlc_born/props/bor_prop_garage_bike_assembly/parts/bor_prop_garage_assembly_part_skull"/>
+		<sequence_manager path="units/pd2_dlc_born/props/bor_prop_garage_bike_assembly/parts/bor_prop_garage_assembly_part_skull"/>
+		<unit path="units/pd2_dlc_born/props/bor_prop_garage_bike_assembly/parts/bor_prop_garage_assembly_part_skull"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chill/props/chl_prop_garage_cabinets_a_drawer/chl_prop_garage_cabinets_a_pegboard" type="unit">
+		<material_config path="units/pd2_dlc_chill/props/chl_prop_garage_cabinets_a_drawer/chl_prop_garage_cabinets_a_pegboard"/>
+		<object path="units/pd2_dlc_chill/props/chl_prop_garage_cabinets_a_drawer/chl_prop_garage_cabinets_a_pegboard"/>
+		<unit path="units/pd2_dlc_chill/props/chl_prop_garage_cabinets_a_drawer/chl_prop_garage_cabinets_a_pegboard"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chill/props/chl_prop_garage_decals/chl_prop_garage_oilspill_a" type="unit">
+		<material_config path="units/pd2_dlc_chill/props/chl_prop_garage_decals/chl_prop_garage_oilspill_a"/>
+		<object path="units/pd2_dlc_chill/props/chl_prop_garage_decals/chl_prop_garage_oilspill_a"/>
+		<unit path="units/pd2_dlc_chill/props/chl_prop_garage_decals/chl_prop_garage_oilspill_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sah/props/sah_prop_garage_door/sah_prop_garage_door" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_sah/props/sah_prop_garage_door/sah_prop_garage_door"/>
+		<object path="units/pd2_dlc_sah/props/sah_prop_garage_door/sah_prop_garage_door"/>
+		<sequence_manager path="units/pd2_dlc_sah/props/sah_prop_garage_door/sah_prop_garage_door"/>
+		<unit path="units/pd2_dlc_sah/props/sah_prop_garage_door/sah_prop_garage_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_entrance/xmn_int_parking_garage_entrance" type="unit">
+		<material_config path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_entrance/xmn_int_parking_garage_entrance"/>
+		<object path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_entrance/xmn_int_parking_garage_entrance"/>
+		<unit path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_entrance/xmn_int_parking_garage_entrance"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_ramp/xmn_int_parking_garage_ramp" type="unit">
+		<material_config path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_ramp/xmn_int_parking_garage_ramp"/>
+		<object path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_ramp/xmn_int_parking_garage_ramp"/>
+		<unit path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_ramp/xmn_int_parking_garage_ramp"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/architecture/mcm_ext_house/mcm_a_ext_garage" type="unit">
+		<material_config path="units/pd2_mcmansion/architecture/mcm_ext_house/mcm_a_ext_house"/>
+		<object path="units/pd2_mcmansion/architecture/mcm_ext_house/mcm_a_ext_garage"/>
+		<unit path="units/pd2_mcmansion/architecture/mcm_ext_house/mcm_a_ext_garage"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_garage_shelf/mcm_prop_garage_shelf" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_garage_shelf/mcm_prop_garage_shelf"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_garage_shelf/mcm_prop_garage_shelf"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_garage_shelf/mcm_prop_garage_shelf"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_garage_workbench/mcm_prop_garage_workbench" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_garage_workbench/mcm_prop_garage_workbench"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_garage_workbench/mcm_prop_garage_workbench"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_garage_workbench/mcm_prop_garage_workbench"/>
+	</add>
+	<add from_db="true" path="units/world/props/parking_garage_signs/sign_park_billboard" type="unit">
+		<material_config path="units/world/props/parking_garage_signs/sign_park_pole"/>
+		<object path="units/world/props/parking_garage_signs/sign_park_billboard"/>
+		<unit path="units/world/props/parking_garage_signs/sign_park_billboard"/>
+	</add>
+	<add from_db="true" path="units/world/props/parking_garage_signs/sign_park_pole" type="unit">
+		<material_config path="units/world/props/parking_garage_signs/sign_park_pole"/>
+		<object path="units/world/props/parking_garage_signs/sign_park_pole"/>
+		<unit path="units/world/props/parking_garage_signs/sign_park_pole"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_tag/architecture/tag_int/tag_d_int_garage_entry/tag_d_int_garage_entry" type="unit">
+		<material_config path="units/pd2_dlc_tag/architecture/tag_int/tag_d_int_garage_entry/tag_d_int_garage_entry"/>
+		<object path="units/pd2_dlc_tag/architecture/tag_int/tag_d_int_garage_entry/tag_d_int_garage_entry"/>
+		<unit path="units/pd2_dlc_tag/architecture/tag_int/tag_d_int_garage_entry/tag_d_int_garage_entry"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_pex/architecture/ext/pext_ext_parking_garage/pex_ext_parking_garage_01" type="unit">
+		<material_config path="units/pd2_dlc_pex/architecture/ext/pext_ext_parking_garage/pex_ext_parking_garage_01"/>
+		<object path="units/pd2_dlc_pex/architecture/ext/pext_ext_parking_garage/pex_ext_parking_garage_01"/>
+		<unit path="units/pd2_dlc_pex/architecture/ext/pext_ext_parking_garage/pex_ext_parking_garage_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_pex/props/pex_prop_parking_garage_sign_camera/pex_prop_parking_garage_sign_camera" type="unit">
+		<material_config path="units/pd2_dlc_pex/props/pex_prop_parking_garage_sign_camera/pex_prop_parking_garage_sign_camera"/>
+		<object path="units/pd2_dlc_pex/props/pex_prop_parking_garage_sign_camera/pex_prop_parking_garage_sign_camera"/>
+		<unit path="units/pd2_dlc_pex/props/pex_prop_parking_garage_sign_camera/pex_prop_parking_garage_sign_camera"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_pex/architecture/int/pex_int_garage/pex_int_garage" type="unit">
+		<material_config path="units/pd2_dlc_pex/architecture/int/pex_int_garage/pex_int_garage"/>
+		<object path="units/pd2_dlc_pex/architecture/int/pex_int_garage/pex_int_garage"/>
+		<unit path="units/pd2_dlc_pex/architecture/int/pex_int_garage/pex_int_garage"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x32m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x32m"/>
+		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x32m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m_bag" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m_bag"/>
+		<unit path="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m_bag"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_collision/dev_collision_4x3m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_collision/dev_collision_4x3m"/>
+		<unit path="units/dev_tools/level_tools/dev_collision/dev_collision_4x3m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_collision_10m_bag" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_collision_10m_bag"/>
+		<unit path="units/dev_tools/level_tools/dev_collision_10m_bag"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_collision_1m_2_bag" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_collision_1m_2_bag"/>
+		<unit path="units/dev_tools/level_tools/dev_collision_1m_2_bag"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_collision_5m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_collision_5m"/>
+		<unit path="units/dev_tools/level_tools/dev_collision_5m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door_blue_v2" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door_blue_v2"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door_blue_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_warehouse_big_door" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/kosugi_warehouse_big_door"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_warehouse_big_door"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_warehouse_big_door"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_warehouse_big_door_hole" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/kosugi_warehouse_big_door"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_warehouse_big_door_hole"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_warehouse_big_door_hole"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lcm/lcm_ext_door_metal_01_closed" type="unit">
+		<material_config path="units/payday2/architecture/lcm/lcm_int_door_metal_01"/>
+		<object path="units/payday2/architecture/lcm/lcm_ext_door_metal_01_closed"/>
+		<unit path="units/payday2/architecture/lcm/lcm_ext_door_metal_01_closed"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_wall2_2m_door_a" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_wall2_2m_door_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_wall2_2m_door_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/res/res_door_inner_a" type="unit">
+		<material_config path="units/payday2/architecture/res/res_int_window_01"/>
+		<object path="units/payday2/architecture/res/res_door_inner_a"/>
+		<unit path="units/payday2/architecture/res/res_door_inner_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/res/res_entrance_door" type="unit">
+		<material_config path="units/payday2/architecture/res/res_corridor"/>
+		<object path="units/payday2/architecture/res/res_entrance_door"/>
+		<unit path="units/payday2/architecture/res/res_entrance_door"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/res/res_interactable_door_outer_a" type="unit">
+		<unit path="units/payday2/architecture/res/res_interactable_door_outer_a"/>
+		<object path="units/payday2/architecture/res/res_interactable_door_outer_a"/>
+		<material_config path="units/payday2/architecture/res/res_interactable_door_outer_a"/>
+		<unit path="units/payday2/architecture/res/spawn_debris_door_wood"/>
+		<object path="units/payday2/architecture/res/spawn_debris_door_wood"/>
+		<material_config path="units/payday2/architecture/res/spawn_debris_door_wood"/>
+		<unit path="units/payday2/architecture/res/res_door_knob_a"/>
+		<object path="units/payday2/architecture/res/res_door_knob_a"/>
+		<material_config path="units/payday2/architecture/res/res"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<physic_effect path="physic_effects/push_sphere"/>
+		<sequence_manager path="units/payday2/architecture/res/res_interactable_door_outer_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_building_outdoor" type="unit">
+		<material_config path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_building_outdoor"/>
+		<object path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_building_outdoor"/>
+		<unit path="units/payday2/architecture/res_ext_apartment/res_ext_apartment_building_outdoor"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_wall3d_4m_closetdoor_a" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_wall3d_4m_closetdoor_a"/>
+		<sequence_manager path="units/payday2/architecture/lux/lux_int_wall3d_4m_closetdoor_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_wall3d_4m_closetdoor_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/safehouse/safehouse_decal_door" type="unit">
+		<material_config path="units/payday2/architecture/safehouse/safehouse_decal"/>
+		<object path="units/payday2/architecture/safehouse/safehouse_decal_door"/>
+		<unit path="units/payday2/architecture/safehouse/safehouse_decal_door"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/safehouse/safehouse_int_trapdoor" type="unit">
+		<material_config path="units/payday2/architecture/safehouse/safehouse_int_trapdoor"/>
+		<object path="units/payday2/architecture/safehouse/safehouse_int_trapdoor"/>
+		<sequence_manager path="units/payday2/architecture/safehouse/safehouse_int_trapdoor"/>
+		<unit path="units/payday2/architecture/safehouse/safehouse_int_trapdoor"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/com_interactable_door_wooden_square/com_interactable_door_wooden_square" type="unit">
+		<material_config path="units/payday2/equipment/com_interactable_door_wooden_square/com_interactable_door_wooden_square"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<object path="units/payday2/equipment/com_interactable_door_wooden_square/com_interactable_door_wooden_square"/>
+		<sequence_manager path="units/payday2/equipment/com_interactable_door_wooden_square/com_interactable_door_wooden_square"/>
+		<unit path="units/payday2/equipment/com_interactable_door_wooden_square/com_interactable_door_wooden_square"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str_ext_hcm_l/str_ext_hcm_l_set_door_static" type="unit">
+		<material_config path="units/payday2/architecture/str_ext_hcm_l/str_ext_hcm_l_building_set"/>
+		<object path="units/payday2/architecture/str_ext_hcm_l/str_ext_hcm_l_set_door_static"/>
+		<unit path="units/payday2/architecture/str_ext_hcm_l/str_ext_hcm_l_set_door_static"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_door_apartment_entrance/gen_interactable_door_apartment_entrance" type="unit">
+		<unit path="units/payday2/equipment/gen_interactable_door_apartment_entrance/gen_interactable_door_apartment_entrance"/>
+		<object path="units/payday2/equipment/gen_interactable_door_apartment_entrance/gen_interactable_door_apartment_entrance"/>
+		<material_config path="units/payday2/equipment/gen_interactable_door_apartment_entrance/gen_interactable_door_apartment_entrance"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_door_apartment_entrance/gen_interactable_door_apartment_entrance"/>
+		<unit path="units/equipment/c4_charge/c4_mission_door"/>
+		<object path="units/equipment/c4_charge/c4_mission_door"/>
+		<material_config path="units/equipment/c4_charge/c4_mission_door"/>
+		<sequence_manager path="units/equipment/c4_charge/c4_mission_door"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/payday2/particles/explosions/medium_shapecharger_explosion"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/sub/sub_int_platform_catwalk_base_01/sub_int_platform_catwalk_base_01" type="unit">
+		<material_config path="units/payday2/architecture/sub/shared_textures/sub_int_platform_catwalks"/>
+		<object path="units/payday2/architecture/sub/sub_int_platform_catwalk_base_01/sub_int_platform_catwalk_base_01"/>
+		<unit path="units/payday2/architecture/sub/sub_int_platform_catwalk_base_01/sub_int_platform_catwalk_base_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/vehicles/dia_vehicle_van_player_anim_qdia/dia_vehicle_van_player_anim_qdia" type="unit">
+		<material_config path="units/payday2/vehicles/anim_vehicle_van_player/anim_vehicle_van_player"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<object path="units/payday2/vehicles/dia_vehicle_van_player_anim_qdia/dia_vehicle_van_player_anim_qdia"/>
+		<sequence_manager path="units/payday2/vehicles/dia_vehicle_van_player_anim_qdia/dia_vehicle_van_player_anim_qdia"/>
+		<unit path="units/payday2/vehicles/dia_vehicle_van_player_anim_qdia/dia_vehicle_van_player_anim_qdia"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/bnk/bnk_int_pillar_05m_a" type="unit">
+		<material_config path="units/payday2/architecture/bnk/bnk_int"/>
+		<object path="units/payday2/architecture/bnk/bnk_int_pillar_05m_a"/>
+		<unit path="units/payday2/architecture/bnk/bnk_int_pillar_05m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_pillar_025m_a" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_pillar_025m_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_pillar_025m_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01_8m" type="unit">
+		<material_config path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01"/>
+		<object path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01_8m"/>
+		<unit path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01_8m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01_16m" type="unit">
+		<material_config path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01"/>
+		<object path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01_16m"/>
+		<unit path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01_16m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_02_16m" type="unit">
+		<material_config path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01"/>
+		<object path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_02_16m"/>
+		<unit path="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_02_16m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/bnk/bnk_int_fence_wall_short" type="unit">
+		<material_config path="units/payday2/architecture/bnk/bnk_int"/>
+		<object path="units/payday2/architecture/bnk/bnk_int_fence_wall_short"/>
+		<unit path="units/payday2/architecture/bnk/bnk_int_fence_wall_short"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_cloth_inside" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_cloth_inside"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_cloth_inside"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_cloth_side" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_cloth_side"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_cloth_side"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_cloth_side"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m_shorter"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_warehouse_wall_fence_01" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_kosugi"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_warehouse_wall_fence_01"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_warehouse_wall_fence_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_warehouse_wall_fence_02_shout" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_kosugi"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_warehouse_wall_fence_02_shout"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_warehouse_wall_fence_02_shout"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence_2m" type="unit">
+		<material_config path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence"/>
+		<object path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence_2m"/>
+		<unit path="units/payday2/architecture/lxa_ext_fence/lxa_ext_fence_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_b" type="unit">
+		<material_config path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_instanced"/>
+		<object path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_b"/>
+		<unit path="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_b"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_equipment_forbidden_collision/dev_equipment_forbidden_collision_1x1m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_equipment_forbidden_collision/dev_equipment_forbidden_collision_1x1m"/>
+		<unit path="units/dev_tools/level_tools/dev_equipment_forbidden_collision/dev_equipment_forbidden_collision_1x1m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_equipment_forbidden_collision/dev_equipment_forbidden_collision_1x3m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_equipment_forbidden_collision/dev_equipment_forbidden_collision_1x3m"/>
+		<unit path="units/dev_tools/level_tools/dev_equipment_forbidden_collision/dev_equipment_forbidden_collision_1x3m"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_door_hcm/gen_interactable_door_hcm_double" type="unit">
+		<material_config path="units/payday2/equipment/gen_interactable_door_hcm/gen_interactable_door_hcm"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<object path="units/payday2/equipment/gen_interactable_door_hcm/gen_interactable_door_hcm_double"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_door_hcm/gen_interactable_door_hcm_double"/>
+		<unit path="units/payday2/equipment/gen_interactable_door_hcm/gen_interactable_door_hcm_double"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_door_keycard_dark/gen_interactable_door_keycard_dark" type="unit">
+		<unit path="units/payday2/equipment/gen_interactable_door_keycard_dark/gen_interactable_door_keycard_dark"/>
+		<object path="units/payday2/equipment/gen_interactable_door_keycard_dark/gen_interactable_door_keycard_dark"/>
+		<material_config path="units/payday2/equipment/gen_interactable_door_keycard_dark/gen_interactable_door_keycard_dark"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_door_keycard_dark/gen_interactable_door_keycard_dark"/>
+		<unit path="units/payday2/equipment/gen_interactable_door_keycard_dark/spawn_debris_door_metal_dark"/>
+		<object path="units/payday2/equipment/gen_interactable_door_keycard_dark/spawn_debris_door_metal_dark"/>
+		<material_config path="units/payday2/equipment/gen_interactable_door_keycard_dark/spawn_debris_door_metal_dark"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<unit path="units/payday2/equipment/gen_interactable_panel_keycard/gen_interactable_panel_keycard"/>
+		<object path="units/payday2/equipment/gen_interactable_panel_keycard/gen_interactable_panel_keycard"/>
+		<material_config path="units/pickups/pickup_bank_manager_key/pickup_bank_manager_key"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_panel_keycard/gen_interactable_panel_keycard"/>
+		<unit path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+		<object path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+		<material_config path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard_jammer"/>
+		<unit path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<physic_effect path="physic_effects/push_sphere"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_1_02_door_v3" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_1_02_door_v3"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_1_02_door_v3"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_equipment_ammobag/gen_equipment_ammobag" type="unit">
+		<material_config path="units/payday2/equipment/gen_equipment_ammobag/gen_equipment_ammobag"/>
+		<object path="units/payday2/equipment/gen_equipment_ammobag/gen_equipment_ammobag"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_ammobag/gen_equipment_ammobag"/>
+		<unit path="units/payday2/equipment/gen_equipment_ammobag/gen_equipment_ammobag"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_junk/dumpster_2" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_junk/dumpster_2"/>
+		<object path="units/pd2_dlc2/csgo_models/props_junk/dumpster_2"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_junk/dumpster_2"/>
+	</add>
+	<add from_db="true" path="units/world/street/dumpster/plastic_dumpstercart" type="unit">
+		<material_config path="units/world/street/dumpster/plastic_dumpstercart"/>
+		<object path="units/world/street/dumpster/plastic_dumpstercart"/>
+		<unit path="units/world/street/dumpster/plastic_dumpstercart"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_urban/dumpster001" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_urban/dumpster001"/>
+		<object path="units/pd2_dlc2/csgo_models/props_urban/dumpster001"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_urban/dumpster001"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str_bdrop_dumpster/str_bdrop_dumpster" type="unit">
+		<material_config path="units/payday2/architecture/str_bdrop_dumpster/str_bdrop_dumpster"/>
+		<object path="units/payday2/architecture/str_bdrop_dumpster/str_bdrop_dumpster"/>
+		<unit path="units/payday2/architecture/str_bdrop_dumpster/str_bdrop_dumpster"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_sliding_horizontal" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_sliding_horizontal"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_sliding_horizontal"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_sliding_vertical" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_sliding_vertical"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_sliding_vertical"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_plastic_small_sliding_doors" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_plastic"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_plastic_small_sliding_doors"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_plastic_small_sliding_doors"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/architecture/cas_sliding_window/cas_sliding_window" type="unit">
+		<material_config path="units/pd2_dlc_casino/architecture/cas_sliding_window/cas_sliding_window"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<object path="units/pd2_dlc_casino/architecture/cas_sliding_window/cas_sliding_window"/>
+		<sequence_manager path="units/pd2_dlc_casino/architecture/cas_sliding_window/cas_sliding_window"/>
+		<unit path="units/pd2_dlc_casino/architecture/cas_sliding_window/cas_sliding_window"/>
+	</add>
+	<add from_db="true" path="units/world/props/sliding_security_door_suburbia/sliding_security_door_suburbia" type="unit">
+		<material_config path="units/world/props/sliding_security_door_suburbia/sliding_security_door_suburbia"/>
+		<object path="units/world/props/sliding_security_door_suburbia/sliding_security_door_suburbia"/>
+		<sequence_manager path="units/world/props/sliding_security_door_suburbia/sliding_security_door_suburbia"/>
+		<unit path="units/world/props/sliding_security_door_suburbia/sliding_security_door_suburbia"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_fish/lxy_prop_slidedoor/lxy_prop_slidedoor" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_fish/lxy_prop_slidedoor/lxy_prop_slidedoor"/>
+		<object path="units/pd2_dlc_fish/lxy_prop_slidedoor/lxy_prop_slidedoor"/>
+		<sequence_manager path="units/pd2_dlc_fish/lxy_prop_slidedoor/lxy_prop_slidedoor"/>
+		<unit path="units/pd2_dlc_fish/lxy_prop_slidedoor/lxy_prop_slidedoor"/>
+	</add>
+	<add from_db="true" path="units/world/props/playground/playground_slide" type="unit">
+		<material_config path="units/world/props/playground/playground"/>
+		<object path="units/world/props/playground/playground_slide"/>
+		<unit path="units/world/props/playground/playground_slide"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x16_big_door" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x16_big_door"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x16_big_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_vit/props/vit_prop_oval_office_big_door/vit_int_oval_office_door_main" type="unit">
+		<effect load="true" path="effects/payday2/particles/wood/wood_debris_large"/>
+		<effect load="true" path="effects/payday2/particles/window/des_window_medium"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_vit/props/vit_prop_oval_office_big_door/vit_int_oval_office_door_main"/>
+		<object path="units/pd2_dlc_vit/props/vit_prop_oval_office_big_door/vit_int_oval_office_door_main"/>
+		<sequence_manager path="units/pd2_dlc_vit/props/vit_prop_oval_office_big_door/vit_int_oval_office_door_main"/>
+		<unit path="units/pd2_dlc_vit/props/vit_prop_oval_office_big_door/vit_int_oval_office_door_main"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door_red" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door_red"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door_red"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x6_big_door"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_parking_garage_pox/com_int_parking_garage_door" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/payday2/architecture/com_int_parking_garage_pox/com_int_parking_garage_door"/>
+		<object path="units/payday2/architecture/com_int_parking_garage_pox/com_int_parking_garage_door"/>
+		<sequence_manager path="units/payday2/architecture/com_int_parking_garage_pox/com_int_parking_garage_door"/>
+		<unit path="units/payday2/architecture/com_int_parking_garage_pox/com_int_parking_garage_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_friend/props/sfm_prop_garage_door/sfm_prop_garage_door" type="unit">
+		<material_config path="units/pd2_dlc_friend/props/sfm_prop_garage_door/sfm_prop_garage_door"/>
+		<object path="units/pd2_dlc_friend/props/sfm_prop_garage_door/sfm_prop_garage_door"/>
+		<unit path="units/pd2_dlc_friend/props/sfm_prop_garage_door/sfm_prop_garage_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_street_garage_door_01/run_prop_street_garage_door_01" type="unit">
+		<material_config path="units/pd2_dlc_run/props/run_prop_street_garage_door_01/run_prop_street_garage_door_01"/>
+		<object path="units/pd2_dlc_run/props/run_prop_street_garage_door_01/run_prop_street_garage_door_01"/>
+		<sequence_manager path="units/pd2_dlc_run/props/run_prop_street_garage_door_01/run_prop_street_garage_door_01"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_street_garage_door_01/run_prop_street_garage_door_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_fex/architecture/ext/fex_facade/fex_garage_doorframe" type="unit">
+		<material_config path="units/pd2_dlc_fex/architecture/ext/fex_facade/fex_doors_windows"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<object path="units/pd2_dlc_fex/architecture/ext/fex_facade/fex_garage_doorframe"/>
+		<sequence_manager path="units/pd2_dlc_fex/architecture/ext/fex_facade/fex_garage_doorframe"/>
+		<unit path="units/pd2_dlc_fex/architecture/ext/fex_facade/fex_garage_doorframe"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_pex/props/pex_prop_garage_door/pex_prop_garage_door" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/pd2_dlc_pex/props/pex_prop_garage_door/pex_prop_garage_door"/>
+		<object path="units/pd2_dlc_pex/props/pex_prop_garage_door/pex_prop_garage_door"/>
+		<sequence_manager path="units/pd2_dlc_pex/props/pex_prop_garage_door/pex_prop_garage_door"/>
+		<unit path="units/pd2_dlc_pex/props/pex_prop_garage_door/pex_prop_garage_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_garage_door/mcm_prop_garage_door_closed" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_garage_door/mcm_prop_garage_door"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<effect load="true" path="effects/payday2/particles/window/jewelry_counter_1"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_garage_door/mcm_prop_garage_door_closed"/>
+		<sequence_manager path="units/pd2_mcmansion/props/mcm_prop_garage_door/mcm_prop_garage_door_closed"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_garage_door/mcm_prop_garage_door_closed"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/suburbia/suburbia_garage_door_big" type="unit">
+		<material_config path="units/world/architecture/suburbia/suburbia_garage_door"/>
+		<object path="units/world/architecture/suburbia/suburbia_garage_door_big"/>
+		<unit path="units/world/architecture/suburbia/suburbia_garage_door_big"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/suburbia/suburbia_garage_door_open" type="unit">
+		<material_config path="units/world/architecture/suburbia/suburbia_garage_door"/>
+		<object path="units/world/architecture/suburbia/suburbia_garage_door_open"/>
+		<unit path="units/world/architecture/suburbia/suburbia_garage_door_open"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door" type="unit">
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door"/>
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_railing_v2"/>
+		<sequence_manager path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/environment/cas_int/cas_int_fence_door/cas_int_fence_door" type="unit">
+		<object path="units/pd2_dlc_casino/environment/cas_int/cas_int_fence_door/cas_int_fence_door"/>
+		<material_config path="units/pd2_dlc_casino/environment/cas_int/cas_int_fence_door/cas_int_fence_door"/>
+		<sequence_manager path="units/pd2_dlc_casino/environment/cas_int/cas_int_fence_door/cas_int_fence_door"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<unit path="units/pd2_dlc_casino/environment/cas_int/cas_int_fence_door/cas_int_fence_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flat_prop_plywood_fence/flt_prop_plywood_fence_door" type="unit">
+		<material_config path="units/pd2_dlc_flat/props/flat_prop_plywood_fence/flt_prop_plywood_fence_door"/>
+		<object path="units/pd2_dlc_flat/props/flat_prop_plywood_fence/flt_prop_plywood_fence_door"/>
+		<sequence_manager path="units/pd2_dlc_flat/props/flat_prop_plywood_fence/flt_prop_plywood_fence_door"/>
+		<unit path="units/pd2_dlc_flat/props/flat_prop_plywood_fence/flt_prop_plywood_fence_door"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/ext/mex_ext_fence_door_grey_non_jamming" type="unit">
+		<unit path="units/pd2_dlc_mex/architecture/ext/mex_ext_fence_door_grey_non_jamming"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door_grey"/>
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<sequence_manager path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/slaughterhouse/slaughterhouse_yard_fence_door" type="unit">
+		<material_config path="units/world/architecture/slaughterhouse/slaughterhouse_yard_fence"/>
+		<object path="units/world/architecture/slaughterhouse/slaughterhouse_yard_fence_door"/>
+		<sequence_manager path="units/world/architecture/slaughterhouse/slaughterhouse_yard_fence_door"/>
+		<unit path="units/world/architecture/slaughterhouse/slaughterhouse_yard_fence_door"/>
+	</add>
+	<add from_db="true" path="units/world/props/gym/gym_fence_door/gym_fence_door" type="unit">
+		<material_config path="units/world/props/gym/gym_fence_door/gym_fence_door"/>
+		<object path="units/world/props/gym/gym_fence_door/gym_fence_door"/>
+		<sequence_manager path="units/world/props/gym/gym_fence_door/gym_fence_door"/>
+		<unit path="units/world/props/gym/gym_fence_door/gym_fence_door"/>
+	</add>
+	<add from_db="true" path="units/world/props/street/plywood_fence/plywood_fence_door" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/world/props/street/plywood_fence/plywood_fence_io"/>
+		<object path="units/world/props/street/plywood_fence/plywood_fence_door"/>
+		<sequence_manager path="units/world/props/street/plywood_fence/plywood_fence_door"/>
+		<unit path="units/world/props/street/plywood_fence/plywood_fence_door"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/clc/clc_bdrop_mid_straightpillar_01" type="unit">
+		<material_config path="units/payday2/architecture/clc/clc_bdrop_mid_all"/>
+		<object path="units/payday2/architecture/clc/clc_bdrop_mid_straightpillar_01"/>
+		<unit path="units/payday2/architecture/clc/clc_bdrop_mid_straightpillar_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/cdr/cdr_int_concrete_pillar_1m_a" type="unit">
+		<material_config path="units/payday2/architecture/cdr/cdr_int"/>
+		<object path="units/payday2/architecture/cdr/cdr_int_concrete_pillar_1m_a"/>
+		<unit path="units/payday2/architecture/cdr/cdr_int_concrete_pillar_1m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_election/com_int_election_pillar_1x1x8m_b" type="unit">
+		<material_config path="units/payday2/architecture/com_int_election/com_int_election"/>
+		<object path="units/payday2/architecture/com_int_election/com_int_election_pillar_1x1x8m_b"/>
+		<unit path="units/payday2/architecture/com_int_election/com_int_election_pillar_1x1x8m_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_pillar_05m_wood" type="unit">
+		<material_config path="units/payday2/architecture/com_int_nightclub/com_int_nightclub"/>
+		<object path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_pillar_05m_wood"/>
+		<unit path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_pillar_05m_wood"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm/hcm_int_pillar_05m_a_blue" type="unit">
+		<material_config path="units/payday2/architecture/hcm/hcm_int"/>
+		<object path="units/payday2/architecture/hcm/hcm_int_pillar_05m_a_blue"/>
+		<unit path="units/payday2/architecture/hcm/hcm_int_pillar_05m_a_blue"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm/hcm_int_pillar_1m_a_black" type="unit">
+		<material_config path="units/payday2/architecture/hcm/hcm_int"/>
+		<object path="units/payday2/architecture/hcm/hcm_int_pillar_1m_a_black"/>
+		<unit path="units/payday2/architecture/hcm/hcm_int_pillar_1m_a_black"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm/hcm_int_pillar_a" type="unit">
+		<material_config path="units/payday2/architecture/hcm/hcm_int"/>
+		<object path="units/payday2/architecture/hcm/hcm_int_pillar_a"/>
+		<unit path="units/payday2/architecture/hcm/hcm_int_pillar_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm_d/hcm_d_ext_steel_pillar_a" type="unit">
+		<material_config path="units/payday2/architecture/hcm_d/hcm_d_ext_walkway"/>
+		<object path="units/payday2/architecture/hcm_d/hcm_d_ext_steel_pillar_a"/>
+		<unit path="units/payday2/architecture/hcm_d/hcm_d_ext_steel_pillar_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_pillar1_025m_a" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_pillar1_025m_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_pillar1_025m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_pillar1_050m_a" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_pillar1_050m_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_pillar1_050m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_bathroompillar_050m_a" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_bathroompillar_050m_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_bathroompillar_050m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_pillar_05m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_pillar_05m_a"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_pillar_05m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/sub/sub_int_platform_pillar_top_04_1x4/sub_int_platform_pillar_top_04_1x4" type="unit">
+		<material_config path="units/payday2/architecture/sub/shared_textures/sub_int_platform_pillars"/>
+		<object path="units/payday2/architecture/sub/sub_int_platform_pillar_top_04_1x4/sub_int_platform_pillar_top_04_1x4"/>
+		<unit path="units/payday2/architecture/sub/sub_int_platform_pillar_top_04_1x4/sub_int_platform_pillar_top_04_1x4"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence_v2/str_prop_park_fence_high_pillar_v2" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence_v2/str_prop_park_wall_instanced"/>
+		<object path="units/payday2/props/str_prop_park_fence_v2/str_prop_park_fence_high_pillar_v2"/>
+		<unit path="units/payday2/props/str_prop_park_fence_v2/str_prop_park_fence_high_pillar_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_pillar" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence/str_prop_park_fence"/>
+		<object path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_pillar"/>
+		<unit path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_pillar"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/architecture/hcm_d/hcm_d_ext_steel_pillar_a" type="unit">
+		<material_config path="units/pd2_dlc1/architecture/hcm_d/hcm_d_ext_walkway"/>
+		<object path="units/pd2_dlc1/architecture/hcm_d/hcm_d_ext_steel_pillar_a"/>
+		<unit path="units/pd2_dlc1/architecture/hcm_d/hcm_d_ext_steel_pillar_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/architecture/res_ext_motel/res_ext_motel_pillars_end_a" type="unit">
+		<material_config path="units/pd2_dlc1/architecture/res_ext_motel/res_ext_motel_pillars"/>
+		<object path="units/pd2_dlc1/architecture/res_ext_motel/res_ext_motel_pillars_end_a"/>
+		<unit path="units/pd2_dlc1/architecture/res_ext_motel/res_ext_motel_pillars_end_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/architecture/gov_d_int/gov_d_int_pillar_b" type="unit">
+		<material_config path="units/pd2_dlc2/architecture/gov_d_int/gov_d_int_lobby"/>
+		<object path="units/pd2_dlc2/architecture/gov_d_int/gov_d_int_pillar_b"/>
+		<unit path="units/pd2_dlc2/architecture/gov_d_int/gov_d_int_pillar_b"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/architecture/are_int_basement/are_int_basement_big_pillar_01" type="unit">
+		<material_config path="units/pd2_dlc_arena/architecture/are_int_basement/are_int_basement"/>
+		<object path="units/pd2_dlc_arena/architecture/are_int_basement/are_int_basement_big_pillar_01"/>
+		<unit path="units/pd2_dlc_arena/architecture/are_int_basement/are_int_basement_big_pillar_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/architecture/are_int_basement/are_int_basement_pillar" type="unit">
+		<material_config path="units/pd2_dlc_arena/architecture/are_int_basement/are_int_basement"/>
+		<object path="units/pd2_dlc_arena/architecture/are_int_basement/are_int_basement_pillar"/>
+		<unit path="units/pd2_dlc_arena/architecture/are_int_basement/are_int_basement_pillar"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp" type="unit">
+		<material_config path="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp"/>
+		<object path="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp"/>
+		<sequence_manager path="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp"/>
+		<unit path="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm_e_ext/hcm_e_ext_top_c_8x8m_inst" type="unit">
+		<material_config path="units/payday2/architecture/hcm_e_ext/hcm_e_ext_top"/>
+		<object path="units/payday2/architecture/hcm_e_ext/hcm_e_ext_top_c_8x8m_inst"/>
+		<unit path="units/payday2/architecture/hcm_e_ext/hcm_e_ext_top_c_8x8m_inst"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window_red_v2" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_v2"/>
+		<object path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window_red_v2"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window_red_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_rooftop_duct_a/str_prop_rooftop_duct_a_slopedown" type="unit">
+		<material_config path="units/payday2/props/str_prop_rooftop_duct_a/str_prop_rooftop_duct_a"/>
+		<object path="units/payday2/props/str_prop_rooftop_duct_a/str_prop_rooftop_duct_a_slopedown"/>
+		<unit path="units/payday2/props/str_prop_rooftop_duct_a/str_prop_rooftop_duct_a_slopedown"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/architecture/hcm_f_ext/hcm_f_ext_top_corner_a_1x1m" type="unit">
+		<material_config path="units/pd2_dlc1/architecture/hcm_f_ext/hcm_f_ext_mid"/>
+		<object path="units/pd2_dlc1/architecture/hcm_f_ext/hcm_f_ext_top_corner_a_1x1m"/>
+		<unit path="units/pd2_dlc1/architecture/hcm_f_ext/hcm_f_ext_top_corner_a_1x1m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/architecture/hcm_f_ext/hcm_f_ext_top_a_8x4m" type="unit">
+		<material_config path="units/pd2_dlc1/architecture/hcm_f_ext/hcm_f_ext_mid"/>
+		<object path="units/pd2_dlc1/architecture/hcm_f_ext/hcm_f_ext_top_a_8x4m"/>
+		<unit path="units/pd2_dlc1/architecture/hcm_f_ext/hcm_f_ext_top_a_8x4m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_brb/architecture/brb_ext/brb_ext_bank_windows/brb_ext_bank_window_top_front" type="unit">
+		<material_config path="units/pd2_dlc_brb/architecture/brb_ext/brb_ext_bank_windows/brb_ext_bank_windows"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<object path="units/pd2_dlc_brb/architecture/brb_ext/brb_ext_bank_windows/brb_ext_bank_window_top_front"/>
+		<sequence_manager path="units/pd2_dlc_brb/architecture/brb_ext/brb_ext_bank_windows/brb_ext_bank_window_top_front"/>
+		<unit path="units/pd2_dlc_brb/architecture/brb_ext/brb_ext_bank_windows/brb_ext_bank_window_top_front"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/architecture/cas_int_arch_top/cas_int_arch_top" type="unit">
+		<material_config path="units/pd2_dlc_casino/architecture/cas_int_arch_top/cas_int_arch_top"/>
+		<object path="units/pd2_dlc_casino/architecture/cas_int_arch_top/cas_int_arch_top"/>
+		<unit path="units/pd2_dlc_casino/architecture/cas_int_arch_top/cas_int_arch_top"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/props/cas_prop_drill_cables/cas_prop_bottom_drill_top_right_cable" type="unit">
+		<material_config path="units/pd2_dlc_casino/props/cas_prop_drill_cables/cas_prop_bottom_drill_bottom_left_cable"/>
+		<material_config path="units/pd2_dlc_casino/props/cas_prop_drill_cables/cas_prop_bottom_drill_bottom_left_cable_transparent"/>
+		<object path="units/pd2_dlc_casino/props/cas_prop_drill_cables/cas_prop_bottom_drill_top_right_cable"/>
+		<sequence_manager path="units/pd2_dlc_casino/props/cas_prop_drill_cables/cas_prop_bottom_drill_top_right_cable"/>
+		<unit path="units/pd2_dlc_casino/props/cas_prop_drill_cables/cas_prop_bottom_drill_top_right_cable"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_corner_b_2x8m" type="unit">
+		<material_config path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext"/>
+		<object path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_corner_b_2x8m"/>
+		<unit path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_corner_b_2x8m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_clocktower_4x2m" type="unit">
+		<material_config path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext"/>
+		<object path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_clocktower_4x2m"/>
+		<unit path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_clocktower_4x2m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_c_4x8m" type="unit">
+		<material_config path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext"/>
+		<object path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_c_4x8m"/>
+		<unit path="units/pd2_dlc2/architecture/hcm_k_ext/hcm_k_ext_top_c_4x8m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_rooftop/train_signalbox_01" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_rooftop/train_signalbox_01"/>
+		<object path="units/pd2_dlc2/csgo_models/props_rooftop/train_signalbox_01"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_rooftop/train_signalbox_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_rooftop/hotel_rooftop_equip002" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_rooftop/hotel_rooftop_equip002"/>
+		<object path="units/pd2_dlc2/csgo_models/props_rooftop/hotel_rooftop_equip002"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_rooftop/hotel_rooftop_equip002"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_rooftop/acunit01" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_rooftop/acunit01"/>
+		<object path="units/pd2_dlc2/csgo_models/props_rooftop/acunit01"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_rooftop/acunit01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_rooftop/antenna01a" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_rooftop/antenna01a"/>
+		<object path="units/pd2_dlc2/csgo_models/props_rooftop/antenna01a"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_rooftop/antenna01a"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks" type="unit">
+		<unit path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks"/>
+		<object path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks"/>
+		<material_config path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks"/>
+		<sequence_manager path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks"/>
+		<unit path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<object path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_planks_outline"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/particles/dest/stair_dest"/>
+		<physic_effect path="physic_effects/push_sphere"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_construction_floor/com_int_construction_planks_a" type="unit">
+		<material_config path="units/payday2/architecture/com_int_construction_floor/com_int_construction_walls"/>
+		<object path="units/payday2/architecture/com_int_construction_floor/com_int_construction_planks_a"/>
+		<unit path="units/payday2/architecture/com_int_construction_floor/com_int_construction_planks_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks_short" type="unit">
+		<unit path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks_short"/>
+		<object path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks_short"/>
+		<material_config path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks"/>
+		<sequence_manager path="units/payday2/equipment/hlm_interactable_win_planks/hlm_interactable_win_planks"/>
+		<unit path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<object path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_planks_outline"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/particles/dest/stair_dest"/>
+		<physic_effect path="physic_effects/push_sphere"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_planks_fence" type="unit">
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_planks_fence"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_planks_fence"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/secret_stash_planks_fence"/>
+		<unit path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<object path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/planks_debris"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/particles/dest/stair_dest"/>
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_planks_outline"/>
+		<physic_effect path="physic_effects/push_sphere"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks_interact_a" type="unit">
+		<effect load="true" path="effects/particles/dest/stair_dest"/>
+		<material_config path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks"/>
+		<object path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks_interact_a"/>
+		<sequence_manager path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks_interact"/>
+		<unit path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks_interact_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks_pickup" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks"/>
+		<object path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks_pickup"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/secret_stash_planks_pile"/>
+		<unit path="units/pd2_dlc2/csgo_de_bank/csgo_de_planks_pickup"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_2m" type="unit">
+		<material_config path="units/payday2/architecture/air_ext_terminal/air_ext_terminal"/>
+		<object path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_2m"/>
+		<unit path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_2m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_2m_v2" type="unit">
+		<material_config path="units/payday2/architecture/air_ext_terminal/air_ext_terminal"/>
+		<object path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_2m_v2"/>
+		<unit path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_2m_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_4m" type="unit">
+		<material_config path="units/payday2/architecture/air_ext_terminal/air_ext_terminal"/>
+		<object path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_4m"/>
+		<unit path="units/payday2/architecture/air_int_terminal/air_terminal_pieces_floor_indoor_4m"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_appliance_computer/off_prop_appliance_computer" type="unit">
+		<material_config path="units/payday2/props/off_prop_appliance_computer/off_prop_appliance_computer"/>
+		<object path="units/payday2/props/off_prop_appliance_computer/off_prop_appliance_computer"/>
+		<unit path="units/payday2/props/off_prop_appliance_computer/off_prop_appliance_computer"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/architecture/cas_computer_it_room/cas_computer_it_room" type="unit">
+		<material_config path="units/pd2_dlc_casino/architecture/cas_computer_it_room/cas_computer_it_room"/>
+		<object path="units/pd2_dlc_casino/architecture/cas_computer_it_room/cas_computer_it_room"/>
+		<unit path="units/pd2_dlc_casino/architecture/cas_computer_it_room/cas_computer_it_room"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/props/cas_prop_security_computer/cas_prop_security_computer" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_casino/props/cas_prop_security_computer/cas_prop_security_computer"/>
+		<object path="units/pd2_dlc_casino/props/cas_prop_security_computer/cas_prop_security_computer"/>
+		<sequence_manager path="units/pd2_dlc_casino/props/cas_prop_security_computer/cas_prop_security_computer"/>
+		<unit path="units/pd2_dlc_casino/props/cas_prop_security_computer/cas_prop_security_computer"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_lab_computer/gen_prop_lab_computer" type="unit">
+		<material_config path="units/payday2/props/gen_prop_lab_computer/gen_prop_lab_computer"/>
+		<object path="units/payday2/props/gen_prop_lab_computer/gen_prop_lab_computer"/>
+		<sequence_manager path="units/payday2/props/gen_prop_lab_computer/gen_prop_lab_computer"/>
+		<unit path="units/payday2/props/gen_prop_lab_computer/gen_prop_lab_computer"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_eday_shipping_computer/off_prop_eday_shipping_computer" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/payday2/props/off_prop_eday_shipping_computer/off_prop_eday_shipping_computer"/>
+		<object path="units/payday2/props/off_prop_eday_shipping_computer/off_prop_eday_shipping_computer"/>
+		<sequence_manager path="units/payday2/props/off_prop_eday_shipping_computer/off_prop_eday_shipping_computer"/>
+		<unit path="units/payday2/props/off_prop_eday_shipping_computer/off_prop_eday_shipping_computer"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/stn_prop_office_computer/stn_prop_office_computer" type="unit">
+		<material_config path="units/payday2/props/stn_prop_office_computer/stn_prop_office_computer"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+		<object path="units/payday2/props/stn_prop_office_computer/stn_prop_office_computer"/>
+		<sequence_manager path="units/payday2/props/stn_prop_office_computer/stn_prop_office_computer"/>
+		<unit path="units/payday2/props/stn_prop_office_computer/stn_prop_office_computer"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_berry/props/bry_prop_sec_room_computer/bry_prop_sec_room_computer" type="unit">
+		<material_config path="units/pd2_dlc_berry/props/bry_prop_sec_room_computer/bry_prop_sec_room_computer"/>
+		<object path="units/pd2_dlc_berry/props/bry_prop_sec_room_computer/bry_prop_sec_room_computer"/>
+		<sequence_manager path="units/pd2_dlc_berry/props/bry_prop_sec_room_computer/bry_prop_sec_room_computer"/>
+		<unit path="units/pd2_dlc_berry/props/bry_prop_sec_room_computer/bry_prop_sec_room_computer"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish"/>
+		<object path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish"/>
+		<sequence_manager path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish"/>
+		<unit path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_cro/props/off_prop_thebomb_computer/off_prop_thebomb_computer" type="unit">
+		<material_config path="units/pd2_dlc_cro/props/off_prop_thebomb_computer/off_prop_thebomb_computer"/>
+		<object path="units/pd2_dlc_cro/props/off_prop_thebomb_computer/off_prop_thebomb_computer"/>
+		<sequence_manager path="units/pd2_dlc_cro/props/off_prop_thebomb_computer/off_prop_thebomb_computer"/>
+		<unit path="units/pd2_dlc_cro/props/off_prop_thebomb_computer/off_prop_thebomb_computer"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_des/equipment/des_interactable_hack_computer/des_interactable_hack_computer" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<effect load="true" path="effects/particles/dest/veil_tube"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_des/props/des_prop_security_console/des_prop_security_console_props"/>
+		<object path="units/pd2_dlc_des/equipment/des_interactable_hack_computer/des_interactable_hack_computer"/>
+		<sequence_manager path="units/pd2_dlc_des/equipment/des_interactable_hack_computer/des_interactable_hack_computer"/>
+		<unit path="units/pd2_dlc_des/equipment/des_interactable_hack_computer/des_interactable_hack_computer"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_des/props/des_prop_inter_hack_computer/des_inter_hack_computer" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_des/props/des_prop_inter_hack_computer/des_inter_hack_computer"/>
+		<object path="units/pd2_dlc_des/props/des_prop_inter_hack_computer/des_inter_hack_computer"/>
+		<sequence_manager path="units/pd2_dlc_des/props/des_prop_inter_hack_computer/des_inter_hack_computer"/>
+		<unit path="units/pd2_dlc_des/props/des_prop_inter_hack_computer/des_inter_hack_computer"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mill/gen_mill_inter_hack_computer/gen_mill_inter_hack_computer" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_mill/gen_mill_inter_hack_computer/gen_mill_inter_hack_computer"/>
+		<object path="units/pd2_dlc_mill/gen_mill_inter_hack_computer/gen_mill_inter_hack_computer"/>
+		<sequence_manager path="units/pd2_dlc_mill/gen_mill_inter_hack_computer/gen_mill_inter_hack_computer"/>
+		<unit path="units/pd2_dlc_mill/gen_mill_inter_hack_computer/gen_mill_inter_hack_computer"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_old_hoxton/equipment/stn_interactable_computer_director/stn_interactable_computer_director" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_old_hoxton/equipment/stn_interactable_computer_director/stn_interactable_computer_director"/>
+		<object path="units/pd2_dlc_old_hoxton/equipment/stn_interactable_computer_director/stn_interactable_computer_director"/>
+		<sequence_manager path="units/pd2_dlc_old_hoxton/equipment/stn_interactable_computer_director/stn_interactable_computer_director"/>
+		<unit path="units/pd2_dlc_old_hoxton/equipment/stn_interactable_computer_director/stn_interactable_computer_director"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_pex/props/pex_props_keycard_reader/pex_props_keycard_computerpad" type="unit">
+		<material_config path="units/pd2_dlc_pex/props/pex_props_keycard_reader/pex_props_keycard_computerpad"/>
+		<object path="units/pd2_dlc_pex/props/pex_props_keycard_reader/pex_props_keycard_computerpad"/>
+		<sequence_manager path="units/pd2_dlc_pex/props/pex_props_keycard_reader/pex_props_keycard_computerpad"/>
+		<unit path="units/pd2_dlc_pex/props/pex_props_keycard_reader/pex_props_keycard_computerpad"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_vit/props/vit_interactable_computer_monitor/vit_interactable_computer_monitor_firewall" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_vit/props/vit_interactable_computer_monitor/vit_interactable_computer_monitor"/>
+		<object path="units/pd2_dlc_vit/props/vit_interactable_computer_monitor/vit_interactable_computer_monitor_firewall"/>
+		<sequence_manager path="units/pd2_dlc_vit/props/vit_interactable_computer_monitor/vit_interactable_computer_monitor_firewall"/>
+		<unit path="units/pd2_dlc_vit/props/vit_interactable_computer_monitor/vit_interactable_computer_monitor_firewall"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_hack_computer_interaction" type="unit">
+		<gui path="guis/security_lock_gui"/>
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_hack_computer_interaction_contour"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_hack_computer_interaction"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/secret_stash_hack_computer_interaction"/>
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_hack_computer_interaction"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/computer/computer_02" type="unit">
+		<material_config path="units/world/props/office/computer/computer_tower"/>
+		<object path="units/world/props/office/computer/computer_02"/>
+		<sequence_manager path="units/world/props/office/computer/computer_led"/>
+		<unit path="units/world/props/office/computer/computer_02"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/computer/computer_mouse" type="unit">
+		<material_config path="units/world/props/office/computer/computer_keyboard"/>
+		<object path="units/world/props/office/computer/computer_mouse"/>
+		<unit path="units/world/props/office/computer/computer_mouse"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/computer/computer_monitor_diamondheist" type="unit">
+		<material_config path="units/world/props/display/display_diamondheist"/>
+		<object path="units/world/props/office/computer/computer_monitor_diamondheist"/>
+		<sequence_manager path="units/world/props/office/computer/computer_monitor_diamondheist"/>
+		<unit path="units/world/props/office/computer/computer_monitor_diamondheist"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/computer/server_01" type="unit">
+		<material_config path="units/world/props/office/computer/server_01"/>
+		<object path="units/world/props/office/computer/server_01"/>
+		<unit path="units/world/props/office/computer/server_01"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/computer/server_03" type="unit">
+		<material_config path="units/world/props/office/computer/server_01"/>
+		<object path="units/world/props/office/computer/server_03"/>
+		<unit path="units/world/props/office/computer/server_03"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/computer/computer_laptop_02" type="unit">
+		<material_config path="units/world/props/display/display"/>
+		<object path="units/world/props/office/computer/computer_laptop_02"/>
+		<sequence_manager path="units/world/props/office/computer/computer_laptop_02"/>
+		<unit path="units/world/props/office/computer/computer_laptop_02"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/res_prop_motel_chair/res_prop_motel_chair" type="unit">
+		<material_config path="units/pd2_dlc1/props/res_prop_motel_chair/res_prop_motel_chair"/>
+		<object path="units/pd2_dlc1/props/res_prop_motel_chair/res_prop_motel_chair"/>
+		<unit path="units/pd2_dlc1/props/res_prop_motel_chair/res_prop_motel_chair"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_15" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_15"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_15"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_12" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_12"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_12"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_large_shelves_12" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_large_shelves_12"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_large_shelves_12"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/lxa_prop_bathroom_shelves/lxa_prop_bathroom_shelves_single_doors" type="unit">
+		<material_config path="units/payday2/props/lxa_prop_bathroom_shelves/lxa_prop_bathroom_shelves"/>
+		<object path="units/payday2/props/lxa_prop_bathroom_shelves/lxa_prop_bathroom_shelves_single_doors"/>
+		<unit path="units/payday2/props/lxa_prop_bathroom_shelves/lxa_prop_bathroom_shelves_single_doors"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_01" type="unit">
+		<material_config path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic"/>
+		<object path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_01"/>
+		<unit path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_3" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_3"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_3"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_wenge_small_shelves_3" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_wenge"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_wenge_small_shelves_3"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_wenge_small_shelves_3"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_standard_small_shelves_3" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_standard"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_standard_small_shelves_3"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_standard_small_shelves_3"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark_small_shelves_9" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark_small_shelves_9"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark_small_shelves_9"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark_large_shelves_2" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark_large_shelves_2"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark_large_shelves_2"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_9" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_9"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_9"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_dark" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_dark"/>
+		<object path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_dark"/>
+		<unit path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_dark"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_plastic_colored" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_plastic_colored"/>
+		<unit path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_plastic_colored"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_wenge" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_wenge"/>
+		<object path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_wenge"/>
+		<unit path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_wenge"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props/cs_office/shelves_metal" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props/cs_office/shelves_metal"/>
+		<object path="units/pd2_dlc2/csgo_models/props/cs_office/shelves_metal"/>
+		<unit path="units/pd2_dlc2/csgo_models/props/cs_office/shelves_metal"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_myh/props/myh_props_shelves/myh_props_shelf_1m" type="unit">
+		<material_config path="units/pd2_dlc_myh/props/myh_props_shelves/myh_props_shelf_1m"/>
+		<object path="units/pd2_dlc_myh/props/myh_props_shelves/myh_props_shelf_1m"/>
+		<unit path="units/pd2_dlc_myh/props/myh_props_shelves/myh_props_shelf_1m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_moon/props/moo_prop_store_shelves/moo_prop_shelves_counter" type="unit">
+		<material_config path="units/pd2_dlc_moon/props/moo_prop_store_shelves/moo_prop_shelves_counter"/>
+		<object path="units/pd2_dlc_moon/props/moo_prop_store_shelves/moo_prop_shelves_counter"/>
+		<unit path="units/pd2_dlc_moon/props/moo_prop_store_shelves/moo_prop_shelves_counter"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_myh/props/myh_props_shelves/myh_props_shelf_2m_empty" type="unit">
+		<material_config path="units/pd2_dlc_myh/props/myh_props_shelves/myh_props_shelf_1m"/>
+		<object path="units/pd2_dlc_myh/props/myh_props_shelves/myh_props_shelf_2m_empty"/>
+		<unit path="units/pd2_dlc_myh/props/myh_props_shelves/myh_props_shelf_2m_empty"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_tag/props/tag_prop_office_desk_shelves/tag_prop_office_drawer_125cm" type="unit">
+		<material_config path="units/payday2/props/bnk_prop_office_desk_shelves/bnk_prop_office_desk_shelves"/>
+		<object path="units/pd2_dlc_tag/props/tag_prop_office_desk_shelves/tag_prop_office_drawer_125cm"/>
+		<sequence_manager path="units/pd2_dlc_tag/props/tag_prop_office_desk_shelves/tag_prop_office_drawer_125cm"/>
+		<unit path="units/pd2_dlc_tag/props/tag_prop_office_desk_shelves/tag_prop_office_drawer_125cm"/>
+	</add>
+	<add from_db="true" path="units/world/props/survivalist/shelves/shelf_tools" type="unit">
+		<material_config path="units/world/props/survivalist/shelves/shelves"/>
+		<object path="units/world/props/survivalist/shelves/shelf_tools"/>
+		<unit path="units/world/props/survivalist/shelves/shelf_tools"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chas/props/chas_prop_chinese_store_shelves/chas_prop_chinese_store_shelves" type="unit">
+		<material_config path="units/pd2_dlc_chas/props/chas_prop_chinese_store_shelves/chas_prop_chinese_store_shelves"/>
+		<object path="units/pd2_dlc_chas/props/chas_prop_chinese_store_shelves/chas_prop_chinese_store_shelves"/>
+		<unit path="units/pd2_dlc_chas/props/chas_prop_chinese_store_shelves/chas_prop_chinese_store_shelves"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/architecture/are_supply_room_01/are_supply_room_01_shelves" type="unit">
+		<material_config path="units/pd2_dlc_arena/architecture/are_supply_room_01/are_supply_room_01"/>
+		<object path="units/pd2_dlc_arena/architecture/are_supply_room_01/are_supply_room_01_shelves"/>
+		<unit path="units/pd2_dlc_arena/architecture/are_supply_room_01/are_supply_room_01_shelves"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_zebra" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_zebra"/>
+		<object path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_zebra"/>
+		<unit path="units/payday2/props/off_prop_officehigh_shelves/off_prop_officehigh_shelf_zebra"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_shelves_9" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_shelves_9"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_small_shelves_9"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_6" type="unit">
+		<material_config path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored"/>
+		<object path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_6"/>
+		<unit path="units/payday2/props/off_prop_officehigh_drawer/off_prop_officehigh_drawer_colored_thin_shelves_6"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dah/props/dah_prop_paper_bin_v3/dah_prop_paper_bin_v3" type="unit">
+		<material_config path="units/pd2_dlc_dah/props/dah_prop_paper_bin_v3/dah_prop_paper_bin_v3"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_paper_bin_v3/dah_prop_paper_bin_v3"/>
+		<unit path="units/pd2_dlc_dah/props/dah_prop_paper_bin_v3/dah_prop_paper_bin_v3"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers" type="unit">
+		<material_config path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers"/>
+		<object path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers"/>
+		<sequence_manager path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers"/>
+		<unit path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_vr/units/off_prop_officehigh_paper_stack_02_vr" type="unit">
+		<effect load="true" path="effects/payday2/particles/destruction/des_paper"/>
+		<material_config path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack"/>
+		<object path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_02"/>
+		<sequence_manager path="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_02"/>
+		<unit path="units/pd2_dlc_vr/units/off_prop_officehigh_paper_stack_02_vr"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_books_a" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_books_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_books_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_books_c" type="unit">
+		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_books_c"/>
+		<unit path="units/payday2/architecture/lux/lux_int_books_c"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm_i_ext/hcm_i_int_store_book_rounded_corner" type="unit">
+		<material_config path="units/payday2/architecture/hcm_i_ext/hcm_i_int_store_book_rounded_corner"/>
+		<object path="units/payday2/architecture/hcm_i_ext/hcm_i_int_store_book_rounded_corner"/>
+		<unit path="units/payday2/architecture/hcm_i_ext/hcm_i_int_store_book_rounded_corner"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/str_prop_motel_paper/str_prop_motel_paper" type="unit">
+		<material_config path="units/pd2_dlc1/props/str_prop_motel_paper/str_prop_motel_paper"/>
+		<object path="units/pd2_dlc1/props/str_prop_motel_paper/str_prop_motel_paper"/>
+		<sequence_manager path="units/pd2_dlc1/props/str_prop_motel_paper/str_prop_motel_paper"/>
+		<unit path="units/pd2_dlc1/props/str_prop_motel_paper/str_prop_motel_paper"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_corner" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence/str_prop_park_fence"/>
+		<object path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_corner"/>
+		<unit path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_corner"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_3m" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence/str_prop_park_fence"/>
+		<object path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_3m"/>
+		<unit path="units/payday2/props/str_prop_park_fence/str_prop_park_fence_high_3m"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence/str_prop_park_red_oak_entrance" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence/str_prop_park_red_oak_entrance"/>
+		<object path="units/payday2/props/str_prop_park_fence/str_prop_park_red_oak_entrance"/>
+		<unit path="units/payday2/props/str_prop_park_fence/str_prop_park_red_oak_entrance"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str/str_ext_marking_zebra_01_a" type="unit">
+		<material_config path="units/payday2/architecture/str/str"/>
+		<object path="units/payday2/architecture/str/str_ext_marking_zebra_01_a"/>
+		<unit path="units/payday2/architecture/str/str_ext_marking_zebra_01_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence_v2/str_prop_park_wall_fence_3m_v2" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence_v2/str_prop_park_wall_3m_v2"/>
+		<object path="units/payday2/props/str_prop_park_fence_v2/str_prop_park_wall_fence_3m_v2"/>
+		<unit path="units/payday2/props/str_prop_park_fence_v2/str_prop_park_wall_fence_3m_v2"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/gym/gym_wall_fence/gym_wall_fence_40" type="unit">
+		<material_config path="units/world/architecture/gym/gym_wall_fence/wall_fence"/>
+		<object path="units/world/architecture/gym/gym_wall_fence/gym_wall_fence_40"/>
+		<unit path="units/world/architecture/gym/gym_wall_fence/gym_wall_fence_40"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/gym/gym_wall_fence/gym_wall_fence_gate" type="unit">
+		<material_config path="units/world/architecture/gym/gym_wall_fence/wall_fence"/>
+		<object path="units/world/architecture/gym/gym_wall_fence/gym_wall_fence_gate"/>
+		<unit path="units/world/architecture/gym/gym_wall_fence/gym_wall_fence_gate"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_broken" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence/str_prop_park_fence"/>
+		<object path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_broken"/>
+		<unit path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_broken"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_1m" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence/str_prop_park_fence"/>
+		<object path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_1m"/>
+		<unit path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_1m"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_3m" type="unit">
+		<material_config path="units/payday2/props/str_prop_park_fence/str_prop_park_fence"/>
+		<object path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_3m"/>
+		<unit path="units/payday2/props/str_prop_park_fence/str_prop_park_wall_fence_3m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_32m" type="unit">
+		<material_config path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground"/>
+		<object path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_32m"/>
+		<unit path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_32m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str/str_ext_grass_16x16m_a" type="unit">
+		<material_config path="units/payday2/architecture/str/str_01_grass"/>
+		<object path="units/payday2/architecture/str/str_ext_grass_16x16m_a"/>
+		<unit path="units/payday2/architecture/str/str_ext_grass_16x16m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_8m" type="unit">
+		<material_config path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground"/>
+		<object path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_8m"/>
+		<unit path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_8m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str/str_ext_grass_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/str/str_01_grass"/>
+		<object path="units/payday2/architecture/str/str_ext_grass_4x4m_a"/>
+		<unit path="units/payday2/architecture/str/str_ext_grass_4x4m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_4m" type="unit">
+		<material_config path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground"/>
+		<object path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_4m"/>
+		<unit path="units/payday2/architecture/str_ext_park_ground/str_ext_park_ground_grass_4m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_64x32m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_64x32m"/>
+		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_64x32m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/collision/dev_collision_20m/dev_collision_20m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/collision/dev_collision_20m/dev_collision_20m"/>
+		<unit path="units/dev_tools/level_tools/collision/dev_collision_20m/dev_collision_20m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x32m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x32m"/>
+		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x32m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x3m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x3m"/>
+		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_8x3m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m"/>
+		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x3m" type="unit">
+		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x3m"/>
+		<object path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x3m"/>
+		<material_config path="core/material_configs/hub_elements"/>
 	</add>
 </table>
