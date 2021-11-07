@@ -10,7 +10,7 @@ _Briefing_
 Our informer telling us about some other branch we can hit. Opened 
 just like few month ago. We have basically branch like Harvest&Trustee, 
 but bigger and served by other company. Seems to be medium government 
-affilate bank. Be calm, that's not Federal Cash Reserve Bank, so that
+affilated bank. Be calm, that's not Federal Cash Reserve Bank, so that
 is not gonna be _really_ hard.
 
 _The plan_
@@ -26,3 +26,6 @@ The heist is a contribution to PD2Maps, an advanced job, but not too hard. Is me
 
 The job goes in two ways: just robbery (as usual) and professional robbery (Insider's help with some cool events), you might like it.
 Overall place is similar to this: https://www.google.ru/maps/@38.9201823,-76.9801179,243m/data=!3m1!1e3 and I'll try to recreate it somehow.
+
+The place WIP (may be sli-i-ightly changed)
+![186-2](https://user-images.githubusercontent.com/15954961/140663934-aafa8cb7-cf94-4b96-84c2-156c9740361c.png)
