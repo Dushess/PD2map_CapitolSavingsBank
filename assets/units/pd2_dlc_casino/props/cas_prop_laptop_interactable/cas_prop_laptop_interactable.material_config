@@ -1,7 +1,0 @@
-<materials version="3" group="cas_laptop">
-    <material version="2" decal_material="glass_breakable" name="display" render_template="generic:CONTOUR:DIFFUSE_TEXTURE">
-        <diffuse_texture file="units/world/props/display/bank_display_master_df"/>
-        <variable value="0" type="scalar" name="contour_opacity"/>
-        <variable value="1 1 1" type="vector3" name="contour_color"/>
-    </material>
-</materials>

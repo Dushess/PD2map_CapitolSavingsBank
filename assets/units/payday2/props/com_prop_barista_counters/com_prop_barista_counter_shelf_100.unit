@@ -1,6 +1,0 @@
-<unit type="com" slot="1" >
-    <object file="units/payday2/props/com_prop_barista_counters/com_prop_barista_counter_shelf_100" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

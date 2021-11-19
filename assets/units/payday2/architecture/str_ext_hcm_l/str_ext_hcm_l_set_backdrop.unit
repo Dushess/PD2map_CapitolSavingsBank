@@ -1,6 +1,0 @@
-<unit type="str" slot="1">
-	<object file="units/payday2/architecture/str_ext_hcm_l/str_ext_hcm_l_set_backdrop" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>

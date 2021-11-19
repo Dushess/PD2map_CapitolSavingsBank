@@ -1,6 +1,0 @@
-<unit type="bnk" slot="1" >
-    <object file="units/payday2/props/bnk_prop_teller_billshelf/bnk_prop_teller_billshelf" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

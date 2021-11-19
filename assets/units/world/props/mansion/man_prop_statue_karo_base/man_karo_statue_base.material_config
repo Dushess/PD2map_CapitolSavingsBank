@@ -1,7 +1,0 @@
-<materials version="3">
-    <material name="man_karo_statue_base" decal_material="stone" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP">
-        <diffuse_texture file="units/world/props/mansion/man_prop_statue_karo_base/karo_statue_base_df"/>
-        <variable value="0" type="scalar" name="specular_power"/>
-        <bump_normal_texture file="units/world/props/mansion/man_prop_statue_karo_base/karo_statue_base_nm"/>
-    </material>
-</materials>

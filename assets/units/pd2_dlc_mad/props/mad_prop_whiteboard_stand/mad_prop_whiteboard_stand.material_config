@@ -1,8 +1,0 @@
-<materials version="3">
-    <material name="mat_whiteb" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP" version="2">
-        <diffuse_texture file="units/pd2_dlc_mad/props/mad_prop_whiteboard_stand/mad_prop_whiteboard_stand_df"/>
-        <reflection_texture type="cubemap" file="environments/cubemaps/cubemap_steel"/>
-        <variable value="1 0 2" type="vector3" name="environment_settings"/>
-        <bump_normal_texture file="units/payday2/textures/blank_nm"/>
-    </material>
-</materials>

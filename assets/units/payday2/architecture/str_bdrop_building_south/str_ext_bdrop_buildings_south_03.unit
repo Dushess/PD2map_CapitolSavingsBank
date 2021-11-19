@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<unit type="str" slot="1">
-	<object file="units/payday2/architecture/str_bdrop_building_south/str_ext_bdrop_buildings_south_03" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>

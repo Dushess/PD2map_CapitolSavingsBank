@@ -1,5 +1,0 @@
-<materials version="3" group="suburbia_wall_outlett">
-    <material name="mtr_wall_outlet_outline" render_template="generic:DIFFUSE_TEXTURE" version="2">
-        <diffuse_texture file="units/world/architecture/suburbia/textures/interior_props_df"/>
-    </material>
-</materials>

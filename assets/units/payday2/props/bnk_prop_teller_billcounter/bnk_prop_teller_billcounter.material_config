@@ -1,6 +1,0 @@
-<materials version="3">
-    <material name="mat_billcounter" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
-        <diffuse_texture file="units/payday2/props/bnk_prop_teller_billcounter/bnk_prop_teller_billcounter_df"/>
-        <bump_normal_texture file="units/payday2/props/bnk_prop_teller_billcounter/bnk_prop_teller_billcounter_nm"/>
-    </material>
-</materials>
